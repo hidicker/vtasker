@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="GpsDump 4.72"
+     version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.gethome.no/stein.sorensen/">
+      <text>GPS dump for www.flightlog.org</text>
+    </link>
+    <time>2015-10-24T00:57:27Z</time>
+    <bounds minlat="-38.065972" minlon="171.887339" maxlat="-35.865667" maxlon="175.244861"/>
+  </metadata>
+  <wpt lat="-35.997194" lon="174.480361">
+    <ele>1.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A01</name>
+    <cmt>Waipu</cmt>
+    <desc>Waipu</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.100194" lon="174.588222">
+    <ele>38.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A02</name>
+    <cmt>Mangawhai Heads</cmt>
+    <desc>Mangawhai Heads</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.117056" lon="174.310944">
+    <ele>44.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A03</name>
+    <cmt>Maungaturoto</cmt>
+    <desc>Maungaturoto</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.220417" lon="174.641167">
+    <ele>76.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A04</name>
+    <cmt>Tomarata</cmt>
+    <desc>Tomarata</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.295583" lon="174.425167">
+    <ele>58.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A05</name>
+    <cmt>Port Albert</cmt>
+    <desc>Port Albert</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.298833" lon="174.714333">
+    <ele>437.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A06</name>
+    <cmt>Tamahunga Mountain</cmt>
+    <desc>Tamahunga Mountain</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.303333" lon="174.526667">
+    <ele>60.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A07</name>
+    <cmt>Wellsford</cmt>
+    <desc>Wellsford</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.314472" lon="174.767639">
+    <ele>2.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A08</name>
+    <cmt>Wangateau</cmt>
+    <desc>Wangateau</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.339889" lon="174.814083">
+    <ele>2.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A09</name>
+    <cmt>Omaha Beach</cmt>
+    <desc>Omaha Beach</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.352500" lon="174.717583">
+    <ele>15.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A10</name>
+    <cmt>Matakana</cmt>
+    <desc>Matakana</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.364667" lon="174.637861">
+    <ele>301.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A11</name>
+    <cmt>Sheep Hill</cmt>
+    <desc>Sheep Hill</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.373806" lon="174.608472">
+    <ele>300.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A12</name>
+    <cmt>Kraack</cmt>
+    <desc>Kraack</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.368778" lon="174.857278">
+    <ele>91.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A13</name>
+    <cmt>Tawharanui</cmt>
+    <desc>Tawharanui</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.375250" lon="174.824056">
+    <ele>38.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A14</name>
+    <cmt>Jones Bay</cmt>
+    <desc>Jones Bay</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.389111" lon="174.729639">
+    <ele>2.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A15</name>
+    <cmt>Sandspit</cmt>
+    <desc>Sandspit</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.398139" lon="174.659000">
+    <ele>27.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A16</name>
+    <cmt>Warkworth</cmt>
+    <desc>Warkworth</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.408528" lon="174.544694">
+    <ele>38.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A17</name>
+    <cmt>Kaipara Flats</cmt>
+    <desc>Kaipara Flats</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.433333" lon="174.663472">
+    <ele>75.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A18</name>
+    <cmt>Satellite Dish</cmt>
+    <desc>Satellite Dish</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.435667" lon="174.756778">
+    <ele>25.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A19</name>
+    <cmt>Algies Bay</cmt>
+    <desc>Algies Bay</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.440944" lon="174.609000">
+    <ele>297.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A20</name>
+    <cmt>Dark Summit</cmt>
+    <desc>Dark Summit</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.443083" lon="174.541944">
+    <ele>100.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A21</name>
+    <cmt>Dills North</cmt>
+    <desc>Dills North</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.445222" lon="174.455611">
+    <ele>304.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A22</name>
+    <cmt>Mt Auckland</cmt>
+    <desc>Mt Auckland</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.464444" lon="174.554806">
+    <ele>261.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A23</name>
+    <cmt>Pine Hill</cmt>
+    <desc>Pine Hill</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.479972" lon="174.560083">
+    <ele>56.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A24</name>
+    <cmt>Ahuroa</cmt>
+    <desc>Ahuroa</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.486694" lon="174.596111">
+    <ele>177.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A25</name>
+    <cmt>Tolhopf</cmt>
+    <desc>Tolhopf</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.501222" lon="174.570778">
+    <ele>75.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A26</name>
+    <cmt>Ahuroa Valley</cmt>
+    <desc>Ahuroa Valley</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.550917" lon="174.492556">
+    <ele>20.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A27</name>
+    <cmt>Makarau</cmt>
+    <desc>Makarau</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.617917" lon="174.494917">
+    <ele>17.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A28</name>
+    <cmt>Kaukapakapa</cmt>
+    <desc>Kaukapakapa</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.634556" lon="174.551417">
+    <ele>5.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A29</name>
+    <cmt>Waitoki</cmt>
+    <desc>Waitoki</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.756861" lon="174.452611">
+    <ele>16.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A30</name>
+    <cmt>Rewiti</cmt>
+    <desc>Rewiti</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.739917" lon="174.529139">
+    <ele>36.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A31</name>
+    <cmt>Hoppers Happy Hens</cmt>
+    <desc>Hoppers Happy Hens</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.651694" lon="174.600639">
+    <ele>102.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A32</name>
+    <cmt>Nick House</cmt>
+    <desc>Nick House</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.512444" lon="174.537194">
+    <ele>146.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A33</name>
+    <cmt>Airstrip</cmt>
+    <desc>Airstrip</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.595111" lon="174.548972">
+    <ele>251.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A34</name>
+    <cmt>Trig</cmt>
+    <desc>Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-35.865667" lon="174.029583">
+    <ele>14.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>A35</name>
+    <cmt>Railway Bridge</cmt>
+    <desc>Railway Bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.516167" lon="175.225528">
+    <ele>222.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B01</name>
+    <cmt>Hilltop</cmt>
+    <desc>Hilltop</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.529556" lon="175.244861">
+    <ele>40.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B02</name>
+    <cmt>Int Rutherfurd Pizzini Rd</cmt>
+    <desc>Int Rutherfurd Pizzini Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.542639" lon="175.148889">
+    <ele>19.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B03</name>
+    <cmt>Huntly Power Station</cmt>
+    <desc>Huntly Power Station</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.578417" lon="174.849083">
+    <ele>136.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B04</name>
+    <cmt>Int Matira Waikorea Valley Rd</cmt>
+    <desc>Int Matira Waikorea Valley Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.602889" lon="175.186194">
+    <ele>278.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B05</name>
+    <cmt>Tuapiri Peak</cmt>
+    <desc>Tuapiri Peak</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.668250" lon="174.874167">
+    <ele>19.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B06</name>
+    <cmt>Te Akau School</cmt>
+    <desc>Te Akau School</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.661917" lon="175.124611">
+    <ele>374.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B07</name>
+    <cmt>Hakarimata Pk</cmt>
+    <desc>Hakarimata Pk</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.720194" lon="174.839056">
+    <ele>19.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B08</name>
+    <cmt>Neilson Road End</cmt>
+    <desc>Neilson Road End</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.733028" lon="174.968194">
+    <ele>18.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B09</name>
+    <cmt>Int Ohautira Rd Te Uku Waingaru Rd</cmt>
+    <desc>Int Ohautira Rd Te Uku Waingaru Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.815056" lon="174.835500">
+    <ele>60.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B10</name>
+    <cmt>Raglan Launch</cmt>
+    <desc>Raglan Launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.829139" lon="174.956667">
+    <ele>25.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B11</name>
+    <cmt>Int SHW23 Okete Rd</cmt>
+    <desc>Int SHW23 Okete Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.065972" lon="174.780389">
+    <ele>1.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>B12</name>
+    <cmt>Beach -Te Puia Springs-</cmt>
+    <desc>Beach -Te Puia Springs-</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.481833" lon="174.462861">
+    <ele>260.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>L01</name>
+    <cmt>Five Fingers</cmt>
+    <desc>Five Fingers</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.492778" lon="174.475639">
+    <ele>263.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>L02</name>
+    <cmt>Bridges</cmt>
+    <desc>Bridges</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.456694" lon="174.548056">
+    <ele>216.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>L03</name>
+    <cmt>Dills</cmt>
+    <desc>Dills</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.471167" lon="174.585833">
+    <ele>300.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>L04</name>
+    <cmt>Moirs</cmt>
+    <desc>Moirs</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-36.384889" lon="174.484333">
+    <ele>160.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>L05</name>
+    <cmt>Gubbs Launch</cmt>
+    <desc>Gubbs Launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.533056" lon="175.223639">
+    <ele>239.0</ele>
+    <time>2015-10-23T20:22:43</time>
+    <name>L06</name>
+    <cmt>Pukemore Launch</cmt>
+    <desc>Pukemore Launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+</gpx>

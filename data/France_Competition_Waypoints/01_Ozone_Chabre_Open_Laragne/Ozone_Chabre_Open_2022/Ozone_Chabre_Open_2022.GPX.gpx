@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2022-07-12T13:23:18Z</time>
+<bounds minlat="44.254275000" minlon="5.509161100" maxlat="44.540833300" maxlon="5.744391700"/>
+<wpt lat="44.254275000" lon="5.509161100">
+  <ele>1180.000000</ele>
+  <name>B49118</name>
+  <cmt>La Trappe</cmt>
+  <desc>La Trappe</desc>
+</wpt>
+<wpt lat="44.330247200" lon="5.704458300">
+  <ele>1300.000000</ele>
+  <name>B36130</name>
+  <cmt>Orpierre Suillet</cmt>
+  <desc>Orpierre Suillet</desc>
+</wpt>
+<wpt lat="44.540833300" lon="5.744391700">
+  <ele>1490.000000</ele>
+  <name>B32149</name>
+  <cmt>Aspres Aerials</cmt>
+  <desc>Aspres Aerials</desc>
+</wpt>
+</gpx>

@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2022-09-09T22:33:27Z</time>
+<bounds minlat="-41.603500000" minlon="175.238422000" maxlat="-37.286194000" maxlon="177.388086000"/>
+<wpt lat="-39.852965179" lon="176.892403227">
+  <ele>435.000000</ele>
+  <name>HB134</name>
+  <cmt>Wairunga</cmt>
+  <desc>Wairunga</desc>
+</wpt>
+<wpt lat="-39.788415404" lon="176.933608396">
+  <ele>299.000000</ele>
+  <name>HB133</name>
+  <cmt>Koanui 2</cmt>
+  <desc>Koanui 2</desc>
+</wpt>
+<wpt lat="-39.755493669" lon="176.928076522">
+  <ele>160.000000</ele>
+  <name>HB132</name>
+  <cmt>Koanui 1</cmt>
+  <desc>Koanui 1</desc>
+</wpt>
+<wpt lat="-37.810556000" lon="175.891278000">
+  <ele>331.000000</ele>
+  <name>S01</name>
+  <cmt>Airstrip</cmt>
+  <desc>Airstrip</desc>
+</wpt>
+<wpt lat="-37.820639000" lon="175.905778000">
+  <ele>725.000000</ele>
+  <name>S02</name>
+  <cmt>Launch</cmt>
+  <desc>Launch</desc>
+</wpt>
+<wpt lat="-38.342250000" lon="176.293611000">
+  <ele>560.000000</ele>
+  <name>S03</name>
+  <cmt>Launch</cmt>
+  <desc>Launch</desc>
+</wpt>
+<wpt lat="-38.362194000" lon="176.342278000">
+  <ele>560.000000</ele>
+  <name>S04</name>
+  <cmt>Launch</cmt>
+  <desc>Launch</desc>
+</wpt>
+<wpt lat="-38.374000000" lon="176.263722000">
+  <ele>902.000000</ele>
+  <name>S05</name>
+  <cmt>Launch</cmt>
+  <desc>Launch</desc>
+</wpt>
+<wpt lat="-37.333917000" lon="175.688778000">
+  <ele>245.000000</ele>
+  <name>S06</name>
+  <cmt>Alans</cmt>
+  <desc>Alans</desc>
+</wpt>
+<wpt lat="-37.286194000" lon="175.679472000">
+  <ele>13.000000</ele>
+  <name>W01</name>
+  <cmt>End</cmt>
+  <desc>End</desc>
+</wpt>
+<wpt lat="-37.409472000" lon="175.861333000">
+  <ele>99.000000</ele>
+  <name>W02</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-37.437222000" lon="175.642917000">
+  <ele>15.000000</ele>
+  <name>W03</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-37.533528000" lon="175.742167000">
+  <ele>939.000000</ele>
+  <name>W04</name>
+  <cmt>Hill</cmt>
+  <desc>Hill</desc>
+</wpt>
+<wpt lat="-37.564861000" lon="175.740139000">
+  <ele>20.000000</ele>
+  <name>W05</name>
+  <cmt>Bridge</cmt>
+  <desc>Bridge</desc>
+</wpt>
+<wpt lat="-37.584528000" lon="175.813306000">
+  <ele>600.000000</ele>
+  <name>W06</name>
+  <cmt>Ridge</cmt>
+  <desc>Ridge</desc>
+</wpt>
+<wpt lat="-37.588444000" lon="175.787111000">
+  <ele>36.000000</ele>
+  <name>W07</name>
+  <cmt>Ford</cmt>
+  <desc>Ford</desc>
+</wpt>
+<wpt lat="-37.598833000" lon="175.628361000">
+  <ele>17.000000</ele>
+  <name>W08</name>
+  <cmt>Waitoa</cmt>
+  <desc>Waitoa</desc>
+</wpt>
+<wpt lat="-37.625028000" lon="175.593000000">
+  <ele>20.000000</ele>
+  <name>W09</name>
+  <cmt>Tatuanui</cmt>
+  <desc>Tatuanui</desc>
+</wpt>
+<wpt lat="-37.628472000" lon="175.773611000">
+  <ele>22.000000</ele>
+  <name>W10</name>
+  <cmt>Shaftesbury</cmt>
+  <desc>Shaftesbury</desc>
+</wpt>
+<wpt lat="-37.699194000" lon="175.845944000">
+  <ele>42.000000</ele>
+  <name>W11</name>
+  <cmt>Tunnel</cmt>
+  <desc>Tunnel</desc>
+</wpt>
+<wpt lat="-37.749139000" lon="175.882694000">
+  <ele>320.000000</ele>
+  <name>W12</name>
+  <cmt>Water</cmt>
+  <desc>Water</desc>
+</wpt>
+<wpt lat="-37.795611000" lon="175.877778000">
+  <ele>264.000000</ele>
+  <name>W13</name>
+  <cmt>Ridge</cmt>
+  <desc>Ridge</desc>
+</wpt>
+<wpt lat="-37.797694000" lon="175.731944000">
+  <ele>75.000000</ele>
+  <name>W14</name>
+  <cmt>Peria</cmt>
+  <desc>Peria</desc>
+</wpt>
+<wpt lat="-37.802889000" lon="175.806611000">
+  <ele>59.000000</ele>
+  <name>W15</name>
+  <cmt>Tower</cmt>
+  <desc>Tower</desc>
+</wpt>
+<wpt lat="-37.817778000" lon="175.868278000">
+  <ele>119.000000</ele>
+  <name>W16</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-37.818667000" lon="175.804056000">
+  <ele>60.000000</ele>
+  <name>W17</name>
+  <cmt>Sewage</cmt>
+  <desc>Sewage</desc>
+</wpt>
+<wpt lat="-37.828444000" lon="175.905889000">
+  <ele>765.000000</ele>
+  <name>W18</name>
+  <cmt>Te</cmt>
+  <desc>Te</desc>
+</wpt>
+<wpt lat="-37.848861000" lon="175.907444000">
+  <ele>506.000000</ele>
+  <name>W19</name>
+  <cmt>Ridge</cmt>
+  <desc>Ridge</desc>
+</wpt>
+<wpt lat="-37.871083000" lon="175.880972000">
+  <ele>69.000000</ele>
+  <name>W20</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-37.880417000" lon="175.936278000">
+  <ele>646.000000</ele>
+  <name>W21</name>
+  <cmt>Tower</cmt>
+  <desc>Tower</desc>
+</wpt>
+<wpt lat="-37.930500000" lon="175.673306000">
+  <ele>93.000000</ele>
+  <name>W22</name>
+  <cmt>Piarere</cmt>
+  <desc>Piarere</desc>
+</wpt>
+<wpt lat="-37.956833000" lon="175.903278000">
+  <ele>349.000000</ele>
+  <name>W23</name>
+  <cmt>Takaparu</cmt>
+  <desc>Takaparu</desc>
+</wpt>
+<wpt lat="-37.986306000" lon="175.841222000">
+  <ele>120.000000</ele>
+  <name>W24</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.031083000" lon="175.997500000">
+  <ele>510.000000</ele>
+  <name>W25</name>
+  <cmt>Airstrip</cmt>
+  <desc>Airstrip</desc>
+</wpt>
+<wpt lat="-38.050528000" lon="175.780722000">
+  <ele>139.000000</ele>
+  <name>W26</name>
+  <cmt>Putaruru</cmt>
+  <desc>Putaruru</desc>
+</wpt>
+<wpt lat="-38.070222000" lon="176.137139000">
+  <ele>459.000000</ele>
+  <name>W27</name>
+  <cmt>Tarukenga</cmt>
+  <desc>Tarukenga</desc>
+</wpt>
+<wpt lat="-38.089000000" lon="176.076139000">
+  <ele>579.000000</ele>
+  <name>W28</name>
+  <cmt>Mamaku</cmt>
+  <desc>Mamaku</desc>
+</wpt>
+<wpt lat="-38.367222000" lon="176.252778000">
+  <ele>400.000000</ele>
+  <name>W46</name>
+  <cmt>Te</cmt>
+  <desc>Te</desc>
+</wpt>
+<wpt lat="-38.369528000" lon="176.221167000">
+  <ele>627.000000</ele>
+  <name>W47</name>
+  <cmt>Trig</cmt>
+  <desc>Trig</desc>
+</wpt>
+<wpt lat="-38.372306000" lon="176.195417000">
+  <ele>535.000000</ele>
+  <name>W48</name>
+  <cmt>Trig</cmt>
+  <desc>Trig</desc>
+</wpt>
+<wpt lat="-38.376306000" lon="176.230056000">
+  <ele>596.000000</ele>
+  <name>W49</name>
+  <cmt>Hill</cmt>
+  <desc>Hill</desc>
+</wpt>
+<wpt lat="-38.380556000" lon="176.258361000">
+  <ele>979.000000</ele>
+  <name>W50</name>
+  <cmt>Trans</cmt>
+  <desc>Trans</desc>
+</wpt>
+<wpt lat="-38.380917000" lon="176.373639000">
+  <ele>375.000000</ele>
+  <name>W51</name>
+  <cmt>Hill</cmt>
+  <desc>Hill</desc>
+</wpt>
+<wpt lat="-38.386056000" lon="176.342111000">
+  <ele>324.000000</ele>
+  <name>W52</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.392667000" lon="176.023722000">
+  <ele>240.000000</ele>
+  <name>W53</name>
+  <cmt>Atimuri</cmt>
+  <desc>Atimuri</desc>
+</wpt>
+<wpt lat="-38.395556000" lon="176.236556000">
+  <ele>975.000000</ele>
+  <name>W54</name>
+  <cmt>Hill</cmt>
+  <desc>Hill</desc>
+</wpt>
+<wpt lat="-38.402194000" lon="176.225000000">
+  <ele>675.000000</ele>
+  <name>W55</name>
+  <cmt>Spur</cmt>
+  <desc>Spur</desc>
+</wpt>
+<wpt lat="-38.410167000" lon="176.209694000">
+  <ele>410.000000</ele>
+  <name>W56</name>
+  <cmt>Thermal</cmt>
+  <desc>Thermal</desc>
+</wpt>
+<wpt lat="-38.434333000" lon="176.193639000">
+  <ele>578.000000</ele>
+  <name>W57</name>
+  <cmt>H578</cmt>
+  <desc>H578</desc>
+</wpt>
+<wpt lat="-38.437111000" lon="176.345222000">
+  <ele>299.000000</ele>
+  <name>W58</name>
+  <cmt>Reporoa</cmt>
+  <desc>Reporoa</desc>
+</wpt>
+<wpt lat="-38.464472000" lon="176.718444000">
+  <ele>193.000000</ele>
+  <name>W59</name>
+  <cmt>Rangitahi</cmt>
+  <desc>Rangitahi</desc>
+</wpt>
+<wpt lat="-38.492806000" lon="176.383694000">
+  <ele>320.000000</ele>
+  <name>W60</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.509639000" lon="176.187500000">
+  <ele>366.000000</ele>
+  <name>W61</name>
+  <cmt>Waikato</cmt>
+  <desc>Waikato</desc>
+</wpt>
+<wpt lat="-38.512250000" lon="176.332222000">
+  <ele>299.000000</ele>
+  <name>W62</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.517944000" lon="176.474611000">
+  <ele>553.000000</ele>
+  <name>W63</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.528694000" lon="176.293306000">
+  <ele>348.000000</ele>
+  <name>W64</name>
+  <cmt>Ohaaki</cmt>
+  <desc>Ohaaki</desc>
+</wpt>
+<wpt lat="-38.549333000" lon="176.522139000">
+  <ele>462.000000</ele>
+  <name>W65</name>
+  <cmt>Bend</cmt>
+  <desc>Bend</desc>
+</wpt>
+<wpt lat="-38.612028000" lon="176.264778000">
+  <ele>300.000000</ele>
+  <name>W66</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.631944000" lon="176.272944000">
+  <ele>393.000000</ele>
+  <name>W67</name>
+  <cmt>Pt</cmt>
+  <desc>Pt</desc>
+</wpt>
+<wpt lat="-38.646139000" lon="176.725722000">
+  <ele>372.000000</ele>
+  <name>W68</name>
+  <cmt>Airstrip</cmt>
+  <desc>Airstrip</desc>
+</wpt>
+<wpt lat="-38.878694000" lon="176.370972000">
+  <ele>720.000000</ele>
+  <name>W69</name>
+  <cmt>Rangitaiki</cmt>
+  <desc>Rangitaiki</desc>
+</wpt>
+<wpt lat="-38.977694000" lon="176.411222000">
+  <ele>755.000000</ele>
+  <name>W70</name>
+  <cmt>Airstrip</cmt>
+  <desc>Airstrip</desc>
+</wpt>
+<wpt lat="-38.681917000" lon="176.176444000">
+  <ele>700.000000</ele>
+  <name>W71</name>
+  <cmt>Lookout</cmt>
+  <desc>Lookout</desc>
+</wpt>
+<wpt lat="-38.485972000" lon="176.282028000">
+  <ele>300.000000</ele>
+  <name>W72</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.466611000" lon="176.489528000">
+  <ele>543.000000</ele>
+  <name>W73</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.425083000" lon="176.315667000">
+  <ele>318.000000</ele>
+  <name>W74</name>
+  <cmt>Dairy</cmt>
+  <desc>Dairy</desc>
+</wpt>
+<wpt lat="-39.694567000" lon="176.921228000">
+  <ele>43.000000</ele>
+  <name>HB031</name>
+  <cmt>TMP LZ</cmt>
+  <desc>TMP LZ</desc>
+</wpt>
+<wpt lat="-40.132180892" lon="176.365749858">
+  <ele>398.000000</ele>
+  <name>HB131</name>
+  <cmt>Turiri Start</cmt>
+  <desc>Turiri Start</desc>
+</wpt>
+<wpt lat="-40.126198135" lon="176.375582300">
+  <ele>509.000000</ele>
+  <name>HB130</name>
+  <cmt>Turiri LZ</cmt>
+  <desc>Turiri LZ</desc>
+</wpt>
+<wpt lat="-39.759562535" lon="176.689260013">
+  <ele>75.000000</ele>
+  <name>HB129</name>
+  <cmt>Burma CP</cmt>
+  <desc>Burma CP</desc>
+</wpt>
+<wpt lat="-39.756114939" lon="176.688401707">
+  <ele>100.000000</ele>
+  <name>HB128</name>
+  <cmt>Burma LZ</cmt>
+  <desc>Burma LZ</desc>
+</wpt>
+<wpt lat="-39.820087327" lon="176.988805534">
+  <ele>26.000000</ele>
+  <name>HB127</name>
+  <cmt>Azza</cmt>
+  <desc>Azza</desc>
+</wpt>
+<wpt lat="-39.628173655" lon="176.809324042">
+  <ele>14.000000</ele>
+  <name>HB126</name>
+  <cmt>Websters House</cmt>
+  <desc>Websters House</desc>
+</wpt>
+<wpt lat="-39.741556000" lon="176.724000000">
+  <ele>120.000000</ele>
+  <name>HB125</name>
+  <cmt>Horonui</cmt>
+  <desc>Horonui</desc>
+</wpt>
+<wpt lat="-39.069497000" lon="177.023461000">
+  <ele>286.000000</ele>
+  <name>HB124</name>
+  <cmt>Kotemaori</cmt>
+  <desc>Kotemaori</desc>
+</wpt>
+<wpt lat="-39.134283000" lon="176.739928000">
+  <ele>1296.000000</ele>
+  <name>HB123</name>
+  <cmt>Taraponui</cmt>
+  <desc>Taraponui</desc>
+</wpt>
+<wpt lat="-38.753489000" lon="177.155614000">
+  <ele>590.000000</ele>
+  <name>HB122</name>
+  <cmt>Waikaremoana</cmt>
+  <desc>Waikaremoana</desc>
+</wpt>
+<wpt lat="-38.613347000" lon="176.959975000">
+  <ele>409.000000</ele>
+  <name>HB121</name>
+  <cmt>Ruatahuna</cmt>
+  <desc>Ruatahuna</desc>
+</wpt>
+<wpt lat="-39.697192000" lon="176.937942000">
+  <ele>36.000000</ele>
+  <name>HB120</name>
+  <cmt>Tuki2</cmt>
+  <desc>Tuki2</desc>
+</wpt>
+<wpt lat="-38.588667000" lon="176.779644000">
+  <ele>326.000000</ele>
+  <name>HB119</name>
+  <cmt>Minginui</cmt>
+  <desc>Minginui</desc>
+</wpt>
+<wpt lat="-39.124336000" lon="175.391703000">
+  <ele>588.000000</ele>
+  <name>HB118</name>
+  <cmt>Raurimu</cmt>
+  <desc>Raurimu</desc>
+</wpt>
+<wpt lat="-38.881536000" lon="175.678581000">
+  <ele>458.000000</ele>
+  <name>HB117</name>
+  <cmt>Kurutau</cmt>
+  <desc>Kurutau</desc>
+</wpt>
+<wpt lat="-38.473217000" lon="176.057514000">
+  <ele>514.000000</ele>
+  <name>HB116</name>
+  <cmt>Ohakuri</cmt>
+  <desc>Ohakuri</desc>
+</wpt>
+<wpt lat="-38.694036000" lon="176.163192000">
+  <ele>1076.000000</ele>
+  <name>HB115</name>
+  <cmt>Tauhara</cmt>
+  <desc>Tauhara</desc>
+</wpt>
+<wpt lat="-38.649567000" lon="176.181714000">
+  <ele>413.000000</ele>
+  <name>HB114</name>
+  <cmt>Rotokawa</cmt>
+  <desc>Rotokawa</desc>
+</wpt>
+<wpt lat="-38.454233000" lon="176.694592000">
+  <ele>192.000000</ele>
+  <name>HB113</name>
+  <cmt>Murupara</cmt>
+  <desc>Murupara</desc>
+</wpt>
+<wpt lat="-38.318775000" lon="176.494539000">
+  <ele>455.000000</ele>
+  <name>HB112</name>
+  <cmt>Rerewhakaaitu</cmt>
+  <desc>Rerewhakaaitu</desc>
+</wpt>
+<wpt lat="-38.319353000" lon="176.388336000">
+  <ele>730.000000</ele>
+  <name>HB111</name>
+  <cmt>Rainbow</cmt>
+  <desc>Rainbow</desc>
+</wpt>
+<wpt lat="-39.803892000" lon="176.619422000">
+  <ele>328.000000</ele>
+  <name>HB110</name>
+  <cmt>TeOnepu</cmt>
+  <desc>TeOnepu</desc>
+</wpt>
+<wpt lat="-39.806825000" lon="176.994211000">
+  <ele>0.000000</ele>
+  <name>HB109</name>
+  <cmt>O9</cmt>
+  <desc>O9</desc>
+</wpt>
+<wpt lat="-39.775764000" lon="177.003083000">
+  <ele>130.000000</ele>
+  <name>HB108</name>
+  <cmt>O8</cmt>
+  <desc>O8</desc>
+</wpt>
+<wpt lat="-39.652419000" lon="177.087300000">
+  <ele>96.000000</ele>
+  <name>HB107</name>
+  <cmt>O7</cmt>
+  <desc>O7</desc>
+</wpt>
+<wpt lat="-39.683331000" lon="177.058356000">
+  <ele>176.000000</ele>
+  <name>HB106</name>
+  <cmt>O6</cmt>
+  <desc>O6</desc>
+</wpt>
+<wpt lat="-39.691786000" lon="177.031728000">
+  <ele>234.000000</ele>
+  <name>HB105</name>
+  <cmt>O5</cmt>
+  <desc>O5</desc>
+</wpt>
+<wpt lat="-39.718008000" lon="177.016747000">
+  <ele>197.000000</ele>
+  <name>HB104</name>
+  <cmt>O4</cmt>
+  <desc>O4</desc>
+</wpt>
+<wpt lat="-39.745567000" lon="177.007667000">
+  <ele>55.000000</ele>
+  <name>HB103</name>
+  <cmt>O3</cmt>
+  <desc>O3</desc>
+</wpt>
+<wpt lat="-39.741656000" lon="177.007450000">
+  <ele>74.000000</ele>
+  <name>HB102</name>
+  <cmt>O2</cmt>
+  <desc>O2</desc>
+</wpt>
+<wpt lat="-39.739411000" lon="177.007792000">
+  <ele>81.000000</ele>
+  <name>HB101</name>
+  <cmt>O1</cmt>
+  <desc>O1</desc>
+</wpt>
+<wpt lat="-38.339386000" lon="176.363806000">
+  <ele>387.000000</ele>
+  <name>HB100</name>
+  <cmt>Waiotapu</cmt>
+  <desc>Waiotapu</desc>
+</wpt>
+<wpt lat="-38.327656000" lon="176.302439000">
+  <ele>370.000000</ele>
+  <name>HB099</name>
+  <cmt>Waikite</cmt>
+  <desc>Waikite</desc>
+</wpt>
+<wpt lat="-38.502606000" lon="176.430714000">
+  <ele>450.000000</ele>
+  <name>HB098</name>
+  <cmt>Plateau</cmt>
+  <desc>Plateau</desc>
+</wpt>
+<wpt lat="-39.241931000" lon="176.381069000">
+  <ele>1637.000000</ele>
+  <name>HB097</name>
+  <cmt>Whetu</cmt>
+  <desc>Whetu</desc>
+</wpt>
+<wpt lat="-39.282811000" lon="176.379231000">
+  <ele>1715.000000</ele>
+  <name>HB096</name>
+  <cmt>J</cmt>
+  <desc>J</desc>
+</wpt>
+<wpt lat="-39.358042000" lon="176.343906000">
+  <ele>1241.000000</ele>
+  <name>HB095</name>
+  <cmt>Kuripapango</cmt>
+  <desc>Kuripapango</desc>
+</wpt>
+<wpt lat="-39.404011000" lon="176.133475000">
+  <ele>884.000000</ele>
+  <name>HB094</name>
+  <cmt>Ngamatea</cmt>
+  <desc>Ngamatea</desc>
+</wpt>
+<wpt lat="-39.679072000" lon="176.192133000">
+  <ele>1513.000000</ele>
+  <name>HB093</name>
+  <cmt>Tupari</cmt>
+  <desc>Tupari</desc>
+</wpt>
+<wpt lat="-39.774186000" lon="176.319008000">
+  <ele>726.000000</ele>
+  <name>HB092</name>
+  <cmt>Smedley</cmt>
+  <desc>Smedley</desc>
+</wpt>
+<wpt lat="-39.797600000" lon="176.202208000">
+  <ele>610.000000</ele>
+  <name>HB091</name>
+  <cmt>Triplex</cmt>
+  <desc>Triplex</desc>
+</wpt>
+<wpt lat="-39.967181000" lon="176.071769000">
+  <ele>1559.000000</ele>
+  <name>HB090</name>
+  <cmt>Tunupo</cmt>
+  <desc>Tunupo</desc>
+</wpt>
+<wpt lat="-39.861731000" lon="176.127819000">
+  <ele>1658.000000</ele>
+  <name>HB089</name>
+  <cmt>Ohuinga</cmt>
+  <desc>Ohuinga</desc>
+</wpt>
+<wpt lat="-39.775369000" lon="176.768931000">
+  <ele>303.000000</ele>
+  <name>HB088</name>
+  <cmt>Goat</cmt>
+  <desc>Goat</desc>
+</wpt>
+<wpt lat="-38.877036000" lon="176.364006000">
+  <ele>709.000000</ele>
+  <name>HB087</name>
+  <cmt>Lochinver</cmt>
+  <desc>Lochinver</desc>
+</wpt>
+<wpt lat="-39.732622000" lon="176.909389000">
+  <ele>37.000000</ele>
+  <name>HB086</name>
+  <cmt>Euchre</cmt>
+  <desc>Euchre</desc>
+</wpt>
+<wpt lat="-39.672553000" lon="176.934736000">
+  <ele>31.000000</ele>
+  <name>HB085</name>
+  <cmt>OTR</cmt>
+  <desc>OTR</desc>
+</wpt>
+<wpt lat="-39.685350000" lon="176.862497000">
+  <ele>19.000000</ele>
+  <name>HB084</name>
+  <cmt>Iona</cmt>
+  <desc>Iona</desc>
+</wpt>
+<wpt lat="-39.711714000" lon="176.831978000">
+  <ele>55.000000</ele>
+  <name>HB083</name>
+  <cmt>Websters</cmt>
+  <desc>Websters</desc>
+</wpt>
+<wpt lat="-39.665292000" lon="176.895197000">
+  <ele>29.000000</ele>
+  <name>HB082</name>
+  <cmt>HNHS</cmt>
+  <desc>HNHS</desc>
+</wpt>
+<wpt lat="-39.711742000" lon="176.894414000">
+  <ele>188.000000</ele>
+  <name>HB081</name>
+  <cmt>Tauroa</cmt>
+  <desc>Tauroa</desc>
+</wpt>
+<wpt lat="-39.728258000" lon="176.945122000">
+  <ele>99.000000</ele>
+  <name>HB080</name>
+  <cmt>Lopez</cmt>
+  <desc>Lopez</desc>
+</wpt>
+<wpt lat="-39.696150000" lon="176.916161000">
+  <ele>115.000000</ele>
+  <name>HB079</name>
+  <cmt>Middle</cmt>
+  <desc>Middle</desc>
+</wpt>
+<wpt lat="-39.704742000" lon="176.922092000">
+  <ele>146.000000</ele>
+  <name>HB078</name>
+  <cmt>Smalls</cmt>
+  <desc>Smalls</desc>
+</wpt>
+<wpt lat="-39.708239000" lon="176.938631000">
+  <ele>69.000000</ele>
+  <name>HB077</name>
+  <cmt>Tuki1</cmt>
+  <desc>Tuki1</desc>
+</wpt>
+<wpt lat="-41.392767000" lon="175.364672000">
+  <ele>310.000000</ele>
+  <name>HB076</name>
+  <cmt>Aorangi</cmt>
+  <desc>Aorangi</desc>
+</wpt>
+<wpt lat="-41.072764000" lon="175.701494000">
+  <ele>438.000000</ele>
+  <name>HB075</name>
+  <cmt>Kourarau</cmt>
+  <desc>Kourarau</desc>
+</wpt>
+<wpt lat="-40.196786000" lon="176.111519000">
+  <ele>219.000000</ele>
+  <name>HB074</name>
+  <cmt>Dannevirke</cmt>
+  <desc>Dannevirke</desc>
+</wpt>
+<wpt lat="-40.067811000" lon="176.220292000">
+  <ele>368.000000</ele>
+  <name>HB073</name>
+  <cmt>Norsewood</cmt>
+  <desc>Norsewood</desc>
+</wpt>
+<wpt lat="-39.543750000" lon="176.435039000">
+  <ele>271.000000</ele>
+  <name>HB072</name>
+  <cmt>Whanawhana</cmt>
+  <desc>Whanawhana</desc>
+</wpt>
+<wpt lat="-39.909119000" lon="176.412069000">
+  <ele>206.000000</ele>
+  <name>HB071</name>
+  <cmt>Ongaonga</cmt>
+  <desc>Ongaonga</desc>
+</wpt>
+<wpt lat="-39.812961000" lon="176.458486000">
+  <ele>248.000000</ele>
+  <name>HB070</name>
+  <cmt>Tikokino</cmt>
+  <desc>Tikokino</desc>
+</wpt>
+<wpt lat="-40.015461000" lon="176.357325000">
+  <ele>230.000000</ele>
+  <name>HB069</name>
+  <cmt>Takapau</cmt>
+  <desc>Takapau</desc>
+</wpt>
+<wpt lat="-40.301739000" lon="176.610097000">
+  <ele>9.000000</ele>
+  <name>HB068</name>
+  <cmt>Porangahau</cmt>
+  <desc>Porangahau</desc>
+</wpt>
+<wpt lat="-40.116214000" lon="176.460461000">
+  <ele>232.000000</ele>
+  <name>HB067</name>
+  <cmt>Trevors</cmt>
+  <desc>Trevors</desc>
+</wpt>
+<wpt lat="-40.137886000" lon="176.537886000">
+  <ele>67.000000</ele>
+  <name>HB066</name>
+  <cmt>Wanstead</cmt>
+  <desc>Wanstead</desc>
+</wpt>
+<wpt lat="-40.010842000" lon="176.540125000">
+  <ele>137.000000</ele>
+  <name>HB065</name>
+  <cmt>Waipukurau</cmt>
+  <desc>Waipukurau</desc>
+</wpt>
+<wpt lat="-39.915236000" lon="176.817333000">
+  <ele>165.000000</ele>
+  <name>HB064</name>
+  <cmt>Elsthorpe</cmt>
+  <desc>Elsthorpe</desc>
+</wpt>
+<wpt lat="-39.761153000" lon="176.794558000">
+  <ele>105.000000</ele>
+  <name>HB063</name>
+  <cmt>Blind</cmt>
+  <desc>Blind</desc>
+</wpt>
+<wpt lat="-39.758856000" lon="176.844917000">
+  <ele>46.000000</ele>
+  <name>HB062</name>
+  <cmt>Rochfort</cmt>
+  <desc>Rochfort</desc>
+</wpt>
+<wpt lat="-39.685261000" lon="176.916692000">
+  <ele>270.000000</ele>
+  <name>HB061</name>
+  <cmt>Triangle</cmt>
+  <desc>Triangle</desc>
+</wpt>
+<wpt lat="-39.671086000" lon="176.921219000">
+  <ele>37.000000</ele>
+  <name>HB060</name>
+  <cmt>Cheese</cmt>
+  <desc>Cheese</desc>
+</wpt>
+<wpt lat="-39.684706000" lon="176.949269000">
+  <ele>218.000000</ele>
+  <name>HB059</name>
+  <cmt>Fert-Bin</cmt>
+  <desc>Fert-Bin</desc>
+</wpt>
+<wpt lat="-39.711908000" lon="176.960008000">
+  <ele>325.000000</ele>
+  <name>HB058</name>
+  <cmt>Craggy</cmt>
+  <desc>Craggy</desc>
+</wpt>
+<wpt lat="-39.714989000" lon="176.927744000">
+  <ele>28.000000</ele>
+  <name>HB057</name>
+  <cmt>RedBridge</cmt>
+  <desc>RedBridge</desc>
+</wpt>
+<wpt lat="-39.795608000" lon="176.872467000">
+  <ele>637.000000</ele>
+  <name>HB056</name>
+  <cmt>Kahuranaki</cmt>
+  <desc>Kahuranaki</desc>
+</wpt>
+<wpt lat="-39.739625000" lon="176.841094000">
+  <ele>485.000000</ele>
+  <name>HB055</name>
+  <cmt>Erin</cmt>
+  <desc>Erin</desc>
+</wpt>
+<wpt lat="-39.751042000" lon="176.783650000">
+  <ele>391.000000</ele>
+  <name>HB054</name>
+  <cmt>Mutiny</cmt>
+  <desc>Mutiny</desc>
+</wpt>
+<wpt lat="-39.695203000" lon="176.796069000">
+  <ele>55.000000</ele>
+  <name>HB053</name>
+  <cmt>Pakipaki</cmt>
+  <desc>Pakipaki</desc>
+</wpt>
+<wpt lat="-39.827464000" lon="176.637711000">
+  <ele>81.000000</ele>
+  <name>HB052</name>
+  <cmt>TeAute</cmt>
+  <desc>TeAute</desc>
+</wpt>
+<wpt lat="-39.891419000" lon="176.622325000">
+  <ele>99.000000</ele>
+  <name>HB051</name>
+  <cmt>Otane</cmt>
+  <desc>Otane</desc>
+</wpt>
+<wpt lat="-39.931575000" lon="176.593522000">
+  <ele>142.000000</ele>
+  <name>HB050</name>
+  <cmt>Waipawa</cmt>
+  <desc>Waipawa</desc>
+</wpt>
+<wpt lat="-39.984444000" lon="176.501128000">
+  <ele>224.000000</ele>
+  <name>HB049</name>
+  <cmt>Pukeora</cmt>
+  <desc>Pukeora</desc>
+</wpt>
+<wpt lat="-39.067875000" lon="177.388086000">
+  <ele>5.000000</ele>
+  <name>HB048</name>
+  <cmt>Wairoa</cmt>
+  <desc>Wairoa</desc>
+</wpt>
+<wpt lat="-39.093178000" lon="177.286867000">
+  <ele>10.000000</ele>
+  <name>HB047</name>
+  <cmt>Waihua</cmt>
+  <desc>Waihua</desc>
+</wpt>
+<wpt lat="-39.128664000" lon="177.183114000">
+  <ele>4.000000</ele>
+  <name>HB046</name>
+  <cmt>Mohaka</cmt>
+  <desc>Mohaka</desc>
+</wpt>
+<wpt lat="-39.170733000" lon="177.086131000">
+  <ele>6.000000</ele>
+  <name>HB045</name>
+  <cmt>Waikare</cmt>
+  <desc>Waikare</desc>
+</wpt>
+<wpt lat="-39.208436000" lon="177.028858000">
+  <ele>396.000000</ele>
+  <name>HB044</name>
+  <cmt>Ridgemount</cmt>
+  <desc>Ridgemount</desc>
+</wpt>
+<wpt lat="-39.299386000" lon="176.980161000">
+  <ele>23.000000</ele>
+  <name>HB043</name>
+  <cmt>Waipatiki</cmt>
+  <desc>Waipatiki</desc>
+</wpt>
+<wpt lat="-38.147139000" lon="175.661444000">
+  <ele>186.000000</ele>
+  <name>W29</name>
+  <cmt>Puketotara</cmt>
+  <desc>Puketotara</desc>
+</wpt>
+<wpt lat="-38.202667000" lon="175.870194000">
+  <ele>320.000000</ele>
+  <name>W30</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.277222000" lon="175.903139000">
+  <ele>400.000000</ele>
+  <name>W31</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.286194000" lon="176.583806000">
+  <ele>462.000000</ele>
+  <name>W32</name>
+  <cmt>America</cmt>
+  <desc>America</desc>
+</wpt>
+<wpt lat="-38.318694000" lon="176.494611000">
+  <ele>456.000000</ele>
+  <name>W33</name>
+  <cmt>Intersection</cmt>
+  <desc>Intersection</desc>
+</wpt>
+<wpt lat="-38.324611000" lon="176.294639000">
+  <ele>373.000000</ele>
+  <name>W34</name>
+  <cmt>Intersection</cmt>
+  <desc>Intersection</desc>
+</wpt>
+<wpt lat="-38.326972000" lon="176.303139000">
+  <ele>362.000000</ele>
+  <name>W35</name>
+  <cmt>Waikeite</cmt>
+  <desc>Waikeite</desc>
+</wpt>
+<wpt lat="-38.334222000" lon="176.057833000">
+  <ele>280.000000</ele>
+  <name>W36</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.336472000" lon="176.287278000">
+  <ele>358.000000</ele>
+  <name>W37</name>
+  <cmt>Waikite</cmt>
+  <desc>Waikite</desc>
+</wpt>
+<wpt lat="-38.337722000" lon="176.300722000">
+  <ele>612.000000</ele>
+  <name>W38</name>
+  <cmt>Trig</cmt>
+  <desc>Trig</desc>
+</wpt>
+<wpt lat="-38.339444000" lon="176.261556000">
+  <ele>371.000000</ele>
+  <name>W39</name>
+  <cmt>Hossack</cmt>
+  <desc>Hossack</desc>
+</wpt>
+<wpt lat="-38.340972000" lon="176.192889000">
+  <ele>297.000000</ele>
+  <name>W40</name>
+  <cmt>Whirinaki</cmt>
+  <desc>Whirinaki</desc>
+</wpt>
+<wpt lat="-38.346278000" lon="176.022694000">
+  <ele>292.000000</ele>
+  <name>W41</name>
+  <cmt>Int</cmt>
+  <desc>Int</desc>
+</wpt>
+<wpt lat="-38.350917000" lon="176.484639000">
+  <ele>539.000000</ele>
+  <name>W42</name>
+  <cmt>Trig</cmt>
+  <desc>Trig</desc>
+</wpt>
+<wpt lat="-38.352028000" lon="176.287722000">
+  <ele>668.000000</ele>
+  <name>W43</name>
+  <cmt>Trig</cmt>
+  <desc>Trig</desc>
+</wpt>
+<wpt lat="-38.352639000" lon="176.231778000">
+  <ele>379.000000</ele>
+  <name>W44</name>
+  <cmt>Intersection</cmt>
+  <desc>Intersection</desc>
+</wpt>
+<wpt lat="-38.364611000" lon="176.164444000">
+  <ele>298.000000</ele>
+  <name>W45</name>
+  <cmt>Bridge</cmt>
+  <desc>Bridge</desc>
+</wpt>
+<wpt lat="-38.319203000" lon="176.798875000">
+  <ele>177.000000</ele>
+  <name>HB042</name>
+  <cmt>Galatea</cmt>
+  <desc>Galatea</desc>
+</wpt>
+<wpt lat="-39.639431000" lon="176.967042000">
+  <ele>43.000000</ele>
+  <name>HB041</name>
+  <cmt>TeAwanga</cmt>
+  <desc>TeAwanga</desc>
+</wpt>
+<wpt lat="-39.276856000" lon="177.001108000">
+  <ele>46.000000</ele>
+  <name>HB040</name>
+  <cmt>Aropaoanui</cmt>
+  <desc>Aropaoanui</desc>
+</wpt>
+<wpt lat="-39.335839000" lon="176.936097000">
+  <ele>38.000000</ele>
+  <name>HB039</name>
+  <cmt>Tangoio</cmt>
+  <desc>Tangoio</desc>
+</wpt>
+<wpt lat="-38.716803000" lon="175.281578000">
+  <ele>195.000000</ele>
+  <name>HB038</name>
+  <cmt>Ongarue</cmt>
+  <desc>Ongarue</desc>
+</wpt>
+<wpt lat="-39.754725000" lon="176.681856000">
+  <ele>251.000000</ele>
+  <name>HB037</name>
+  <cmt>Burma</cmt>
+  <desc>Burma</desc>
+</wpt>
+<wpt lat="-40.123383000" lon="176.373789000">
+  <ele>634.000000</ele>
+  <name>HB036</name>
+  <cmt>Turiri</cmt>
+  <desc>Turiri</desc>
+</wpt>
+<wpt lat="-39.643350000" lon="177.013092000">
+  <ele>112.000000</ele>
+  <name>HB035</name>
+  <cmt>Clifton</cmt>
+  <desc>Clifton</desc>
+</wpt>
+<wpt lat="-39.742353000" lon="177.011578000">
+  <ele>7.000000</ele>
+  <name>HB034</name>
+  <cmt>Ocean</cmt>
+  <desc>Ocean</desc>
+</wpt>
+<wpt lat="-39.848294000" lon="176.696522000">
+  <ele>372.000000</ele>
+  <name>HB033</name>
+  <cmt>Kauahei</cmt>
+  <desc>Kauahei</desc>
+</wpt>
+<wpt lat="-39.701708909" lon="176.909595604">
+  <ele>388.000000</ele>
+  <name>HB032</name>
+  <cmt>TMP top</cmt>
+  <desc>TMP top</desc>
+</wpt>
+<wpt lat="-39.428361000" lon="175.322986000">
+  <ele>537.000000</ele>
+  <name>HB030</name>
+  <cmt>Raetihi</cmt>
+  <desc>Raetihi</desc>
+</wpt>
+<wpt lat="-39.151692000" lon="176.162053000">
+  <ele>1321.000000</ele>
+  <name>HB029</name>
+  <cmt>Boyd</cmt>
+  <desc>Boyd</desc>
+</wpt>
+<wpt lat="-39.167264000" lon="176.489100000">
+  <ele>751.000000</ele>
+  <name>HB028</name>
+  <cmt>Pakaututu</cmt>
+  <desc>Pakaututu</desc>
+</wpt>
+<wpt lat="-39.372342000" lon="176.223367000">
+  <ele>1277.000000</ele>
+  <name>HB027</name>
+  <cmt>Hogget</cmt>
+  <desc>Hogget</desc>
+</wpt>
+<wpt lat="-40.109958000" lon="176.011661000">
+  <ele>1015.000000</ele>
+  <name>HB026</name>
+  <cmt>Takapari</cmt>
+  <desc>Takapari</desc>
+</wpt>
+<wpt lat="-38.373814000" lon="176.263772000">
+  <ele>904.000000</ele>
+  <name>HB025</name>
+  <cmt>Paeroa</cmt>
+  <desc>Paeroa</desc>
+</wpt>
+<wpt lat="-40.400417000" lon="176.310383000">
+  <ele>130.000000</ele>
+  <name>HB024</name>
+  <cmt>Weber</cmt>
+  <desc>Weber</desc>
+</wpt>
+<wpt lat="-41.603500000" lon="175.238422000">
+  <ele>5.000000</ele>
+  <name>HB023</name>
+  <cmt>Ngawi</cmt>
+  <desc>Ngawi</desc>
+</wpt>
+<wpt lat="-39.636919000" lon="176.421014000">
+  <ele>311.000000</ele>
+  <name>HB022</name>
+  <cmt>Kereru</cmt>
+  <desc>Kereru</desc>
+</wpt>
+<wpt lat="-39.695678000" lon="176.909392000">
+  <ele>318.000000</ele>
+  <name>HB021</name>
+  <cmt>TMP-Tower</cmt>
+  <desc>TMP-Tower</desc>
+</wpt>
+<wpt lat="-39.052897000" lon="176.401228000">
+  <ele>772.000000</ele>
+  <name>HB020</name>
+  <cmt>Ripia-Airstrip</cmt>
+  <desc>Ripia-Airstrip</desc>
+</wpt>
+<wpt lat="-40.868453000" lon="175.859878000">
+  <ele>145.000000</ele>
+  <name>HB019</name>
+  <cmt>Bideford</cmt>
+  <desc>Bideford</desc>
+</wpt>
+<wpt lat="-40.540358000" lon="176.192342000">
+  <ele>153.000000</ele>
+  <name>HB018</name>
+  <cmt>Pongoroa</cmt>
+  <desc>Pongoroa</desc>
+</wpt>
+<wpt lat="-40.224103000" lon="176.237367000">
+  <ele>249.000000</ele>
+  <name>HB017</name>
+  <cmt>Mangahei</cmt>
+  <desc>Mangahei</desc>
+</wpt>
+<wpt lat="-39.676283000" lon="175.798514000">
+  <ele>440.000000</ele>
+  <name>HB016</name>
+  <cmt>Taihape</cmt>
+  <desc>Taihape</desc>
+</wpt>
+<wpt lat="-39.444475000" lon="176.415850000">
+  <ele>790.000000</ele>
+  <name>HB015</name>
+  <cmt>Lizard</cmt>
+  <desc>Lizard</desc>
+</wpt>
+<wpt lat="-40.047642000" lon="176.753733000">
+  <ele>163.000000</ele>
+  <name>HB014</name>
+  <cmt>Omakere</cmt>
+  <desc>Omakere</desc>
+</wpt>
+<wpt lat="-39.912925000" lon="176.725503000">
+  <ele>97.000000</ele>
+  <name>HB013</name>
+  <cmt>Patangata</cmt>
+  <desc>Patangata</desc>
+</wpt>
+<wpt lat="-39.777822000" lon="176.167289000">
+  <ele>1487.000000</ele>
+  <name>HB012</name>
+  <cmt>Sunrise</cmt>
+  <desc>Sunrise</desc>
+</wpt>
+<wpt lat="-39.812478000" lon="176.156275000">
+  <ele>1551.000000</ele>
+  <name>HB011</name>
+  <cmt>3Johns</cmt>
+  <desc>3Johns</desc>
+</wpt>
+<wpt lat="-39.738203000" lon="176.178711000">
+  <ele>1377.000000</ele>
+  <name>HB010</name>
+  <cmt>Sparrowhawk</cmt>
+  <desc>Sparrowhawk</desc>
+</wpt>
+<wpt lat="-39.283689000" lon="176.501333000">
+  <ele>596.000000</ele>
+  <name>HB009</name>
+  <cmt>Whittles</cmt>
+  <desc>Whittles</desc>
+</wpt>
+<wpt lat="-39.708939000" lon="176.513022000">
+  <ele>370.000000</ele>
+  <name>HB008</name>
+  <cmt>SH50</cmt>
+  <desc>SH50</desc>
+</wpt>
+<wpt lat="-38.528764000" lon="176.293097000">
+  <ele>354.000000</ele>
+  <name>HB007</name>
+  <cmt>Ohaaki</cmt>
+  <desc>Ohaaki</desc>
+</wpt>
+<wpt lat="-38.780350000" lon="176.405544000">
+  <ele>689.000000</ele>
+  <name>HB006</name>
+  <cmt>Matea</cmt>
+  <desc>Matea</desc>
+</wpt>
+<wpt lat="-38.549650000" lon="175.820511000">
+  <ele>499.000000</ele>
+  <name>HB005</name>
+  <cmt>Marotiri</cmt>
+  <desc>Marotiri</desc>
+</wpt>
+<wpt lat="-38.455778000" lon="176.338903000">
+  <ele>304.000000</ele>
+  <name>HB004</name>
+  <cmt>Homestead</cmt>
+  <desc>Homestead</desc>
+</wpt>
+<wpt lat="-39.117803000" lon="176.594892000">
+  <ele>722.000000</ele>
+  <name>HB003</name>
+  <cmt>TeHaroto</cmt>
+  <desc>TeHaroto</desc>
+</wpt>
+<wpt lat="-38.892961000" lon="175.332617000">
+  <ele>194.000000</ele>
+  <name>HB002</name>
+  <cmt>Manunui</cmt>
+  <desc>Manunui</desc>
+</wpt>
+<wpt lat="-39.520189000" lon="176.186592000">
+  <ele>1421.000000</ele>
+  <name>HB001</name>
+  <cmt>Otupae</cmt>
+  <desc>Otupae</desc>
+</wpt>
+</gpx>

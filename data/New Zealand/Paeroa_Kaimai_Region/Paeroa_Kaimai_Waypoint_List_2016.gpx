@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="GpsDump 4.72"
+     version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.gethome.no/stein.sorensen/">
+      <text>GPS dump for www.flightlog.org</text>
+    </link>
+    <time>2015-10-25T03:02:07Z</time>
+    <bounds minlat="-38.977694" minlon="171.887339" maxlat="-37.286194" maxlon="176.725722"/>
+  </metadata>
+  <wpt lat="-37.810556" lon="175.891278">
+    <ele>331.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>S01</name>
+    <cmt>Airstrip</cmt>
+    <desc>Airstrip</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.820639" lon="175.905778">
+    <ele>725.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>S02</name>
+    <cmt>Launch</cmt>
+    <desc>Launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.342250" lon="176.293611">
+    <ele>560.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>S03</name>
+    <cmt>Launch</cmt>
+    <desc>Launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.362194" lon="176.342278">
+    <ele>560.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>S04</name>
+    <cmt>Launch</cmt>
+    <desc>Launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.374000" lon="176.263722">
+    <ele>902.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>S05</name>
+    <cmt>Launch</cmt>
+    <desc>Launch</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.286194" lon="175.679472">
+    <ele>13.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W01</name>
+    <cmt>End of Block Rd</cmt>
+    <desc>End of Block Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.409472" lon="175.861333">
+    <ele>99.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W02</name>
+    <cmt>Int SHW 2 -and- Ford Rd</cmt>
+    <desc>Int SHW 2 -and- Ford Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.437222" lon="175.642917">
+    <ele>15.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W03</name>
+    <cmt>Int SHW 26 -and- Paeroa Tahuna Rd</cmt>
+    <desc>Int SHW 26 -and- Paeroa Tahuna Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.533528" lon="175.742167">
+    <ele>939.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W04</name>
+    <cmt>Hill Top</cmt>
+    <desc>Hill Top</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.564861" lon="175.740139">
+    <ele>20.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W05</name>
+    <cmt>Bridge</cmt>
+    <desc>Bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.584528" lon="175.813306">
+    <ele>600.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W06</name>
+    <cmt>Ridge</cmt>
+    <desc>Ridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.588444" lon="175.787111">
+    <ele>36.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W07</name>
+    <cmt>Ford</cmt>
+    <desc>Ford</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.598833" lon="175.628361">
+    <ele>17.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W08</name>
+    <cmt>Waitoa Dairy Factory</cmt>
+    <desc>Waitoa Dairy Factory</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.625028" lon="175.593000">
+    <ele>20.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W09</name>
+    <cmt>Tatuanui Dairy Factory</cmt>
+    <desc>Tatuanui Dairy Factory</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.628472" lon="175.773611">
+    <ele>22.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W10</name>
+    <cmt>Shaftesbury Rd Bridge</cmt>
+    <desc>Shaftesbury Rd Bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.699194" lon="175.845944">
+    <ele>42.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W11</name>
+    <cmt>Tunnel Entrance</cmt>
+    <desc>Tunnel Entrance</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.749139" lon="175.882694">
+    <ele>320.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W12</name>
+    <cmt>Water Fall</cmt>
+    <desc>Water Fall</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.795611" lon="175.877778">
+    <ele>264.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W13</name>
+    <cmt>Ridge</cmt>
+    <desc>Ridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.797694" lon="175.731944">
+    <ele>75.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W14</name>
+    <cmt>Peria Rd</cmt>
+    <desc>Peria Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.802889" lon="175.806611">
+    <ele>59.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W15</name>
+    <cmt>Tower</cmt>
+    <desc>Tower</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.817778" lon="175.868278">
+    <ele>119.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W16</name>
+    <cmt>Int Barton -and- Te Aroha Rd</cmt>
+    <desc>Int Barton -and- Te Aroha Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.818667" lon="175.804056">
+    <ele>60.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W17</name>
+    <cmt>Sewage Treatment Plant</cmt>
+    <desc>Sewage Treatment Plant</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.828444" lon="175.905889">
+    <ele>765.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W18</name>
+    <cmt>Te Weraiti Trig</cmt>
+    <desc>Te Weraiti Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.848861" lon="175.907444">
+    <ele>506.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W19</name>
+    <cmt>Ridge</cmt>
+    <desc>Ridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.871083" lon="175.880972">
+    <ele>69.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W20</name>
+    <cmt>Int SHW 29 -and- Tauranga Rd</cmt>
+    <desc>Int SHW 29 -and- Tauranga Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.880417" lon="175.936278">
+    <ele>646.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W21</name>
+    <cmt>Tower</cmt>
+    <desc>Tower</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.930500" lon="175.673306">
+    <ele>93.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W22</name>
+    <cmt>Piarere School</cmt>
+    <desc>Piarere School</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.956833" lon="175.903278">
+    <ele>349.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W23</name>
+    <cmt>Takaparu Trig</cmt>
+    <desc>Takaparu Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.986306" lon="175.841222">
+    <ele>120.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W24</name>
+    <cmt>Int Harwoods Rd -and- SHW 5</cmt>
+    <desc>Int Harwoods Rd -and- SHW 5</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.031083" lon="175.997500">
+    <ele>510.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W25</name>
+    <cmt>Airstrip</cmt>
+    <desc>Airstrip</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.050528" lon="175.780722">
+    <ele>139.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W26</name>
+    <cmt>Putaruru</cmt>
+    <desc>Putaruru</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.070222" lon="176.137139">
+    <ele>459.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W27</name>
+    <cmt>Tarukenga Village</cmt>
+    <desc>Tarukenga Village</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.089000" lon="176.076139">
+    <ele>579.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W28</name>
+    <cmt>Mamaku Village</cmt>
+    <desc>Mamaku Village</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.147139" lon="175.661444">
+    <ele>186.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W29</name>
+    <cmt>Puketotara Pa</cmt>
+    <desc>Puketotara Pa</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.202667" lon="175.870194">
+    <ele>320.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W30</name>
+    <cmt>Int SHW 1 -and- Newell Rd</cmt>
+    <desc>Int SHW 1 -and- Newell Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.277222" lon="175.903139">
+    <ele>400.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W31</name>
+    <cmt>Int SHW 1 -and- Kinleith Rd</cmt>
+    <desc>Int SHW 1 -and- Kinleith Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.286194" lon="176.583806">
+    <ele>462.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W32</name>
+    <cmt>America Trig</cmt>
+    <desc>America Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.318694" lon="176.494611">
+    <ele>456.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W33</name>
+    <cmt>Intersection</cmt>
+    <desc>Intersection</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.324611" lon="176.294639">
+    <ele>373.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W34</name>
+    <cmt>Intersection</cmt>
+    <desc>Intersection</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.326972" lon="176.303139">
+    <ele>362.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W35</name>
+    <cmt>Waikeite Hot Pools</cmt>
+    <desc>Waikeite Hot Pools</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.334222" lon="176.057833">
+    <ele>280.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W36</name>
+    <cmt>Int SHW30 -and- Forestry Rd</cmt>
+    <desc>Int SHW30 -and- Forestry Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.336472" lon="176.287278">
+    <ele>358.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W37</name>
+    <cmt>Waikite Valley Rd</cmt>
+    <desc>Waikite Valley Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.337722" lon="176.300722">
+    <ele>612.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W38</name>
+    <cmt>Trig</cmt>
+    <desc>Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.339444" lon="176.261556">
+    <ele>371.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W39</name>
+    <cmt>Hossack Rd</cmt>
+    <desc>Hossack Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.340972" lon="176.192889">
+    <ele>297.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W40</name>
+    <cmt>Whirinaki Stream Bridge</cmt>
+    <desc>Whirinaki Stream Bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.346278" lon="176.022694">
+    <ele>292.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W41</name>
+    <cmt>Int SHW 30 -and- Hall Rd</cmt>
+    <desc>Int SHW 30 -and- Hall Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.350917" lon="176.484639">
+    <ele>539.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W42</name>
+    <cmt>Trig</cmt>
+    <desc>Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.352028" lon="176.287722">
+    <ele>668.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W43</name>
+    <cmt>Trig</cmt>
+    <desc>Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.352639" lon="176.231778">
+    <ele>379.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W44</name>
+    <cmt>Intersection</cmt>
+    <desc>Intersection</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.364611" lon="176.164444">
+    <ele>298.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W45</name>
+    <cmt>Bridge</cmt>
+    <desc>Bridge</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.367222" lon="176.252778">
+    <ele>400.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W46</name>
+    <cmt>Te Kopia Rd</cmt>
+    <desc>Te Kopia Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.369528" lon="176.221167">
+    <ele>627.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W47</name>
+    <cmt>Trig</cmt>
+    <desc>Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.372306" lon="176.195417">
+    <ele>535.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W48</name>
+    <cmt>Trig</cmt>
+    <desc>Trig</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.376306" lon="176.230056">
+    <ele>596.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W49</name>
+    <cmt>Hill 596</cmt>
+    <desc>Hill 596</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.380556" lon="176.258361">
+    <ele>979.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W50</name>
+    <cmt>Trans Tower</cmt>
+    <desc>Trans Tower</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.380917" lon="176.373639">
+    <ele>375.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W51</name>
+    <cmt>Hill 375</cmt>
+    <desc>Hill 375</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.386056" lon="176.342111">
+    <ele>324.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W52</name>
+    <cmt>Int SH5 -and- Settlers Rd</cmt>
+    <desc>Int SH5 -and- Settlers Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.392667" lon="176.023722">
+    <ele>240.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W53</name>
+    <cmt>Atimuri Dam</cmt>
+    <desc>Atimuri Dam</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.395556" lon="176.236556">
+    <ele>975.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W54</name>
+    <cmt>Hill Top</cmt>
+    <desc>Hill Top</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.402194" lon="176.225000">
+    <ele>675.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W55</name>
+    <cmt>Spur</cmt>
+    <desc>Spur</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.410167" lon="176.209694">
+    <ele>410.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W56</name>
+    <cmt>Thermal Area</cmt>
+    <desc>Thermal Area</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.434333" lon="176.193639">
+    <ele>578.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W57</name>
+    <cmt>H578</cmt>
+    <desc>H578</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.437111" lon="176.345222">
+    <ele>299.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W58</name>
+    <cmt>Reporoa School</cmt>
+    <desc>Reporoa School</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.464472" lon="176.718444">
+    <ele>193.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W59</name>
+    <cmt>Rangitahi College</cmt>
+    <desc>Rangitahi College</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.492806" lon="176.383694">
+    <ele>320.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W60</name>
+    <cmt>Int East Rd -and- Plateau Rd</cmt>
+    <desc>Int East Rd -and- Plateau Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.509639" lon="176.187500">
+    <ele>366.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W61</name>
+    <cmt>Waikato River</cmt>
+    <desc>Waikato River</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.512250" lon="176.332222">
+    <ele>299.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W62</name>
+    <cmt>Int Broalands -and- Earle Rd</cmt>
+    <desc>Int Broalands -and- Earle Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.517944" lon="176.474611">
+    <ele>553.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W63</name>
+    <cmt>Int Goudies -and- Plateau Rd</cmt>
+    <desc>Int Goudies -and- Plateau Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.528694" lon="176.293306">
+    <ele>348.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W64</name>
+    <cmt>Ohaaki Cooling Tower</cmt>
+    <desc>Ohaaki Cooling Tower</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.549333" lon="176.522139">
+    <ele>462.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W65</name>
+    <cmt>Bend in Rd</cmt>
+    <desc>Bend in Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.612028" lon="176.264778">
+    <ele>300.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W66</name>
+    <cmt>Int Broalands -and- White Rd</cmt>
+    <desc>Int Broalands -and- White Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.631944" lon="176.272944">
+    <ele>393.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W67</name>
+    <cmt>Pt 455</cmt>
+    <desc>Pt 455</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.646139" lon="176.725722">
+    <ele>372.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W68</name>
+    <cmt>Airstrip</cmt>
+    <desc>Airstrip</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.878694" lon="176.370972">
+    <ele>720.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W69</name>
+    <cmt>Rangitaiki Pub</cmt>
+    <desc>Rangitaiki Pub</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.977694" lon="176.411222">
+    <ele>755.0</ele>
+    <time>2015-10-25T02:00:03</time>
+    <name>W70</name>
+    <cmt>Airstrip</cmt>
+    <desc>Airstrip</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.333917" lon="175.688778">
+    <ele>245.0</ele>
+    <time>2015-10-25T02:14:27</time>
+    <name>S06</name>
+    <cmt>Alans Hill</cmt>
+    <desc>Alans Hill</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.681917" lon="176.176444">
+    <ele>700.0</ele>
+    <time>2015-10-25T02:56:04</time>
+    <name>W71</name>
+    <cmt>Lookout Tower</cmt>
+    <desc>Lookout Tower</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.485972" lon="176.282028">
+    <ele>300.0</ele>
+    <time>2015-10-25T02:57:32</time>
+    <name>W72</name>
+    <cmt>Int Tutukau Rd and Mangamingi Rd</cmt>
+    <desc>Int Tutukau Rd and Mangamingi Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.466611" lon="176.489528">
+    <ele>543.0</ele>
+    <time>2015-10-25T02:59:08</time>
+    <name>W73</name>
+    <cmt>Int Rawhiti Rd and Goudies Rd</cmt>
+    <desc>Int Rawhiti Rd and Goudies Rd</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-38.425083" lon="176.315667">
+    <ele>318.0</ele>
+    <time>2015-10-25T03:00:30</time>
+    <name>W74</name>
+    <cmt>Dairy Factory</cmt>
+    <desc>Dairy Factory</desc>
+    <sym>Dot</sym>
+  </wpt>
+</gpx>

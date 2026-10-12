@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2018-11-07T11:21:20Z</time>
+<bounds minlat="45.540683333" minlon="5.966050000" maxlat="46.130566667" maxlon="6.712333333"/>
+<wpt lat="45.890750000" lon="6.451266667">
+  <ele>1830.000000</ele>
+  <name>D02183</name>
+  <cmt>D02183</cmt>
+  <desc>D02183</desc>
+</wpt>
+<wpt lat="45.959550000" lon="6.476400000">
+  <ele>2023.000000</ele>
+  <name>D03203</name>
+  <cmt>D03203</cmt>
+  <desc>D03203</desc>
+</wpt>
+<wpt lat="45.853200000" lon="6.223000000">
+  <ele>950.000000</ele>
+  <name>D05095</name>
+  <cmt>D05095</cmt>
+  <desc>D05095</desc>
+</wpt>
+<wpt lat="45.814183333" lon="6.246883333">
+  <ele>1270.000000</ele>
+  <name>D06127</name>
+  <cmt>D06127</cmt>
+  <desc>D06127</desc>
+</wpt>
+<wpt lat="45.630783333" lon="5.966050000">
+  <ele>1500.000000</ele>
+  <name>D09150</name>
+  <cmt>D09150</cmt>
+  <desc>D09150</desc>
+</wpt>
+<wpt lat="45.905916667" lon="6.442983333">
+  <ele>1130.000000</ele>
+  <name>A10113</name>
+  <cmt>A10113</cmt>
+  <desc>A10113</desc>
+</wpt>
+<wpt lat="45.935450000" lon="6.462000000">
+  <ele>1000.000000</ele>
+  <name>A11100</name>
+  <cmt>A11100</cmt>
+  <desc>A11100</desc>
+</wpt>
+<wpt lat="45.941066667" lon="6.433116667">
+  <ele>930.000000</ele>
+  <name>A12093</name>
+  <cmt>A12093</cmt>
+  <desc>A12093</desc>
+</wpt>
+<wpt lat="45.848716667" lon="6.214283333">
+  <ele>558.000000</ele>
+  <name>A15056</name>
+  <cmt>A15056</cmt>
+  <desc>A15056</desc>
+</wpt>
+<wpt lat="45.781716667" lon="6.221833333">
+  <ele>465.000000</ele>
+  <name>A16046</name>
+  <cmt>A16046</cmt>
+  <desc>A16046</desc>
+</wpt>
+<wpt lat="45.882950000" lon="6.435133333">
+  <ele>1230.000000</ele>
+  <name>B22123</name>
+  <cmt>B22123</cmt>
+  <desc>B22123</desc>
+</wpt>
+<wpt lat="45.870383333" lon="6.440400000">
+  <ele>1950.000000</ele>
+  <name>B23195</name>
+  <cmt>B23195</cmt>
+  <desc>B23195</desc>
+</wpt>
+<wpt lat="45.896583333" lon="6.501500000">
+  <ele>2450.000000</ele>
+  <name>B25245</name>
+  <cmt>B25245</cmt>
+  <desc>B25245</desc>
+</wpt>
+<wpt lat="45.921833333" lon="6.448033333">
+  <ele>1700.000000</ele>
+  <name>B26170</name>
+  <cmt>B26170</cmt>
+  <desc>B26170</desc>
+</wpt>
+<wpt lat="45.919800000" lon="6.478266667">
+  <ele>1400.000000</ele>
+  <name>B27140</name>
+  <cmt>B27140</cmt>
+  <desc>B27140</desc>
+</wpt>
+<wpt lat="45.939650000" lon="6.511666667">
+  <ele>1580.000000</ele>
+  <name>B29158</name>
+  <cmt>B29158</cmt>
+  <desc>B29158</desc>
+</wpt>
+<wpt lat="45.955733333" lon="6.555683333">
+  <ele>2700.000000</ele>
+  <name>B32270</name>
+  <cmt>B32270</cmt>
+  <desc>B32270</desc>
+</wpt>
+<wpt lat="45.964800000" lon="6.527033333">
+  <ele>1845.000000</ele>
+  <name>B33185</name>
+  <cmt>B33185</cmt>
+  <desc>B33185</desc>
+</wpt>
+<wpt lat="45.893783333" lon="6.406700000">
+  <ele>1633.000000</ele>
+  <name>B34164</name>
+  <cmt>B34164</cmt>
+  <desc>B34164</desc>
+</wpt>
+<wpt lat="45.885066667" lon="6.374933333">
+  <ele>1667.000000</ele>
+  <name>B35167</name>
+  <cmt>B35167</cmt>
+  <desc>B35167</desc>
+</wpt>
+<wpt lat="45.866633333" lon="6.408566667">
+  <ele>1635.000000</ele>
+  <name>B36164</name>
+  <cmt>B36164</cmt>
+  <desc>B36164</desc>
+</wpt>
+<wpt lat="45.830116667" lon="6.430183333">
+  <ele>1820.000000</ele>
+  <name>B39182</name>
+  <cmt>B39182</cmt>
+  <desc>B39182</desc>
+</wpt>
+<wpt lat="45.839966667" lon="6.358400000">
+  <ele>1285.000000</ele>
+  <name>B41129</name>
+  <cmt>B41129</cmt>
+  <desc>B41129</desc>
+</wpt>
+<wpt lat="45.808916667" lon="6.422933333">
+  <ele>2021.000000</ele>
+  <name>B42202</name>
+  <cmt>B42202</cmt>
+  <desc>B42202</desc>
+</wpt>
+<wpt lat="45.784100000" lon="6.383333333">
+  <ele>1467.000000</ele>
+  <name>B44147</name>
+  <cmt>B44147</cmt>
+  <desc>B44147</desc>
+</wpt>
+<wpt lat="45.954133333" lon="6.463233333">
+  <ele>1690.000000</ele>
+  <name>B50169</name>
+  <cmt>B50169</cmt>
+  <desc>B50169</desc>
+</wpt>
+<wpt lat="45.964866667" lon="6.415600000">
+  <ele>1831.000000</ele>
+  <name>B51183</name>
+  <cmt>B51183</cmt>
+  <desc>B51183</desc>
+</wpt>
+<wpt lat="45.982283333" lon="6.432650000">
+  <ele>2020.000000</ele>
+  <name>B52202</name>
+  <cmt>B52202</cmt>
+  <desc>B52202</desc>
+</wpt>
+<wpt lat="45.996216667" lon="6.452083333">
+  <ele>2300.000000</ele>
+  <name>B53230</name>
+  <cmt>B53230</cmt>
+  <desc>B53230</desc>
+</wpt>
+<wpt lat="45.984300000" lon="6.473316667">
+  <ele>1800.000000</ele>
+  <name>B54180</name>
+  <cmt>B54180</cmt>
+  <desc>B54180</desc>
+</wpt>
+<wpt lat="45.981516667" lon="6.521566667">
+  <ele>2180.000000</ele>
+  <name>B55218</name>
+  <cmt>B55218</cmt>
+  <desc>B55218</desc>
+</wpt>
+<wpt lat="45.970533333" lon="6.523500000">
+  <ele>1714.000000</ele>
+  <name>B56171</name>
+  <cmt>B56171</cmt>
+  <desc>B56171</desc>
+</wpt>
+<wpt lat="45.931333333" lon="6.341550000">
+  <ele>1495.000000</ele>
+  <name>B57150</name>
+  <cmt>B57150</cmt>
+  <desc>B57150</desc>
+</wpt>
+<wpt lat="45.881633333" lon="6.324650000">
+  <ele>630.000000</ele>
+  <name>B58063</name>
+  <cmt>B58063</cmt>
+  <desc>B58063</desc>
+</wpt>
+<wpt lat="45.826500000" lon="6.286133333">
+  <ele>2320.000000</ele>
+  <name>B61232</name>
+  <cmt>B61232</cmt>
+  <desc>B61232</desc>
+</wpt>
+<wpt lat="45.864083333" lon="6.203600000">
+  <ele>560.000000</ele>
+  <name>B62056</name>
+  <cmt>B62056</cmt>
+  <desc>B62056</desc>
+</wpt>
+<wpt lat="45.887450000" lon="6.196266667">
+  <ele>1220.000000</ele>
+  <name>B63122</name>
+  <cmt>B63122</cmt>
+  <desc>B63122</desc>
+</wpt>
+<wpt lat="45.946300000" lon="6.240000000">
+  <ele>1815.000000</ele>
+  <name>B66182</name>
+  <cmt>B66182</cmt>
+  <desc>B66182</desc>
+</wpt>
+<wpt lat="45.831416667" lon="6.206050000">
+  <ele>450.000000</ele>
+  <name>B70045</name>
+  <cmt>B70045</cmt>
+  <desc>B70045</desc>
+</wpt>
+<wpt lat="45.773450000" lon="6.170850000">
+  <ele>1600.000000</ele>
+  <name>B72160</name>
+  <cmt>B72160</cmt>
+  <desc>B72160</desc>
+</wpt>
+<wpt lat="45.717316667" lon="6.149200000">
+  <ele>1264.000000</ele>
+  <name>B73126</name>
+  <cmt>B73126</cmt>
+  <desc>B73126</desc>
+</wpt>
+<wpt lat="45.682833333" lon="6.304783333">
+  <ele>880.000000</ele>
+  <name>B74088</name>
+  <cmt>B74088</cmt>
+  <desc>B74088</desc>
+</wpt>
+<wpt lat="45.764516667" lon="6.056900000">
+  <ele>480.000000</ele>
+  <name>B75048</name>
+  <cmt>B75048</cmt>
+  <desc>B75048</desc>
+</wpt>
+<wpt lat="45.596816667" lon="6.175233333">
+  <ele>1900.000000</ele>
+  <name>B77190</name>
+  <cmt>B77190</cmt>
+  <desc>B77190</desc>
+</wpt>
+<wpt lat="45.634800000" lon="6.034133333">
+  <ele>1800.000000</ele>
+  <name>B78180</name>
+  <cmt>B78180</cmt>
+  <desc>B78180</desc>
+</wpt>
+<wpt lat="45.963266667" lon="6.243266667">
+  <ele>1500.000000</ele>
+  <name>B79150</name>
+  <cmt>B79150</cmt>
+  <desc>B79150</desc>
+</wpt>
+<wpt lat="45.997333333" lon="6.296066667">
+  <ele>1480.000000</ele>
+  <name>B80148</name>
+  <cmt>B80148</cmt>
+  <desc>B80148</desc>
+</wpt>
+<wpt lat="46.047050000" lon="6.388183333">
+  <ele>1025.000000</ele>
+  <name>B81100</name>
+  <cmt>B81100</cmt>
+  <desc>B81100</desc>
+</wpt>
+<wpt lat="45.540683333" lon="6.214533333">
+  <ele>290.000000</ele>
+  <name>A13029</name>
+  <cmt>A13029</cmt>
+  <desc>A13029</desc>
+</wpt>
+<wpt lat="45.541216667" lon="6.117800000">
+  <ele>270.000000</ele>
+  <name>A08027</name>
+  <cmt>A08027</cmt>
+  <desc>A08027</desc>
+</wpt>
+<wpt lat="46.081866667" lon="6.712333333">
+  <ele>690.000000</ele>
+  <name>A09069</name>
+  <cmt>A09069</cmt>
+  <desc>A09069</desc>
+</wpt>
+<wpt lat="45.941950000" lon="6.427616667">
+  <ele>920.000000</ele>
+  <name>W01092</name>
+  <cmt>W01092</cmt>
+  <desc>W01092</desc>
+</wpt>
+<wpt lat="46.130566667" lon="6.525733333">
+  <ele>600.000000</ele>
+  <name>A07060</name>
+  <cmt>A07060</cmt>
+  <desc>A07060</desc>
+</wpt>
+<wpt lat="46.001333333" lon="6.469750000">
+  <ele>0.000000</ele>
+  <name>ZI_GYP</name>
+  <cmt>ZI_GYP</cmt>
+  <desc>ZI_GYP</desc>
+</wpt>
+</gpx>

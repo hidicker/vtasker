@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer http://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="-43.1578" lon="171.6704">
+  <ele>1525.0</ele>
+  <name>01CHEES</name>
+  <desc>Cheeseman Launch</desc>
+</wpt>
+<wpt lat="-43.1405" lon="171.7296">
+  <ele>1245.0</ele>
+  <name>02HELIC</name>
+  <desc>Helic</desc>
+</wpt>
+<wpt lat="-43.1232" lon="171.6804002">
+  <ele>1680.0</ele>
+  <name>03HAMIL</name>
+  <desc>Hamilton Ski</desc>
+</wpt>
+<wpt lat="-43.0803998" lon="171.7326">
+  <ele>1650.0</ele>
+  <name>04BALDY</name>
+  <desc>Baldy Hill</desc>
+</wpt>
+<wpt lat="-43.1899" lon="171.6516">
+  <ele>1785.0</ele>
+  <name>05IZARD</name>
+  <desc>Izard Ridge</desc>
+</wpt>
+<wpt lat="-43.2145" lon="171.6834004">
+  <ele>1380.0</ele>
+  <name>06LEITH</name>
+  <desc>Leith Hill</desc>
+</wpt>
+<wpt lat="-43.2362" lon="171.6541">
+  <ele>1785.0</ele>
+  <name>07MENYS</name>
+  <desc>Mt Menys Ridge</desc>
+</wpt>
+<wpt lat="-43.2573" lon="171.653">
+  <ele>1660.0</ele>
+  <name>08MIDSP</name>
+  <desc>Mid Spur</desc>
+</wpt>
+<wpt lat="-43.2732" lon="171.6445">
+  <ele>1315.0</ele>
+  <name>09PORTR</name>
+  <desc>Porters Ski</desc>
+</wpt>
+<wpt lat="-43.2541" lon="171.7369">
+  <ele>1405.0</ele>
+  <name>10PLNT</name>
+  <desc>Mt Plenty</desc>
+</wpt>
+<wpt lat="-43.3359" lon="171.9237">
+  <ele>395.0</ele>
+  <name>11SPRN</name>
+  <desc>Springfield</desc>
+</wpt>
+<wpt lat="-43.2299999" lon="171.7243004">
+  <ele>730.0</ele>
+  <name>12ROCK</name>
+  <desc>Rock Crags</desc>
+</wpt>
+<wpt lat="-43.2099" lon="171.7221">
+  <ele>710.0</ele>
+  <name>13CAST</name>
+  <desc>Castle Hill</desc>
+</wpt>
+<wpt lat="-43.1823" lon="171.695">
+  <ele>860.0</ele>
+  <name>14HOGS</name>
+  <desc>Hogs Back</desc>
+</wpt>
+<wpt lat="-43.1637" lon="171.7261">
+  <ele>778.0</ele>
+  <name>15BRIG</name>
+  <desc>Brig</desc>
+</wpt>
+<wpt lat="-43.1955" lon="171.7405">
+  <ele>690.0</ele>
+  <name>16CAVE</name>
+  <desc>Cave Stream</desc>
+</wpt>
+<wpt lat="-43.1305" lon="171.7747003">
+  <ele>640.0</ele>
+  <name>17FLOK</name>
+  <desc>Flock Hill</desc>
+</wpt>
+<wpt lat="-43.0481" lon="171.7082">
+  <ele>1585.0</ele>
+  <name>18MISR</name>
+  <desc>Mt Misery</desc>
+</wpt>
+<wpt lat="-43.0259" lon="171.7184">
+  <ele>1220.0</ele>
+  <name>19HORR</name>
+  <desc>Mt Horrible</desc>
+</wpt>
+<wpt lat="-43.0038" lon="171.744">
+  <ele>515.0</ele>
+  <name>20MTWT</name>
+  <desc>Riverdale Rd</desc>
+</wpt>
+<wpt lat="-43.0275995" lon="171.6463">
+  <ele>625.0</ele>
+  <name>21CORA</name>
+  <desc>Cora Lynn Rd</desc>
+</wpt>
+<wpt lat="-43.0034" lon="171.5901">
+  <ele>615.0</ele>
+  <name>22KLON</name>
+  <desc>Klondyke Cnr</desc>
+</wpt>
+<wpt lat="-43.213" lon="171.8986">
+  <ele>1280.0</ele>
+  <name>23BOLD</name>
+  <desc>Bold Hill</desc>
+</wpt>
+<wpt lat="-43.3092" lon="171.6386">
+  <ele>1525.0</ele>
+  <name>24REDH</name>
+  <desc>Little Red Hill</desc>
+</wpt>
+<wpt lat="-43.3289" lon="171.8635">
+  <ele>457.0</ele>
+  <name>25LMWK</name>
+  <desc>Rubico Rd Int</desc>
+</wpt>
+<wpt lat="-43.2353" lon="171.8183">
+  <ele>1490.0</ele>
+  <name>26BACP</name>
+  <desc>Back Pack</desc>
+</wpt>
+<wpt lat="-43.5042" lon="172.5147">
+  <ele>75.0</ele>
+  <name>27CHCH</name>
+  <desc>Christchurch Airport</desc>
+</wpt>
+<wpt lat="-43.2801" lon="171.7468">
+  <ele>1700.0</ele>
+  <name>28FOGPK</name>
+  <desc>Fogg Peak</desc>
+</wpt>
+<wpt lat="-43.2203" lon="171.8557">
+  <ele>1355.0</ele>
+  <name>29TORLS</name>
+  <desc>Torlese Ra.</desc>
+</wpt>
+<wpt lat="-42.9665" lon="171.545">
+  <ele>1830.0</ele>
+  <name>30BEALY</name>
+  <desc>Mt Bealey</desc>
+</wpt>
+<wpt lat="-43.0538" lon="171.6151">
+  <ele>1630.0</ele>
+  <name>31BRUCE</name>
+  <desc>Mt Bruce</desc>
+</wpt>
+<wpt lat="-43.0261" lon="171.8611">
+  <ele>1840.0</ele>
+  <name>32MTBIN</name>
+  <desc>Mt Binser</desc>
+</wpt>
+<wpt lat="-43.1087" lon="171.8126">
+  <ele>1680.0</ele>
+  <name>33PRPL</name>
+  <desc>Purple Hill</desc>
+</wpt>
+<wpt lat="-43.1697" lon="171.7957">
+  <ele>1570.0</ele>
+  <name>34BKNHL</name>
+  <desc>Broken Hill</desc>
+</wpt>
+<wpt lat="-43.1027" lon="172.0203">
+  <ele>1934.0</ele>
+  <name>35CHEST</name>
+  <desc>Chest Pk</desc>
+</wpt>
+<wpt lat="-43.3469" lon="171.7378">
+  <ele>1655.0</ele>
+  <name>36BNMRE</name>
+  <desc>BenMore Pk</desc>
+</wpt>
+<wpt lat="-43.295" lon="171.7088">
+  <ele>835.0</ele>
+  <name>37LYNDN</name>
+  <desc>Lake Lyndon</desc>
+</wpt>
+<wpt lat="-43.366" lon="171.5327">
+  <ele>380.0</ele>
+  <name>38CLRDG</name>
+  <desc>Lake Coleridge</desc>
+</wpt>
+<wpt lat="-43.1735" lon="171.6862">
+  <ele>930.0</ele>
+  <name>39FRSTL</name>
+  <desc>Forest Lodge</desc>
+</wpt>
+</gpx>

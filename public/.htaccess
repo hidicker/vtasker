@@ -1,0 +1,36 @@
+# Cache rules for VTasker.
+#
+# Without these the server sends only Last-Modified, leaving browsers to invent
+# their own caching. Android Chrome in particular holds on to index.html long
+# enough that a deploy appears to do nothing.
+#
+# The build gives every JS/CSS bundle a content hash in its filename, so those
+# can be cached forever — a change produces a different filename. index.html is
+# the opposite: it names those bundles, so a stale copy points at files that no
+# longer exist and the app breaks or silently runs old code.
+
+<IfModule mod_headers.c>
+
+  # Never serve a stale index.html. Revalidating is cheap: it is ~3 KB.
+  <FilesMatch "\.html$">
+    Header set Cache-Control "no-cache, must-revalidate, max-age=0"
+  </FilesMatch>
+
+  # Content-hashed build output (e.g. index-DlC8jtxz.js) — safe to keep forever.
+  <FilesMatch "-[A-Za-z0-9_-]{8}\.(js|css)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+
+  # Icons and images keep their filenames across deploys, so cache them for a day
+  # rather than forever — long enough to help, short enough that a new logo shows
+  # up without anyone having to clear anything.
+  <FilesMatch "\.(svg|png|jpg|jpeg|gif|ico|webp)$">
+    Header set Cache-Control "public, max-age=86400"
+  </FilesMatch>
+
+</IfModule>
+
+# Compress text assets if the server offers it. LiteSpeed and Apache both do.
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml
+</IfModule>

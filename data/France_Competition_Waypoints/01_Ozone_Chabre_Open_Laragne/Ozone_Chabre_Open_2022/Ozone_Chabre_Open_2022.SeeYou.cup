@@ -1,0 +1,5 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
+"La Trappe",B49118,,4415.257N,00530.550E,1180.0m,1,,,,"La Trappe"
+"Orpierre Suillet",B36130,,4419.815N,00542.267E,1300.0m,1,,,,"Orpierre Suillet"
+"Aspres Aerials",B32149,,4432.450N,00544.664E,1490.0m,1,,,,"Aspres Aerials"
+-----Related Tasks-----

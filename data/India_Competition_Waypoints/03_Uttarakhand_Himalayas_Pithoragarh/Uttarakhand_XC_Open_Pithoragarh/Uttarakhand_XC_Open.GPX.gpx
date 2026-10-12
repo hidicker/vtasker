@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2016-03-13T09:27:51Z</time>
+<bounds minlat="29.510270085" minlon="80.048887367" maxlat="29.675734734" maxlon="80.324790115"/>
+<wpt lat="29.513960424" lon="80.159270997">
+  <ele>1868.000000</ele>
+  <name>C10</name>
+  <cmt>C10 GURNA</cmt>
+  <desc>C10 GURNA</desc>
+</wpt>
+<wpt lat="29.538896734" lon="80.247864361">
+  <ele>1840.000000</ele>
+  <name>C09</name>
+  <cmt>C09 PATHARKHANI</cmt>
+  <desc>C09 PATHARKHANI</desc>
+</wpt>
+<wpt lat="29.627511577" lon="80.048887367">
+  <ele>2137.000000</ele>
+  <name>C06</name>
+  <cmt>C06 MAGNATIC TOP</cmt>
+  <desc>C06 MAGNATIC TOP</desc>
+</wpt>
+<wpt lat="29.540860510" lon="80.214218731">
+  <ele>1787.000000</ele>
+  <name>C01</name>
+  <cmt>C01 STHUNI</cmt>
+  <desc>C01 STHUNI</desc>
+</wpt>
+<wpt lat="29.599715898" lon="80.189864273">
+  <ele>2020.000000</ele>
+  <name>B06</name>
+  <cmt>B06 CHANDAK</cmt>
+  <desc>B06 CHANDAK</desc>
+</wpt>
+<wpt lat="29.586034440" lon="80.222573812">
+  <ele>1644.000000</ele>
+  <name>B05</name>
+  <cmt>B05 BHATKOT PARK</cmt>
+  <desc>B05 BHATKOT PARK</desc>
+</wpt>
+<wpt lat="29.597103830" lon="80.146004791">
+  <ele>1847.000000</ele>
+  <name>B04</name>
+  <cmt>B04 PABHAI</cmt>
+  <desc>B04 PABHAI</desc>
+</wpt>
+<wpt lat="29.584535892" lon="80.284139385">
+  <ele>1843.000000</ele>
+  <name>A11</name>
+  <cmt>A11 LELU RIDGE TEMPLE</cmt>
+  <desc>A11 LELU RIDGE TEMPLE</desc>
+</wpt>
+<wpt lat="29.601936103" lon="80.297774906">
+  <ele>2244.000000</ele>
+  <name>A10</name>
+  <cmt>A10 SAUR LAKH TOP</cmt>
+  <desc>A10 SAUR LAKH TOP</desc>
+</wpt>
+<wpt lat="29.675734734" lon="80.116049881">
+  <ele>1380.000000</ele>
+  <name>A09</name>
+  <cmt>A09 BHRIGUTUNG</cmt>
+  <desc>A09 BHRIGUTUNG</desc>
+</wpt>
+<wpt lat="29.600994691" lon="80.223531360">
+  <ele>1602.000000</ele>
+  <name>A08</name>
+  <cmt>A08 GORILKOT</cmt>
+  <desc>A08 GORILKOT</desc>
+</wpt>
+<wpt lat="29.647616691" lon="80.289857025">
+  <ele>2441.000000</ele>
+  <name>A07</name>
+  <cmt>A07 DHWAJ TEMPLE</cmt>
+  <desc>A07 DHWAJ TEMPLE</desc>
+</wpt>
+<wpt lat="29.596780178" lon="80.261854763">
+  <ele>1950.000000</ele>
+  <name>S01</name>
+  <cmt>S01 TAKE OFF PABHEE</cmt>
+  <desc>S01 TAKE OFF PABHEE</desc>
+</wpt>
+<wpt lat="29.595723138" lon="80.324790115">
+  <ele>2103.000000</ele>
+  <name>A06</name>
+  <cmt>A06 SIRKUCH</cmt>
+  <desc>A06 SIRKUCH</desc>
+</wpt>
+<wpt lat="29.626644244" lon="80.251758928">
+  <ele>1522.000000</ele>
+  <name>A02</name>
+  <cmt>A02 BASET</cmt>
+  <desc>A02 BASET</desc>
+</wpt>
+<wpt lat="29.590088226" lon="80.068070526">
+  <ele>1964.000000</ele>
+  <name>C05</name>
+  <cmt>C05 CHAHAJ TOP</cmt>
+  <desc>C05 CHAHAJ TOP</desc>
+</wpt>
+<wpt lat="29.623265182" lon="80.285672779">
+  <ele>1993.000000</ele>
+  <name>A01</name>
+  <cmt>A01 LACHEER TEMPLE</cmt>
+  <desc>A01 LACHEER TEMPLE</desc>
+</wpt>
+<wpt lat="29.627847317" lon="80.225569839">
+  <ele>2083.000000</ele>
+  <name>A03</name>
+  <cmt>A03 ASURCHULA TEMPLE</cmt>
+  <desc>A03 ASURCHULA TEMPLE</desc>
+</wpt>
+<wpt lat="29.629787125" lon="80.177075500">
+  <ele>2094.000000</ele>
+  <name>A05</name>
+  <cmt>A05 TEMPLE DIKTOLI</cmt>
+  <desc>A05 TEMPLE DIKTOLI</desc>
+</wpt>
+<wpt lat="29.563738038" lon="80.235697860">
+  <ele>1863.000000</ele>
+  <name>B01</name>
+  <cmt>B01 NAVODAY RIDGE</cmt>
+  <desc>B01 NAVODAY RIDGE</desc>
+</wpt>
+<wpt lat="29.510270085" lon="80.199305649">
+  <ele>2453.000000</ele>
+  <name>C02</name>
+  <cmt>C02 UDAY BUNGA</cmt>
+  <desc>C02 UDAY BUNGA</desc>
+</wpt>
+<wpt lat="29.519009099" lon="80.210806961">
+  <ele>2445.000000</ele>
+  <name>C03</name>
+  <cmt>C03 THALKEDAR TEMPLE</cmt>
+  <desc>C03 THALKEDAR TEMPLE</desc>
+</wpt>
+<wpt lat="29.558885271" lon="80.133216018">
+  <ele>1961.000000</ele>
+  <name>C07</name>
+  <cmt>C07 BADHKA LEKH</cmt>
+  <desc>C07 BADHKA LEKH</desc>
+</wpt>
+<wpt lat="29.563215443" lon="80.155274505">
+  <ele>2044.000000</ele>
+  <name>C08</name>
+  <cmt>C08 JAKH MAHASU</cmt>
+  <desc>C08 JAKH MAHASU</desc>
+</wpt>
+<wpt lat="29.594128625" lon="80.239152546">
+  <ele>1509.000000</ele>
+  <name>LZ</name>
+  <cmt>LZ lANDING ZONE</cmt>
+  <desc>LZ lANDING ZONE</desc>
+</wpt>
+<wpt lat="29.629761779" lon="80.210432281">
+  <ele>1904.000000</ele>
+  <name>A04</name>
+  <cmt>A04 CHANDIKA TEMPLE</cmt>
+  <desc>A04 CHANDIKA TEMPLE</desc>
+</wpt>
+<wpt lat="29.568206899" lon="80.202915902">
+  <ele>1690.000000</ele>
+  <name>B02</name>
+  <cmt>B02 KAPILESHWAR TEMPLE</cmt>
+  <desc>B02 KAPILESHWAR TEMPLE</desc>
+</wpt>
+<wpt lat="29.557190335" lon="80.270738239">
+  <ele>1475.000000</ele>
+  <name>B03</name>
+  <cmt>B03 KAILESH ASHRAM</cmt>
+  <desc>B03 KAILESH ASHRAM</desc>
+</wpt>
+<wpt lat="29.563334605" lon="80.058993930">
+  <ele>1607.000000</ele>
+  <name>C04</name>
+  <cmt>C04 RAUTERA TOP</cmt>
+  <desc>C04 RAUTERA TOP</desc>
+</wpt>
+</gpx>

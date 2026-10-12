@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="-37.326063107" lon="174.676949388">
+  <name>Maioro</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.330055371" lon="174.680228579">
+  <name>Far South</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.316433144" lon="174.671949307">
+  <name>Walk Back Gap</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.296599977" lon="174.661548696">
+  <name>Camping Cove</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.287752595" lon="174.659506821">
+  <name>Romance Huts</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.284111601" lon="174.656266646">
+  <name>Wedding</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.284009486" lon="174.655439319">
+  <name>Surf Club</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.286769411" lon="174.658174894">
+  <name>Club Takeoff</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.280039308" lon="174.653845107">
+  <name>Waterfall</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.275806303" lon="174.652243369">
+  <name>High Side</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.262920659" lon="174.644857093">
+  <name>Punchbowls</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.203939583" lon="174.612887155">
+  <name>Pokorua Lake Gap</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.186147465" lon="174.603136763">
+  <name>Pehiakura Lake Gap</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.159672793" lon="174.587750607">
+  <name>Cochrane Gap</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.130893785" lon="174.572132925">
+  <name>Hamilton's Gap</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.096358417" lon="174.551001274">
+  <name>Irwin's Gap</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.050671925" lon="174.545889221">
+  <name>Lighthouse</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+<wpt lat="-37.251486412" lon="174.733788219">
+  <name>Waiuku</name>
+  <sym>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</sym>
+</wpt>
+</gpx>

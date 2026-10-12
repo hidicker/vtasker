@@ -1,0 +1,10 @@
+{
+  "name": "VTasker",
+  "description": "A professional paragliding and hang gliding task management tool. Create competition-ready tasks with optimized routing, XCTrack QR export, and full-screen visualization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

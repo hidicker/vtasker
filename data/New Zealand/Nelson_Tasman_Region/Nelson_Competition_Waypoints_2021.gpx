@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="GpsDump 5.12"
+     version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.gethome.no/stein.sorensen/">
+      <text>GPS dump for www.flightlog.org</text>
+    </link>
+    <time>2021-01-13T07:59:49Z</time>
+    <bounds minlat="-42.520470" minlon="171.887339" maxlat="-40.846416" maxlon="174.005710"/>
+  </metadata>
+  <wpt lat="-41.322380" lon="173.231949">
+    <ele>30.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>010OCT</name>
+    <cmt>010 OCTPUSS PARK</cmt>
+    <desc>010 OCTPUSS PARK</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.328850" lon="173.215424">
+    <ele>10.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>015SAX</name>
+    <cmt>015 SAXTON FIELD</cmt>
+    <desc>015 SAXTON FIELD</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.341648" lon="173.252151">
+    <ele>600.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>100BAR</name>
+    <cmt>100 BARNCO TKOFF</cmt>
+    <desc>100 BARNCO TKOFF</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.332800" lon="173.243690">
+    <ele>125.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>102LBA</name>
+    <cmt>102 BARNCO BOMB</cmt>
+    <desc>102 BARNCO BOMB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.330872" lon="173.242187">
+    <ele>120.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>104BOU</name>
+    <cmt>104 WATER TANK</cmt>
+    <desc>104 WATER TANK</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.354650" lon="173.213660">
+    <ele>200.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>105BOU</name>
+    <cmt>105 CTR BOUNDARY</cmt>
+    <desc>105 CTR BOUNDARY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.367280" lon="173.198940">
+    <ele>480.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>106BOU</name>
+    <cmt>106 CTR BOUNDARY</cmt>
+    <desc>106 CTR BOUNDARY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.339058" lon="173.262170">
+    <ele>575.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>110GEC</name>
+    <cmt>110 GECKO UPPER</cmt>
+    <desc>110 GECKO UPPER</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.330964" lon="173.258495">
+    <ele>226.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>111GKL</name>
+    <cmt>111 GECKO LOWER</cmt>
+    <desc>111 GECKO LOWER</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.327319" lon="173.276157">
+    <ele>590.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>112JEN</name>
+    <cmt>112 JENKINS SPUR</cmt>
+    <desc>112 JENKINS SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.318340" lon="173.282745">
+    <ele>420.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>113DTR</name>
+    <cmt>113 DEAD TREE RG</cmt>
+    <desc>113 DEAD TREE RG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.302650" lon="173.294320">
+    <ele>75.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>115LBR</name>
+    <cmt>115 BROOK LAND</cmt>
+    <desc>115 BROOK LAND</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.317529" lon="173.301014">
+    <ele>570.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>118CUM</name>
+    <cmt>118 CUMMING SPUR</cmt>
+    <desc>118 CUMMING SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.313232" lon="173.308823">
+    <ele>680.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>119BUL</name>
+    <cmt>119 BULLOCK SPUR</cmt>
+    <desc>119 BULLOCK SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.310791" lon="173.311020">
+    <ele>700.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>120FRI</name>
+    <cmt>120 FRINGED HILL</cmt>
+    <desc>120 FRINGED HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.360279" lon="173.215408">
+    <ele>420.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>122SIL</name>
+    <cmt>122 SILVAN SPUR</cmt>
+    <desc>122 SILVAN SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.367910" lon="173.201870">
+    <ele>511.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>123FIR</name>
+    <cmt>123 FIRE LOOKOUT</cmt>
+    <desc>123 FIRE LOOKOUT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.378960" lon="173.272070">
+    <ele>950.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>126MAL</name>
+    <cmt>126 MT MALITA</cmt>
+    <desc>126 MT MALITA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.375100" lon="173.251320">
+    <ele>520.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>127MAS</name>
+    <cmt>127 MALITA SPUR</cmt>
+    <desc>127 MALITA SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.400370" lon="173.219730">
+    <ele>443.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>128HAC</name>
+    <cmt>128 HACKET PT443</cmt>
+    <desc>128 HACKET PT443</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.398360" lon="173.169690">
+    <ele>380.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>130BOU</name>
+    <cmt>130 CTR BOUNDARY</cmt>
+    <desc>130 CTR BOUNDARY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.410290" lon="173.131680">
+    <ele>130.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>131BOU</name>
+    <cmt>131 CTR BOUNDARY</cmt>
+    <desc>131 CTR BOUNDARY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.410350" lon="173.182690">
+    <ele>549.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>132GOA</name>
+    <cmt>132 GOAT HILL</cmt>
+    <desc>132 GOAT HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.423380" lon="173.140380">
+    <ele>549.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>134LEE</name>
+    <cmt>134 LEE JUNC HIL</cmt>
+    <desc>134 LEE JUNC HIL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.456840" lon="173.081750">
+    <ele>300.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>135PIG</name>
+    <cmt>135 PIG JUNC SPR</cmt>
+    <desc>135 PIG JUNC SPR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.473350" lon="173.108170">
+    <ele>883.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>136LIB</name>
+    <cmt>136 LITTLE BEN</cmt>
+    <desc>136 LITTLE BEN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.488160" lon="173.017700">
+    <ele>668.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>137GOR</name>
+    <cmt>137 GORDN 2191FT</cmt>
+    <desc>137 GORDN 2191FT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.484558" lon="172.982956">
+    <ele>220.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>140V88</name>
+    <cmt>140 88 VALLEY</cmt>
+    <desc>140 88 VALLEY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.517050" lon="172.932600">
+    <ele>255.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>142HIW</name>
+    <cmt>142 HIWIPANGO</cmt>
+    <desc>142 HIWIPANGO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.530520" lon="172.955380">
+    <ele>719.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>144HWP</name>
+    <cmt>144 HIWI 2358FT</cmt>
+    <desc>144 HIWI 2358FT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.543831" lon="172.940933">
+    <ele>800.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>145INN</name>
+    <cmt>142 INWOOD NTH P</cmt>
+    <desc>142 INWOOD NTH P</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.546380" lon="172.882300">
+    <ele>285.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>146GOL</name>
+    <cmt>143 GOLDEN DOWNS</cmt>
+    <desc>143 GOLDEN DOWNS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.528410" lon="172.850550">
+    <ele>571.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>147GON</name>
+    <cmt>147 GOLDEN PT571</cmt>
+    <desc>147 GOLDEN PT571</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.572281" lon="172.936813">
+    <ele>1025.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>150INT</name>
+    <cmt>150 INWOODS TWR</cmt>
+    <desc>150 INWOODS TWR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.580070" lon="172.945023">
+    <ele>1150.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>151INS</name>
+    <cmt>151 INWOODS STH</cmt>
+    <desc>151 INWOODS STH</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.639111" lon="172.904404">
+    <ele>734.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>152GLN</name>
+    <cmt>152 BLUGLEN SKID</cmt>
+    <desc>152 BLUGLEN SKID</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.664850" lon="172.856279">
+    <ele>619.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>153KWA</name>
+    <cmt>153 KIKIWA SPUR</cmt>
+    <desc>153 KIKIWA SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.685299" lon="172.907089">
+    <ele>894.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>154894</name>
+    <cmt>154 KIKIWA PT894</cmt>
+    <desc>154 KIKIWA PT894</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.730049" lon="172.926971">
+    <ele>1390.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>156BBT</name>
+    <cmt>156 BEEBY TOWERS</cmt>
+    <desc>156 BEEBY TOWERS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.751961" lon="172.907898">
+    <ele>900.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>158BEE</name>
+    <cmt>158 BEEB STH SPR</cmt>
+    <desc>158 BEEB STH SPR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.785080" lon="172.893890">
+    <ele>725.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>160TOP</name>
+    <cmt>160 TOPHOUSE CNR</cmt>
+    <desc>160 TOPHOUSE CNR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.790550" lon="172.924622">
+    <ele>1145.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>162SAT</name>
+    <cmt>162 ARNAUD TOE</cmt>
+    <desc>162 ARNAUD TOE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.717121" lon="173.095139">
+    <ele>420.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>164WAS</name>
+    <cmt>164 WASH BRIDGE</cmt>
+    <desc>164 WASH BRIDGE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.823139" lon="172.880829">
+    <ele>1460.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>166ROC</name>
+    <cmt>166 PCHUTE ROCKS</cmt>
+    <desc>166 PCHUTE ROCKS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.825710" lon="172.810699">
+    <ele>1080.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>168ROB</name>
+    <cmt>168 ROBERT SPUR</cmt>
+    <desc>168 ROBERT SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.858200" lon="172.770600">
+    <ele>1660.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>169SPE</name>
+    <cmt>169 SPGRASS SPUR</cmt>
+    <desc>169 SPGRASS SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.853600" lon="172.868790">
+    <ele>1780.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>170SA3</name>
+    <cmt>170 ARNAU PT1796</cmt>
+    <desc>170 ARNAU PT1796</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.870201" lon="172.853989">
+    <ele>1780.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>172SKI</name>
+    <cmt>172 SKIFLD KNOB</cmt>
+    <desc>172 SKIFLD KNOB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.875599" lon="172.822067">
+    <ele>615.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>174LAK</name>
+    <cmt>174 LAKEHEAD HUT</cmt>
+    <desc>174 LAKEHEAD HUT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.800549" lon="172.844894">
+    <ele>635.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>176SHP</name>
+    <cmt>176 FLD BHD SHOP</cmt>
+    <desc>176 FLD BHD SHOP</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.797211" lon="172.834976">
+    <ele>750.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>178BLA</name>
+    <cmt>178 BLACK HILL</cmt>
+    <desc>178 BLACK HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.784698" lon="172.804016">
+    <ele>580.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>180SAG</name>
+    <cmt>180 SPEARGRASS</cmt>
+    <desc>180 SPEARGRASS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.769550" lon="172.795532">
+    <ele>565.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>182TEE</name>
+    <cmt>182 TEETOTL GOAL</cmt>
+    <desc>182 TEETOTL GOAL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.730980" lon="172.695373">
+    <ele>440.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>184HVR</name>
+    <cmt>184 HOWARD VY RD</cmt>
+    <desc>184 HOWARD VY RD</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.722501" lon="172.590858">
+    <ele>869.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>186GOW</name>
+    <cmt>186 GOWAN KNOB</cmt>
+    <desc>186 GOWAN KNOB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.749746" lon="172.607152">
+    <ele>991.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>187NWS</name>
+    <cmt>187 NEW CK SPUR</cmt>
+    <desc>187 NEW CK SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.777486" lon="172.561513">
+    <ele>1079.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>188BRA</name>
+    <cmt>188 BRAEBURN PT</cmt>
+    <desc>188 BRAEBURN PT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.751499" lon="173.093887">
+    <ele>1415.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>200BLT</name>
+    <cmt>200 BLOWHA TKOFF</cmt>
+    <desc>200 BLOWHA TKOFF</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.738548" lon="173.116653">
+    <ele>1390.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>201BTR</name>
+    <cmt>201 BLOWHA TRIG</cmt>
+    <desc>201 BLOWHA TRIG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.717590" lon="173.141129">
+    <ele>1060.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>202BLN</name>
+    <cmt>202 BLOWH PT1059</cmt>
+    <desc>202 BLOWH PT1059</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.664959" lon="173.203751">
+    <ele>350.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>210ARG</name>
+    <cmt>210 ARGYLE RDJNC</cmt>
+    <desc>210 ARGYLE RDJNC</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.628059" lon="173.342224">
+    <ele>265.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>212PAD</name>
+    <cmt>212 WIDE PADDOCK</cmt>
+    <desc>212 WIDE PADDOCK</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.560871" lon="173.526901">
+    <ele>160.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>214GLF</name>
+    <cmt>214 WVLY GLF CRS</cmt>
+    <desc>214 WVLY GLF CRS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.533421" lon="173.631729">
+    <ele>110.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>216BEN</name>
+    <cmt>216 WRAU RD BEND</cmt>
+    <desc>216 WRAU RD BEND</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.757111" lon="173.044540">
+    <ele>1290.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>218POS</name>
+    <cmt>218 PT1286 POSSM</cmt>
+    <desc>218 PT1286 POSSM</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.780670" lon="173.000000">
+    <ele>1158.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>220SJU</name>
+    <cmt>220 PT1158 SPURJ</cmt>
+    <desc>220 PT1158 SPURJ</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.815910" lon="172.962799">
+    <ele>1100.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>222BKB</name>
+    <cmt>222 RAGL BUSH KB</cmt>
+    <desc>222 RAGL BUSH KB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.812698" lon="172.999374">
+    <ele>1835.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>223RG1</name>
+    <cmt>223 RAGL PT1836</cmt>
+    <desc>223 RAGL PT1836</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.876240" lon="172.899033">
+    <ele>1340.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>224WLS</name>
+    <cmt>224 WOOLSHE SPUR</cmt>
+    <desc>224 WOOLSHE SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.870220" lon="172.924515">
+    <ele>640.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>226WOL</name>
+    <cmt>226 WOOLSHE FLAT</cmt>
+    <desc>226 WOOLSHE FLAT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.915619" lon="172.894913">
+    <ele>1220.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>228SXS</name>
+    <cmt>228 SIX MIL SPUR</cmt>
+    <desc>228 SIX MIL SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.907940" lon="172.918381">
+    <ele>695.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>2306MF</name>
+    <cmt>230 SIX MIL FLAT</cmt>
+    <desc>230 SIX MIL FLAT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.969990" lon="172.893524">
+    <ele>780.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>232IRI</name>
+    <cmt>232 IRISHMANS FL</cmt>
+    <desc>232 IRISHMANS FL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.969650" lon="172.908096">
+    <ele>1300.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>234ELI</name>
+    <cmt>234 ELISE SPUR</cmt>
+    <desc>234 ELISE SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.983742" lon="172.918426">
+    <ele>1820.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>236ELP</name>
+    <cmt>236 ELISE PEAK</cmt>
+    <desc>236 ELISE PEAK</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.990021" lon="172.890198">
+    <ele>800.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>238HOM</name>
+    <cmt>238 OLD RAINB HM</cmt>
+    <desc>238 OLD RAINB HM</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.025101" lon="172.899994">
+    <ele>832.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>240HEL</name>
+    <cmt>240 HELLSGA BRDG</cmt>
+    <desc>240 HELLSGA BRDG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.064960" lon="172.880768">
+    <ele>1775.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>242TUK</name>
+    <cmt>242 TURK RDG SPR</cmt>
+    <desc>242 TURK RDG SPR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.134980" lon="172.909410">
+    <ele>1015.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>250SED</name>
+    <cmt>250 SEDGEMERE</cmt>
+    <desc>250 SEDGEMERE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.171379" lon="172.847275">
+    <ele>1860.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>270BAL</name>
+    <cmt>270 MT BALACLAVA</cmt>
+    <desc>270 MT BALACLAVA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.214249" lon="172.754257">
+    <ele>1100.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>280TNY</name>
+    <cmt>280 LAK TENNY RD</cmt>
+    <desc>280 LAK TENNY RD</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.313350" lon="172.765630">
+    <ele>950.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>284FOW</name>
+    <cmt>284 FOWLERS CAMP</cmt>
+    <desc>284 FOWLERS CAMP</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.362541" lon="172.788208">
+    <ele>895.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>288TSB</name>
+    <cmt>288 TIMMSTR BRDG</cmt>
+    <desc>288 TIMMSTR BRDG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.520470" lon="172.821854">
+    <ele>375.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>290HAM</name>
+    <cmt>290 HANMER SPRNG</cmt>
+    <desc>290 HANMER SPRNG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.672001" lon="173.563110">
+    <ele>785.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>300HOP</name>
+    <cmt>300 BENHOPAI</cmt>
+    <desc>300 BENHOPAI</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.729340" lon="172.499710">
+    <ele>1460.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>400MUR</name>
+    <cmt>400 MT MURCHISON</cmt>
+    <desc>400 MT MURCHISON</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.700130" lon="172.461140">
+    <ele>275.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>402FAR</name>
+    <cmt>402 FARM BOMBOUT</cmt>
+    <desc>402 FARM BOMBOUT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.673275" lon="172.415527">
+    <ele>1045.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>404BLU</name>
+    <cmt>404 BLU CLIF NTH</cmt>
+    <desc>404 BLU CLIF NTH</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.732937" lon="172.420105">
+    <ele>590.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>406NUG</name>
+    <cmt>406 NUGETY KNOLL</cmt>
+    <desc>406 NUGETY KNOLL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.794048" lon="172.346710">
+    <ele>175.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>408MUD</name>
+    <cmt>408 MURCH DOMAIN</cmt>
+    <desc>408 MURCH DOMAIN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.801479" lon="172.331711">
+    <ele>165.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>410MUS</name>
+    <cmt>410 MURCH SPORTS</cmt>
+    <desc>410 MURCH SPORTS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.872433" lon="172.333954">
+    <ele>270.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>412SIX</name>
+    <cmt>412 SIXMIL LANDG</cmt>
+    <desc>412 SIXMIL LANDG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.918571" lon="172.319488">
+    <ele>250.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>41410M</name>
+    <cmt>414 TEN MILE CK</cmt>
+    <desc>414 TEN MILE CK</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.985110" lon="172.367280">
+    <ele>986.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>415MTK</name>
+    <cmt>415 MATAKI PT986</cmt>
+    <desc>415 MATAKI PT986</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.969669" lon="172.291367">
+    <ele>1510.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>416MAN</name>
+    <cmt>416 MANTELL NRTH</cmt>
+    <desc>416 MANTELL NRTH</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.014180" lon="172.269920">
+    <ele>1485.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>417LIT</name>
+    <cmt>417 LITTLEMANTEL</cmt>
+    <desc>417 LITTLEMANTEL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.015560" lon="172.355316">
+    <ele>520.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>418BTW</name>
+    <cmt>418 BROOK RD TWR</cmt>
+    <desc>418 BROOK RD TWR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.065891" lon="172.333115">
+    <ele>430.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>420GLE</name>
+    <cmt>420 TOP GLENROY</cmt>
+    <desc>420 TOP GLENROY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.827245" lon="172.425203">
+    <ele>860.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>421MGL</name>
+    <cmt>421 MANGLES KNB</cmt>
+    <desc>421 MANGLES KNB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.832760" lon="172.457169">
+    <ele>550.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>422TUT</name>
+    <cmt>422 TUTAKI PT548</cmt>
+    <desc>422 TUTAKI PT548</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.927530" lon="172.479700">
+    <ele>1160.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>423TOM</name>
+    <cmt>423 THOMSON SPUR</cmt>
+    <desc>423 THOMSON SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.965462" lon="172.517426">
+    <ele>515.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>424MOS</name>
+    <cmt>424 MOLE STREAM</cmt>
+    <desc>424 MOLE STREAM</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.968420" lon="172.581530">
+    <ele>1640.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>425MOT</name>
+    <cmt>425 MOLE TOPS</cmt>
+    <desc>425 MOLE TOPS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.828929" lon="172.475324">
+    <ele>280.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>426TUR</name>
+    <cmt>426 TUTAKI ROAD</cmt>
+    <desc>426 TUTAKI ROAD</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.896084" lon="172.474401">
+    <ele>355.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>428TUF</name>
+    <cmt>428 TUTAKI FORKS</cmt>
+    <desc>428 TUTAKI FORKS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.004307" lon="172.528112">
+    <ele>480.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>430WAT</name>
+    <cmt>430 WATSON CREEK</cmt>
+    <desc>430 WATSON CREEK</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.009516" lon="172.493908">
+    <ele>410.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>432MAT</name>
+    <cmt>432 MATAKI CORNR</cmt>
+    <desc>432 MATAKI CORNR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.039357" lon="172.546325">
+    <ele>1425.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>434FTP</name>
+    <cmt>434 FLAT TOP</cmt>
+    <desc>434 FLAT TOP</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.187229" lon="172.218369">
+    <ele>340.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>440MAR</name>
+    <cmt>440 MARURIA</cmt>
+    <desc>440 MARURIA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.279100" lon="172.212070">
+    <ele>395.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>442KOW</name>
+    <cmt>442 KOWAI PADDOC</cmt>
+    <desc>442 KOWAI PADDOC</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.331650" lon="172.183548">
+    <ele>425.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>444SPJ</name>
+    <cmt>444 SPRINGS JUNC</cmt>
+    <desc>444 SPRINGS JUNC</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.351780" lon="172.209140">
+    <ele>715.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>446MRB</name>
+    <cmt>446 MARBLE HILL</cmt>
+    <desc>446 MARBLE HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.411440" lon="172.109850">
+    <ele>425.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>448PAL</name>
+    <cmt>448 PALMER FLAT</cmt>
+    <desc>448 PALMER FLAT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-42.511500" lon="172.384960">
+    <ele>575.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>460BOY</name>
+    <cmt>460 BOYLE VILLAG</cmt>
+    <desc>460 BOYLE VILLAG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.026443" lon="172.861526">
+    <ele>890.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>500TAK</name>
+    <cmt>500 TAKAKA TKOFF</cmt>
+    <desc>500 TAKAKA TKOFF</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.037441" lon="172.835464">
+    <ele>180.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>501TBO</name>
+    <cmt>501 TAKAKA BOMB</cmt>
+    <desc>501 TAKAKA BOMB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.089577" lon="172.814987">
+    <ele>1175.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>502HAI</name>
+    <cmt>502 HAIL KNB SPR</cmt>
+    <desc>502 HAIL KNB SPR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.073753" lon="172.828537">
+    <ele>920.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>503KNB</name>
+    <cmt>503 BUSH KNB 980</cmt>
+    <desc>503 BUSH KNB 980</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.056789" lon="172.801453">
+    <ele>340.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>506WSP</name>
+    <cmt>506 WAITUI SPUR</cmt>
+    <desc>506 WAITUI SPUR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.034992" lon="172.793198">
+    <ele>385.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>507TRG</name>
+    <cmt>507 TRIG PT 382</cmt>
+    <desc>507 TRIG PT 382</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.004597" lon="172.847198">
+    <ele>705.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>508PT7</name>
+    <cmt>508 POINT 704</cmt>
+    <desc>508 POINT 704</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-40.987591" lon="172.819305">
+    <ele>70.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>510BRI</name>
+    <cmt>510 LINDSAY BRDG</cmt>
+    <desc>510 LINDSAY BRDG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-40.939983" lon="172.829468">
+    <ele>55.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>512EAS</name>
+    <cmt>512 EAST TAKAKA</cmt>
+    <desc>512 EAST TAKAKA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-40.846416" lon="172.874237">
+    <ele>40.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>514CLF</name>
+    <cmt>514 CLIFTON FLAT</cmt>
+    <desc>514 CLIFTON FLAT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.425957" lon="172.673994">
+    <ele>940.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>600SHE</name>
+    <cmt>600 SHERRY LAUNC</cmt>
+    <desc>600 SHERRY LAUNC</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.410580" lon="172.714434">
+    <ele>206.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>602ORC</name>
+    <cmt>602 ORCHARD ROAD</cmt>
+    <desc>602 ORCHARD ROAD</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.441273" lon="172.678462">
+    <ele>965.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>604SLO</name>
+    <cmt>604 SHER LOOKOUT</cmt>
+    <desc>604 SHER LOOKOUT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.477200" lon="172.681030">
+    <ele>610.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>606CHR</name>
+    <cmt>606 CHRCREEK HIL</cmt>
+    <desc>606 CHRCREEK HIL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.442523" lon="172.630117">
+    <ele>1035.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>608DEV</name>
+    <cmt>608 DEVILS THUMB</cmt>
+    <desc>608 DEVILS THUMB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.381222" lon="172.692871">
+    <ele>650.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>610JON</name>
+    <cmt>610 JONES RIDGE</cmt>
+    <desc>610 JONES RIDGE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.346581" lon="172.717529">
+    <ele>745.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>612THO</name>
+    <cmt>612 THOMSON HILL</cmt>
+    <desc>612 THOMSON HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.329890" lon="172.784310">
+    <ele>125.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>614WBR</name>
+    <cmt>614 WANGAPK BRID</cmt>
+    <desc>614 WANGAPK BRID</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.388610" lon="172.821040">
+    <ele>145.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>616TTW</name>
+    <cmt>616 TAPAWER TOWN</cmt>
+    <desc>616 TAPAWER TOWN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.458461" lon="172.728341">
+    <ele>340.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>618TAR</name>
+    <cmt>618 TADMOR RIDGE</cmt>
+    <desc>618 TADMOR RIDGE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.437766" lon="172.753016">
+    <ele>210.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>620TAD</name>
+    <cmt>620 TADMOR JUNCT</cmt>
+    <desc>620 TADMOR JUNCT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.422200" lon="172.757600">
+    <ele>340.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>621TAH</name>
+    <cmt>621 TADMOR HILL</cmt>
+    <desc>621 TADMOR HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.472245" lon="172.775146">
+    <ele>631.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>624PT6</name>
+    <cmt>624 PINCHBACK631</cmt>
+    <desc>624 PINCHBACK631</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.450559" lon="172.835534">
+    <ele>185.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>626KOH</name>
+    <cmt>626 KOHATU JUNCT</cmt>
+    <desc>626 KOHATU JUNCT</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.485928" lon="172.827360">
+    <ele>480.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>628RID</name>
+    <cmt>628 RIDG RD RIDG</cmt>
+    <desc>628 RIDG RD RIDG</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.488300" lon="172.851720">
+    <ele>215.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>630GGF</name>
+    <cmt>630 GOLDEN GOLF</cmt>
+    <desc>630 GOLDEN GOLF</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.541500" lon="172.729050">
+    <ele>325.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>632TUI</name>
+    <cmt>632 TUI BRIDGE</cmt>
+    <desc>632 TUI BRIDGE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.543034" lon="172.766984">
+    <ele>648.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>634PIN</name>
+    <cmt>634 PINCHBAC HIL</cmt>
+    <desc>634 PINCHBAC HIL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.569761" lon="172.784508">
+    <ele>283.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>635KOR</name>
+    <cmt>635 KORE RD BEND</cmt>
+    <desc>635 KORE RD BEND</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.657970" lon="172.800290">
+    <ele>380.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>636RNR</name>
+    <cmt>636 RAINY RIV RD</cmt>
+    <desc>636 RAINY RIV RD</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.648890" lon="172.649650">
+    <ele>390.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>638GLH</name>
+    <cmt>638 GLNHOPE BRID</cmt>
+    <desc>638 GLNHOPE BRID</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.404040" lon="172.851300">
+    <ele>500.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>650TAP</name>
+    <cmt>650 TAPAWERA LAU</cmt>
+    <desc>650 TAPAWERA LAU</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.330355" lon="173.750777">
+    <ele>418.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>700FOT</name>
+    <cmt>700 FOOTES HILL</cmt>
+    <desc>700 FOOTES HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.321676" lon="173.762440">
+    <ele>12.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>701FBO</name>
+    <cmt>701 FOOTES BOMB</cmt>
+    <desc>701 FOOTES BOMB</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.326983" lon="173.801141">
+    <ele>829.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>704CNW</name>
+    <cmt>704 CULLEN NORW</cmt>
+    <desc>704 CULLEN NORW</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.354681" lon="173.793477">
+    <ele>671.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>706CUW</name>
+    <cmt>706 CULLEN WEST</cmt>
+    <desc>706 CULLEN WEST</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.307500" lon="173.782210">
+    <ele>20.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>708NEW</name>
+    <cmt>708 NEWTONS HOUS</cmt>
+    <desc>708 NEWTONS HOUS</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.380739" lon="173.743053">
+    <ele>483.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>710HAF</name>
+    <cmt>710 HALFTREE SPR</cmt>
+    <desc>710 HALFTREE SPR</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.391951" lon="173.715504">
+    <ele>805.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>711RIL</name>
+    <cmt>711 RILEY NORTH</cmt>
+    <desc>711 RILEY NORTH</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.414556" lon="173.742065">
+    <ele>506.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>712OKW</name>
+    <cmt>712 OKARMIO WEST</cmt>
+    <desc>712 OKARMIO WEST</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.419430" lon="173.792117">
+    <ele>543.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>714OKE</name>
+    <cmt>714 OKARMIO EAST</cmt>
+    <desc>714 OKARMIO EAST</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.422111" lon="173.763024">
+    <ele>58.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>715OKA</name>
+    <cmt>715 OKARAMIO PAD</cmt>
+    <desc>715 OKARAMIO PAD</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.443454" lon="173.762438">
+    <ele>418.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>716KAI</name>
+    <cmt>716 KAITUNA RDGE</cmt>
+    <desc>716 KAITUNA RDGE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.425703" lon="173.838845">
+    <ele>685.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>718TWW</name>
+    <cmt>718 TRIG WW685</cmt>
+    <desc>718 TRIG WW685</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.427340" lon="173.953470">
+    <ele>8.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>719TUA</name>
+    <cmt>719 TUAMARINA</cmt>
+    <desc>719 TUAMARINA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.293650" lon="173.683200">
+    <ele>420.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>720CLA</name>
+    <cmt>720 CANVASTN LAU</cmt>
+    <desc>720 CANVASTN LAU</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.317960" lon="173.600280">
+    <ele>540.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>721PLA</name>
+    <cmt>721 PELORUS LAUN</cmt>
+    <desc>721 PELORUS LAUN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.234180" lon="173.583290">
+    <ele>42.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>722RAI</name>
+    <cmt>722 RAI VALLEY</cmt>
+    <desc>722 RAI VALLEY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.298075" lon="173.571805">
+    <ele>40.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>723PBR</name>
+    <cmt>723 PELORUS BRID</cmt>
+    <desc>723 PELORUS BRID</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.317470" lon="173.538000">
+    <ele>487.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>724PE4</name>
+    <cmt>724 PELORS PT487</cmt>
+    <desc>724 PELORS PT487</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.280980" lon="173.552200">
+    <ele>603.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>725PE6</name>
+    <cmt>725 PELORS PT603</cmt>
+    <desc>725 PELORS PT603</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.289337" lon="173.675340">
+    <ele>5.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>726CAN</name>
+    <cmt>726 CANVASTOWN</cmt>
+    <desc>726 CANVASTOWN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.281606" lon="173.643392">
+    <ele>10.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>727DAL</name>
+    <cmt>727 DALTONS BRID</cmt>
+    <desc>727 DALTONS BRID</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.285280" lon="173.791400">
+    <ele>380.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>728HVP</name>
+    <cmt>728 HLOCK POWERL</cmt>
+    <desc>728 HLOCK POWERL</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.297577" lon="173.856053">
+    <ele>14.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>730CUL</name>
+    <cmt>730 CULLENSVILLE</cmt>
+    <desc>730 CULLENSVILLE</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.289505" lon="173.857737">
+    <ele>8.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>732LIN</name>
+    <cmt>732 LINKWATR INN</cmt>
+    <desc>732 LINKWATR INN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.272120" lon="173.881820">
+    <ele>595.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>734OLI</name>
+    <cmt>734 MT OLIVER</cmt>
+    <desc>734 MT OLIVER</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.322470" lon="173.884570">
+    <ele>892.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>735DUN</name>
+    <cmt>735 MT DUNCAN</cmt>
+    <desc>735 MT DUNCAN</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.304430" lon="173.900000">
+    <ele>460.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>736DLA</name>
+    <cmt>736 DUNCAN LAUNC</cmt>
+    <desc>736 DUNCAN LAUNC</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.289836" lon="173.895343">
+    <ele>12.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>737ANA</name>
+    <cmt>737 ANAK RD JUNC</cmt>
+    <desc>737 ANAK RD JUNC</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.281490" lon="173.914585">
+    <ele>6.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>738OKI</name>
+    <cmt>738 OKIWA BAY</cmt>
+    <desc>738 OKIWA BAY</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.289880" lon="174.003280">
+    <ele>8.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>740PIW</name>
+    <cmt>740 WAITOHI DOMA</cmt>
+    <desc>740 WAITOHI DOMA</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.295280" lon="174.005710">
+    <ele>10.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>742PIS</name>
+    <cmt>742 SKATE B PARK</cmt>
+    <desc>742 SKATE B PARK</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.337790" lon="173.964390">
+    <ele>40.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>744KOR</name>
+    <cmt>744 KOROMIKO</cmt>
+    <desc>744 KOROMIKO</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-41.479081" lon="173.565261">
+    <ele>951.0</ele>
+    <time>1989-12-31T00:00:00</time>
+    <name>750FAB</name>
+    <cmt>750 FABIANS HILL</cmt>
+    <desc>750 FABIANS HILL</desc>
+    <sym>Dot</sym>
+  </wpt>
+</gpx>

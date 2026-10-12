@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2015-12-22T11:10:38Z</time>
+<bounds minlat="17.770943869" minlon="73.657533041" maxlat="18.048586100" maxlon="74.029274252"/>
+<wpt lat="18.006763064" lon="74.029274252">
+  <ele>1275.000000</ele>
+  <name>A1046</name>
+  <cmt>Unknown 10</cmt>
+  <desc>Unknown 10</desc>
+</wpt>
+<wpt lat="17.770943869" lon="73.916492727">
+  <ele>1169.000000</ele>
+  <name>A1045</name>
+  <cmt>Meruling</cmt>
+  <desc>Meruling</desc>
+</wpt>
+<wpt lat="17.852793134" lon="73.797890809">
+  <ele>1000.000000</ele>
+  <name>A1044</name>
+  <cmt>Marli Take-Off</cmt>
+  <desc>Marli Take-Off</desc>
+</wpt>
+<wpt lat="17.897185189" lon="73.817907682">
+  <ele>1203.000000</ele>
+  <name>A1043</name>
+  <cmt>Khingar Takeoff</cmt>
+  <desc>Khingar Takeoff</desc>
+</wpt>
+<wpt lat="17.898216362" lon="73.843335024">
+  <ele>1195.000000</ele>
+  <name>A1042</name>
+  <cmt>Rajapuri Takeoff</cmt>
+  <desc>Rajapuri Takeoff</desc>
+</wpt>
+<wpt lat="17.924958400" lon="73.657533041">
+  <ele>1365.000000</ele>
+  <name>A1041</name>
+  <cmt>Mahabaleshwar Town</cmt>
+  <desc>Mahabaleshwar Town</desc>
+</wpt>
+<wpt lat="17.964500019" lon="73.662816993">
+  <ele>1333.000000</ele>
+  <name>A1040</name>
+  <cmt>Old Mahabaleshwar</cmt>
+  <desc>Old Mahabaleshwar</desc>
+</wpt>
+<wpt lat="17.943177800" lon="73.831511100">
+  <ele>1100.000000</ele>
+  <name>A1001</name>
+  <cmt>Harrison Folly</cmt>
+  <desc>Harrison Folly</desc>
+</wpt>
+<wpt lat="17.998327700" lon="73.863652800">
+  <ele>1254.000000</ele>
+  <name>A1002</name>
+  <cmt>Pandavgadh</cmt>
+  <desc>Pandavgadh</desc>
+</wpt>
+<wpt lat="17.966897200" lon="73.744886100">
+  <ele>1346.000000</ele>
+  <name>A1003</name>
+  <cmt>Kamalgadh</cmt>
+  <desc>Kamalgadh</desc>
+</wpt>
+<wpt lat="17.936972200" lon="73.806125000">
+  <ele>1271.000000</ele>
+  <name>A1004</name>
+  <cmt>Sydney Point</cmt>
+  <desc>Sydney Point</desc>
+</wpt>
+<wpt lat="18.044444500" lon="73.876291700">
+  <ele>1342.000000</ele>
+  <name>A1005</name>
+  <cmt>Mandhar Devi</cmt>
+  <desc>Mandhar Devi</desc>
+</wpt>
+<wpt lat="18.018041600" lon="73.794475000">
+  <ele>1314.000000</ele>
+  <name>A1006</name>
+  <cmt>Eruli</cmt>
+  <desc>Eruli</desc>
+</wpt>
+<wpt lat="17.993430500" lon="73.731775000">
+  <ele>1154.000000</ele>
+  <name>A1007</name>
+  <cmt>Unknown1</cmt>
+  <desc>Unknown1</desc>
+</wpt>
+<wpt lat="18.025305600" lon="73.745077800">
+  <ele>1273.000000</ele>
+  <name>A1008</name>
+  <cmt>Kenjalgadh</cmt>
+  <desc>Kenjalgadh</desc>
+</wpt>
+<wpt lat="17.929011100" lon="73.807433400">
+  <ele>1324.000000</ele>
+  <name>A1009</name>
+  <cmt>Table Land Lake</cmt>
+  <desc>Table Land Lake</desc>
+</wpt>
+<wpt lat="17.931213900" lon="73.825522300">
+  <ele>1318.000000</ele>
+  <name>A1010</name>
+  <cmt>Dandeghar</cmt>
+  <desc>Dandeghar</desc>
+</wpt>
+<wpt lat="17.905061100" lon="73.839600000">
+  <ele>1306.000000</ele>
+  <name>A1011</name>
+  <cmt>Rajapuri Tableland</cmt>
+  <desc>Rajapuri Tableland</desc>
+</wpt>
+<wpt lat="17.975716600" lon="73.819408300">
+  <ele>735.000000</ele>
+  <name>A1012</name>
+  <cmt>Dhom Dam</cmt>
+  <desc>Dhom Dam</desc>
+</wpt>
+<wpt lat="17.895605600" lon="73.857172200">
+  <ele>1208.000000</ele>
+  <name>A1013</name>
+  <cmt>Unknown2</cmt>
+  <desc>Unknown2</desc>
+</wpt>
+<wpt lat="17.871141700" lon="73.897536100">
+  <ele>1166.000000</ele>
+  <name>A1014</name>
+  <cmt>Unknown3</cmt>
+  <desc>Unknown3</desc>
+</wpt>
+<wpt lat="17.937625000" lon="73.770333400">
+  <ele>1156.000000</ele>
+  <name>A1015</name>
+  <cmt>Pangari</cmt>
+  <desc>Pangari</desc>
+</wpt>
+<wpt lat="17.974202800" lon="73.712483300">
+  <ele>1300.000000</ele>
+  <name>A1016</name>
+  <cmt>Unknown4</cmt>
+  <desc>Unknown4</desc>
+</wpt>
+<wpt lat="17.843019500" lon="73.828136100">
+  <ele>1285.000000</ele>
+  <name>A1017</name>
+  <cmt>Unknown5</cmt>
+  <desc>Unknown5</desc>
+</wpt>
+<wpt lat="18.048586100" lon="73.715438900">
+  <ele>1395.000000</ele>
+  <name>A1018</name>
+  <cmt>Raireshwar</cmt>
+  <desc>Raireshwar</desc>
+</wpt>
+<wpt lat="17.875313900" lon="73.800841700">
+  <ele>1192.000000</ele>
+  <name>A1019</name>
+  <cmt>Ghoteghar</cmt>
+  <desc>Ghoteghar</desc>
+</wpt>
+<wpt lat="17.912027800" lon="73.820197200">
+  <ele>1304.000000</ele>
+  <name>A1020</name>
+  <cmt>Khingar Tableland</cmt>
+  <desc>Khingar Tableland</desc>
+</wpt>
+<wpt lat="18.002638900" lon="73.815261100">
+  <ele>917.000000</ele>
+  <name>A1021</name>
+  <cmt>Unknown6</cmt>
+  <desc>Unknown6</desc>
+</wpt>
+<wpt lat="17.983213900" lon="73.760758300">
+  <ele>1256.000000</ele>
+  <name>A1022</name>
+  <cmt>Unknown7</cmt>
+  <desc>Unknown7</desc>
+</wpt>
+<wpt lat="18.030963900" lon="73.845516700">
+  <ele>1355.000000</ele>
+  <name>A1023</name>
+  <cmt>Unknown8</cmt>
+  <desc>Unknown8</desc>
+</wpt>
+<wpt lat="18.027613900" lon="73.889202800">
+  <ele>1267.000000</ele>
+  <name>A1024</name>
+  <cmt>Lake Mandhardevi</cmt>
+  <desc>Lake Mandhardevi</desc>
+</wpt>
+<wpt lat="17.923863900" lon="73.734880500">
+  <ele>1289.000000</ele>
+  <name>A1025</name>
+  <cmt>Mapro Garden Ridge</cmt>
+  <desc>Mapro Garden Ridge</desc>
+</wpt>
+<wpt lat="18.001186100" lon="73.671452800">
+  <ele>1408.000000</ele>
+  <name>A1026</name>
+  <cmt>Unknown 9</cmt>
+  <desc>Unknown 9</desc>
+</wpt>
+<wpt lat="17.946922200" lon="73.808466700">
+  <ele>1120.000000</ele>
+  <name>A1027</name>
+  <cmt>Sydney Point East TO</cmt>
+  <desc>Sydney Point East TO</desc>
+</wpt>
+<wpt lat="17.936766700" lon="73.805116700">
+  <ele>1255.000000</ele>
+  <name>A1028</name>
+  <cmt>Sydney Point West TO</cmt>
+  <desc>Sydney Point West TO</desc>
+</wpt>
+<wpt lat="17.965261100" lon="73.944152800">
+  <ele>911.000000</ele>
+  <name>A1029</name>
+  <cmt>Mapro Wai</cmt>
+  <desc>Mapro Wai</desc>
+</wpt>
+<wpt lat="17.937091700" lon="74.010400000">
+  <ele>1193.000000</ele>
+  <name>A1030</name>
+  <cmt>Chavaneshwar Temple</cmt>
+  <desc>Chavaneshwar Temple</desc>
+</wpt>
+<wpt lat="17.907122200" lon="73.992991700">
+  <ele>762.000000</ele>
+  <name>A1031</name>
+  <cmt>Anavadi</cmt>
+  <desc>Anavadi</desc>
+</wpt>
+<wpt lat="17.959302800" lon="73.811788900">
+  <ele>1058.000000</ele>
+  <name>A1032</name>
+  <cmt>Sydney Point Ridge Thermal</cmt>
+  <desc>Sydney Point Ridge Thermal</desc>
+</wpt>
+<wpt lat="17.938891700" lon="73.840500000">
+  <ele>804.000000</ele>
+  <name>A1033</name>
+  <cmt>Pasarni Landing 1</cmt>
+  <desc>Pasarni Landing 1</desc>
+</wpt>
+<wpt lat="17.945680600" lon="73.840977800">
+  <ele>792.000000</ele>
+  <name>A1034</name>
+  <cmt>Pasarni Landing 2</cmt>
+  <desc>Pasarni Landing 2</desc>
+</wpt>
+<wpt lat="17.954894500" lon="73.798600000">
+  <ele>773.000000</ele>
+  <name>A1035</name>
+  <cmt>Sydney Ridge Landing1</cmt>
+  <desc>Sydney Ridge Landing1</desc>
+</wpt>
+<wpt lat="17.952947200" lon="73.801513900">
+  <ele>797.000000</ele>
+  <name>A1036</name>
+  <cmt>Sydney Ridge Landing2</cmt>
+  <desc>Sydney Ridge Landing2</desc>
+</wpt>
+<wpt lat="17.939802800" lon="73.796597200">
+  <ele>837.000000</ele>
+  <name>A1037</name>
+  <cmt>Chikhli Landing</cmt>
+  <desc>Chikhli Landing</desc>
+</wpt>
+<wpt lat="17.974283300" lon="73.784988900">
+  <ele>744.000000</ele>
+  <name>A1038</name>
+  <cmt>Asgaon Landing</cmt>
+  <desc>Asgaon Landing</desc>
+</wpt>
+<wpt lat="17.951891700" lon="73.937683300">
+  <ele>753.000000</ele>
+  <name>A1039</name>
+  <cmt>Mapro Landing</cmt>
+  <desc>Mapro Landing</desc>
+</wpt>
+</gpx>

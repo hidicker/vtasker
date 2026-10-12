@@ -1,0 +1,1294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2015-08-25T10:11:07Z</time>
+<bounds minlat="46.975170000" minlon="5.866680000" maxlat="48.407470000" maxlon="7.708050000"/>
+<wpt lat="48.283300000" lon="6.950000000">
+  <ele>0.000000</ele>
+  <name>VER-07</name>
+  <cmt>ICARE CLUB 2015</cmt>
+  <desc>ICARE CLUB 2015</desc>
+</wpt>
+<wpt lat="47.979852000" lon="7.292010000">
+  <ele>210.000000</ele>
+  <name>A33021</name>
+  <cmt>ATTER PFAFFENHEIM</cmt>
+  <desc>ATTER PFAFFENHEIM</desc>
+</wpt>
+<wpt lat="48.071029000" lon="7.250170000">
+  <ele>259.000000</ele>
+  <name>A32026</name>
+  <cmt>ATTER WINTZENHEIM</cmt>
+  <desc>ATTER WINTZENHEIM</desc>
+</wpt>
+<wpt lat="48.266666000" lon="6.956944000">
+  <ele>390.000000</ele>
+  <name>A31039</name>
+  <cmt>ATTERRO KEMBERG</cmt>
+  <desc>ATTERRO KEMBERG</desc>
+</wpt>
+<wpt lat="48.193055000" lon="7.215555000">
+  <ele>835.000000</ele>
+  <name>B77083</name>
+  <cmt>COL DE FRELAND</cmt>
+  <desc>COL DE FRELAND</desc>
+</wpt>
+<wpt lat="48.233333000" lon="7.210280000">
+  <ele>881.000000</ele>
+  <name>B76088</name>
+  <cmt>ADELSPACH</cmt>
+  <desc>ADELSPACH</desc>
+</wpt>
+<wpt lat="47.701111000" lon="6.666666000">
+  <ele>360.000000</ele>
+  <name>B75036</name>
+  <cmt>RONCHAMP-EST LAC</cmt>
+  <desc>RONCHAMP-EST LAC</desc>
+</wpt>
+<wpt lat="48.303833000" lon="6.994569000">
+  <ele>840.000000</ele>
+  <name>B74084</name>
+  <cmt>RELAIS ORMONT</cmt>
+  <desc>RELAIS ORMONT</desc>
+</wpt>
+<wpt lat="48.272221000" lon="6.930990000">
+  <ele>670.000000</ele>
+  <name>B73067</name>
+  <cmt>DECO KIOSQUE</cmt>
+  <desc>DECO KIOSQUE</desc>
+</wpt>
+<wpt lat="48.256790000" lon="6.931977000">
+  <ele>727.000000</ele>
+  <name>B72073</name>
+  <cmt>DECO KEMBERG</cmt>
+  <desc>DECO KEMBERG</desc>
+</wpt>
+<wpt lat="48.249383000" lon="7.343524000">
+  <ele>757.000000</ele>
+  <name>B71076</name>
+  <cmt>HAUT-KOENIGSBOURG</cmt>
+  <desc>HAUT-KOENIGSBOURG</desc>
+</wpt>
+<wpt lat="48.265000000" lon="7.000000000">
+  <ele>356.000000</ele>
+  <name>A30036</name>
+  <cmt>REMOMEIX</cmt>
+  <desc>REMOMEIX</desc>
+</wpt>
+<wpt lat="47.953056000" lon="6.343611000">
+  <ele>0.000000</ele>
+  <name>R164B</name>
+  <cmt>R164B Limite SO</cmt>
+  <desc>R164B Limite SO</desc>
+</wpt>
+<wpt lat="48.159444000" lon="7.000000000">
+  <ele>0.000000</ele>
+  <name>R164C4</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="47.998611000" lon="6.808333000">
+  <ele>0.000000</ele>
+  <name>R164C3</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="48.006944000" lon="6.875000000">
+  <ele>0.000000</ele>
+  <name>R164C2</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="48.031111000" lon="6.977222000">
+  <ele>0.000000</ele>
+  <name>R164C1</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="48.159444000" lon="7.000000000">
+  <ele>0.000000</ele>
+  <name>R164C0</name>
+  <cmt>R164 C 1980m</cmt>
+  <desc>R164 C 1980m</desc>
+</wpt>
+<wpt lat="48.081389000" lon="7.569444000">
+  <ele>0.000000</ele>
+  <name>COL407</name>
+  <cmt>COLMAR4 NE Rhin</cmt>
+  <desc>COLMAR4 NE Rhin</desc>
+</wpt>
+<wpt lat="48.031111000" lon="7.338611000">
+  <ele>0.000000</ele>
+  <name>COL403</name>
+  <cmt>COLMAR4 NO</cmt>
+  <desc>COLMAR4 NO</desc>
+</wpt>
+<wpt lat="47.933333000" lon="7.249167000">
+  <ele>0.000000</ele>
+  <name>COL402</name>
+  <cmt>COLMAR4 SO</cmt>
+  <desc>COLMAR4 SO</desc>
+</wpt>
+<wpt lat="47.933333000" lon="7.585000000">
+  <ele>0.000000</ele>
+  <name>COL401</name>
+  <cmt>COLMAR4 SE Rhin</cmt>
+  <desc>COLMAR4 SE Rhin</desc>
+</wpt>
+<wpt lat="47.900000000" lon="6.416667000">
+  <ele>0.000000</ele>
+  <name>TMA607</name>
+  <cmt>BALE TMA6 NO</cmt>
+  <desc>BALE TMA6 NO</desc>
+</wpt>
+<wpt lat="47.533333000" lon="6.333333000">
+  <ele>0.000000</ele>
+  <name>TMA605</name>
+  <cmt>BALE TMA6 SO</cmt>
+  <desc>BALE TMA6 SO</desc>
+</wpt>
+<wpt lat="47.833333000" lon="6.808333000">
+  <ele>0.000000</ele>
+  <name>TMA601</name>
+  <cmt>BALE TMA6 NE</cmt>
+  <desc>BALE TMA6 NE</desc>
+</wpt>
+<wpt lat="47.488889000" lon="6.613889000">
+  <ele>0.000000</ele>
+  <name>TMA503</name>
+  <cmt>BELFORT SO 1980</cmt>
+  <desc>BELFORT SO 1980</desc>
+</wpt>
+<wpt lat="47.650000000" lon="6.650000000">
+  <ele>0.000000</ele>
+  <name>TMA502</name>
+  <cmt>BELFORT O 1980 max</cmt>
+  <desc>BELFORT O 1980 max</desc>
+</wpt>
+<wpt lat="47.750000000" lon="6.808333000">
+  <ele>0.000000</ele>
+  <name>TMA501</name>
+  <cmt>BELFORT NO 1980 max</cmt>
+  <desc>BELFORT NO 1980 max</desc>
+</wpt>
+<wpt lat="47.787222000" lon="6.364722000">
+  <ele>0.000000</ele>
+  <name>ZI22-4</name>
+  <cmt>LUXEUIL 22-4km</cmt>
+  <desc>LUXEUIL 22-4km</desc>
+</wpt>
+<wpt lat="47.637849000" lon="6.207305000">
+  <ele>0.000000</ele>
+  <name>ZI-R2</name>
+  <cmt>INTERDIT 2KM - Parachutes</cmt>
+  <desc>INTERDIT 2KM - Parachutes</desc>
+</wpt>
+<wpt lat="47.903923000" lon="6.989407000">
+  <ele>700.000000</ele>
+  <name>D98070</name>
+  <cmt>Siebach-deco</cmt>
+  <desc>Siebach-deco</desc>
+</wpt>
+<wpt lat="48.033880000" lon="6.946870000">
+  <ele>1180.000000</ele>
+  <name>D97118</name>
+  <cmt>CHAMPIS</cmt>
+  <desc>CHAMPIS</desc>
+</wpt>
+<wpt lat="47.900540000" lon="6.917320000">
+  <ele>1170.000000</ele>
+  <name>D96117</name>
+  <cmt>DRUMONT</cmt>
+  <desc>DRUMONT</desc>
+</wpt>
+<wpt lat="48.003880000" lon="6.842730000">
+  <ele>1020.000000</ele>
+  <name>D95102</name>
+  <cmt>BASSE DES FEIGNE</cmt>
+  <desc>BASSE DES FEIGNE</desc>
+</wpt>
+<wpt lat="47.988600000" lon="6.859650000">
+  <ele>960.000000</ele>
+  <name>D94096</name>
+  <cmt>ROCHE DE MINUIT</cmt>
+  <desc>ROCHE DE MINUIT</desc>
+</wpt>
+<wpt lat="48.009200000" lon="6.982990000">
+  <ele>1300.000000</ele>
+  <name>D93130</name>
+  <cmt>RAINKOPF DECO</cmt>
+  <desc>RAINKOPF DECO</desc>
+</wpt>
+<wpt lat="47.893850000" lon="6.934420000">
+  <ele>1020.000000</ele>
+  <name>D92102</name>
+  <cmt>LE GUSTIBERG</cmt>
+  <desc>LE GUSTIBERG</desc>
+</wpt>
+<wpt lat="47.822420000" lon="6.845300000">
+  <ele>1247.000000</ele>
+  <name>D91124</name>
+  <cmt>LE BALLON</cmt>
+  <desc>LE BALLON</desc>
+</wpt>
+<wpt lat="47.925550000" lon="7.011630000">
+  <ele>1220.000000</ele>
+  <name>D90122</name>
+  <cmt>LE TREH</cmt>
+  <desc>LE TREH</desc>
+</wpt>
+<wpt lat="47.906885000" lon="6.995741000">
+  <ele>820.000000</ele>
+  <name>B70082</name>
+  <cmt>SIEBACH-HAUT</cmt>
+  <desc>SIEBACH-HAUT</desc>
+</wpt>
+<wpt lat="48.056630000" lon="6.701670000">
+  <ele>490.000000</ele>
+  <name>B69049</name>
+  <cmt>JULIENRUPT USINE</cmt>
+  <desc>JULIENRUPT USINE</desc>
+</wpt>
+<wpt lat="48.188150000" lon="6.953430000">
+  <ele>450.000000</ele>
+  <name>B68045</name>
+  <cmt>ANOULD-INTERSECT</cmt>
+  <desc>ANOULD-INTERSECT</desc>
+</wpt>
+<wpt lat="48.192480000" lon="7.113730000">
+  <ele>900.000000</ele>
+  <name>B67090</name>
+  <cmt>BAGENELLES COL</cmt>
+  <desc>BAGENELLES COL</desc>
+</wpt>
+<wpt lat="48.172150000" lon="7.113380000">
+  <ele>690.000000</ele>
+  <name>B66069</name>
+  <cmt>BONHOMNE VILLE</cmt>
+  <desc>BONHOMNE VILLE</desc>
+</wpt>
+<wpt lat="48.163150000" lon="6.917070000">
+  <ele>620.000000</ele>
+  <name>B65062</name>
+  <cmt>PLAFOND-COL</cmt>
+  <desc>PLAFOND-COL</desc>
+</wpt>
+<wpt lat="48.172570000" lon="6.880770000">
+  <ele>530.000000</ele>
+  <name>B64053</name>
+  <cmt>CORCIEUX-ROND-PT</cmt>
+  <desc>CORCIEUX-ROND-PT</desc>
+</wpt>
+<wpt lat="47.979220000" lon="6.982020000">
+  <ele>1150.000000</ele>
+  <name>B63115</name>
+  <cmt>HUSS FERME</cmt>
+  <desc>HUSS FERME</desc>
+</wpt>
+<wpt lat="48.009350000" lon="6.891800000">
+  <ele>850.000000</ele>
+  <name>B62085</name>
+  <cmt>MOYENMONT ANTENN</cmt>
+  <desc>MOYENMONT ANTENN</desc>
+</wpt>
+<wpt lat="47.953600000" lon="6.744380000">
+  <ele>450.000000</ele>
+  <name>B61045</name>
+  <cmt>SAULXURES USINE</cmt>
+  <desc>SAULXURES USINE</desc>
+</wpt>
+<wpt lat="47.925818000" lon="6.787061000">
+  <ele>950.000000</ele>
+  <name>B60095</name>
+  <cmt>TETE DU MIDI</cmt>
+  <desc>TETE DU MIDI</desc>
+</wpt>
+<wpt lat="47.961380000" lon="6.980520000">
+  <ele>1000.000000</ele>
+  <name>B59100</name>
+  <cmt>SCHAFFERT FERME</cmt>
+  <desc>SCHAFFERT FERME</desc>
+</wpt>
+<wpt lat="47.927691000" lon="6.979888000">
+  <ele>842.000000</ele>
+  <name>B58084</name>
+  <cmt>Gommkopf</cmt>
+  <desc>Gommkopf</desc>
+</wpt>
+<wpt lat="48.108880000" lon="7.002460000">
+  <ele>1130.000000</ele>
+  <name>B57113</name>
+  <cmt>SERICHAMP ANTEN</cmt>
+  <desc>SERICHAMP ANTEN</desc>
+</wpt>
+<wpt lat="48.019430000" lon="6.945800000">
+  <ele>850.000000</ele>
+  <name>B56085</name>
+  <cmt>LE NOL FERME</cmt>
+  <desc>LE NOL FERME</desc>
+</wpt>
+<wpt lat="47.903589000" lon="6.601004000">
+  <ele>752.000000</ele>
+  <name>B55075</name>
+  <cmt>Roches Louvi-res</cmt>
+  <desc>Roches Louvi-res</desc>
+</wpt>
+<wpt lat="47.767222000" lon="6.774167000">
+  <ele>1148.000000</ele>
+  <name>B54114</name>
+  <cmt>BELLES FILLES</cmt>
+  <desc>BELLES FILLES</desc>
+</wpt>
+<wpt lat="47.825550000" lon="7.019760000">
+  <ele>1050.000000</ele>
+  <name>B53105</name>
+  <cmt>ROSSBERG FERME</cmt>
+  <desc>ROSSBERG FERME</desc>
+</wpt>
+<wpt lat="47.854730000" lon="6.917470000">
+  <ele>1070.000000</ele>
+  <name>B52107</name>
+  <cmt>ROUGE GAZON AUBE</cmt>
+  <desc>ROUGE GAZON AUBE</desc>
+</wpt>
+<wpt lat="47.856130000" lon="6.816650000">
+  <ele>550.000000</ele>
+  <name>B51055</name>
+  <cmt>ST MAURICE USINE</cmt>
+  <desc>ST MAURICE USINE</desc>
+</wpt>
+<wpt lat="47.885570000" lon="6.995080000">
+  <ele>430.000000</ele>
+  <name>B50043</name>
+  <cmt>WESSERLING-USINE</cmt>
+  <desc>WESSERLING-USINE</desc>
+</wpt>
+<wpt lat="47.949590000" lon="6.666623000">
+  <ele>882.000000</ele>
+  <name>B49088</name>
+  <cmt>TETE DE L-AVUXON</cmt>
+  <desc>TETE DE L-AVUXON</desc>
+</wpt>
+<wpt lat="47.900810000" lon="7.099380000">
+  <ele>1420.000000</ele>
+  <name>B48142</name>
+  <cmt>GRAND BALLON</cmt>
+  <desc>GRAND BALLON</desc>
+</wpt>
+<wpt lat="47.982780000" lon="7.119150000">
+  <ele>1150.000000</ele>
+  <name>B47115</name>
+  <cmt>PETIT BALLON</cmt>
+  <desc>PETIT BALLON</desc>
+</wpt>
+<wpt lat="48.006680000" lon="6.976370000">
+  <ele>1180.000000</ele>
+  <name>B46118</name>
+  <cmt>ROTHENBACH FERME</cmt>
+  <desc>ROTHENBACH FERME</desc>
+</wpt>
+<wpt lat="48.018060000" lon="6.668000000">
+  <ele>400.000000</ele>
+  <name>B45040</name>
+  <cmt>ST AME PONT</cmt>
+  <desc>ST AME PONT</desc>
+</wpt>
+<wpt lat="48.164870000" lon="7.079300000">
+  <ele>950.000000</ele>
+  <name>B44095</name>
+  <cmt>BONHOMME COL</cmt>
+  <desc>BONHOMME COL</desc>
+</wpt>
+<wpt lat="48.048120000" lon="7.420850000">
+  <ele>190.000000</ele>
+  <name>B43019</name>
+  <cmt>SUNDHOFFEN SILO</cmt>
+  <desc>SUNDHOFFEN SILO</desc>
+</wpt>
+<wpt lat="48.080050000" lon="6.743420000">
+  <ele>560.000000</ele>
+  <name>B42056</name>
+  <cmt>LE THOLY ROND PT</cmt>
+  <desc>LE THOLY ROND PT</desc>
+</wpt>
+<wpt lat="48.082300000" lon="6.944820000">
+  <ele>750.000000</ele>
+  <name>B41075</name>
+  <cmt>LONGEMER USINE</cmt>
+  <desc>LONGEMER USINE</desc>
+</wpt>
+<wpt lat="47.767013000" lon="6.658500000">
+  <ele>720.000000</ele>
+  <name>B40072</name>
+  <cmt>Montagne Fresse</cmt>
+  <desc>Montagne Fresse</desc>
+</wpt>
+<wpt lat="47.772778000" lon="6.921944000">
+  <ele>1074.000000</ele>
+  <name>B39107</name>
+  <cmt>BAERENKOPF</cmt>
+  <desc>BAERENKOPF</desc>
+</wpt>
+<wpt lat="48.107780000" lon="7.246670000">
+  <ele>730.000000</ele>
+  <name>B38073</name>
+  <cmt>GALZ STATUE JC</cmt>
+  <desc>GALZ STATUE JC</desc>
+</wpt>
+<wpt lat="48.060000000" lon="7.269170000">
+  <ele>640.000000</ele>
+  <name>B37064</name>
+  <cmt>HOHLANDSBURG CHA</cmt>
+  <desc>HOHLANDSBURG CHA</desc>
+</wpt>
+<wpt lat="47.762410000" lon="6.616580000">
+  <ele>340.000000</ele>
+  <name>B36034</name>
+  <cmt>USINE BELONCHAMP</cmt>
+  <desc>USINE BELONCHAMP</desc>
+</wpt>
+<wpt lat="48.041850000" lon="6.763380000">
+  <ele>820.000000</ele>
+  <name>B35082</name>
+  <cmt>HAUT DU TOT</cmt>
+  <desc>HAUT DU TOT</desc>
+</wpt>
+<wpt lat="47.991670000" lon="6.964880000">
+  <ele>700.000000</ele>
+  <name>B34070</name>
+  <cmt>BRAMONT AUBERGE</cmt>
+  <desc>BRAMONT AUBERGE</desc>
+</wpt>
+<wpt lat="47.924510000" lon="6.656180000">
+  <ele>420.000000</ele>
+  <name>B33042</name>
+  <cmt>USINE DE RUPT</cmt>
+  <desc>USINE DE RUPT</desc>
+</wpt>
+<wpt lat="47.784444000" lon="6.865000000">
+  <ele>1089.000000</ele>
+  <name>B32109</name>
+  <cmt>TREMONTKOPF</cmt>
+  <desc>TREMONTKOPF</desc>
+</wpt>
+<wpt lat="47.837778000" lon="6.990556000">
+  <ele>980.000000</ele>
+  <name>B31098</name>
+  <cmt>BELACKER FERME</cmt>
+  <desc>BELACKER FERME</desc>
+</wpt>
+<wpt lat="47.882220000" lon="6.940800000">
+  <ele>450.000000</ele>
+  <name>B30045</name>
+  <cmt>URBES-VIADUC</cmt>
+  <desc>URBES-VIADUC</desc>
+</wpt>
+<wpt lat="47.378646000" lon="6.372244000">
+  <ele>420.000000</ele>
+  <name>A29042</name>
+  <cmt>BAUME- PEAGE- Tuillerie</cmt>
+  <desc>BAUME- PEAGE- Tuillerie</desc>
+</wpt>
+<wpt lat="47.543721000" lon="6.445739000">
+  <ele>300.000000</ele>
+  <name>A28030</name>
+  <cmt>VILLERSEXEL-SE</cmt>
+  <desc>VILLERSEXEL-SE</desc>
+</wpt>
+<wpt lat="47.820630000" lon="6.694740000">
+  <ele>402.000000</ele>
+  <name>A27041</name>
+  <cmt>THEM - STADE</cmt>
+  <desc>THEM - STADE</desc>
+</wpt>
+<wpt lat="47.686157000" lon="6.178171000">
+  <ele>220.000000</ele>
+  <name>A26022</name>
+  <cmt>AUXON</cmt>
+  <desc>AUXON</desc>
+</wpt>
+<wpt lat="47.951170000" lon="6.756080000">
+  <ele>450.000000</ele>
+  <name>A25045</name>
+  <cmt>SAULXURES - lac</cmt>
+  <desc>SAULXURES - lac</desc>
+</wpt>
+<wpt lat="48.155400000" lon="7.544720000">
+  <ele>170.000000</ele>
+  <name>A24017</name>
+  <cmt>MARCKOLSEIM</cmt>
+  <desc>MARCKOLSEIM</desc>
+</wpt>
+<wpt lat="48.407470000" lon="7.708050000">
+  <ele>150.000000</ele>
+  <name>A23015</name>
+  <cmt>GERSTHEIM</cmt>
+  <desc>GERSTHEIM</desc>
+</wpt>
+<wpt lat="48.195020000" lon="6.478050000">
+  <ele>344.000000</ele>
+  <name>A22034</name>
+  <cmt>JEUXEY</cmt>
+  <desc>JEUXEY</desc>
+</wpt>
+<wpt lat="48.045430000" lon="6.414990000">
+  <ele>569.000000</ele>
+  <name>A21057</name>
+  <cmt>XERTIGNY</cmt>
+  <desc>XERTIGNY</desc>
+</wpt>
+<wpt lat="46.975170000" lon="5.866680000">
+  <ele>540.000000</ele>
+  <name>A20054</name>
+  <cmt>POUPET</cmt>
+  <desc>POUPET</desc>
+</wpt>
+<wpt lat="47.673200000" lon="6.249880000">
+  <ele>280.000000</ele>
+  <name>A19028</name>
+  <cmt>VILLERPOZ</cmt>
+  <desc>VILLERPOZ</desc>
+</wpt>
+<wpt lat="47.629100000" lon="6.131450000">
+  <ele>210.000000</ele>
+  <name>A17021</name>
+  <cmt>VESOUL LAC</cmt>
+  <desc>VESOUL LAC</desc>
+</wpt>
+<wpt lat="47.890559000" lon="6.859580000">
+  <ele>600.000000</ele>
+  <name>A16060</name>
+  <cmt>BUSSANG</cmt>
+  <desc>BUSSANG</desc>
+</wpt>
+<wpt lat="47.843020000" lon="6.859370000">
+  <ele>630.000000</ele>
+  <name>A15063</name>
+  <cmt>CHARBONNIERS</cmt>
+  <desc>CHARBONNIERS</desc>
+</wpt>
+<wpt lat="48.055920000" lon="6.985900000">
+  <ele>780.000000</ele>
+  <name>A14078</name>
+  <cmt>RETOURNEMER</cmt>
+  <desc>RETOURNEMER</desc>
+</wpt>
+<wpt lat="48.306660000" lon="6.913600000">
+  <ele>323.000000</ele>
+  <name>A13032</name>
+  <cmt>ST DIE</cmt>
+  <desc>ST DIE</desc>
+</wpt>
+<wpt lat="48.019800000" lon="6.705280000">
+  <ele>400.000000</ele>
+  <name>A12040</name>
+  <cmt>VAGNEY AIR REPOS</cmt>
+  <desc>VAGNEY AIR REPOS</desc>
+</wpt>
+<wpt lat="47.986836000" lon="7.069816000">
+  <ele>610.000000</ele>
+  <name>A11061</name>
+  <cmt>ATTERRO SCHNEPF</cmt>
+  <desc>ATTERRO SCHNEPF</desc>
+</wpt>
+<wpt lat="47.913980000" lon="6.676620000">
+  <ele>450.000000</ele>
+  <name>A10045</name>
+  <cmt>RUPT MOSELLE</cmt>
+  <desc>RUPT MOSELLE</desc>
+</wpt>
+<wpt lat="47.949020000" lon="6.791950000">
+  <ele>480.000000</ele>
+  <name>A09048</name>
+  <cmt>SAULXURES</cmt>
+  <desc>SAULXURES</desc>
+</wpt>
+<wpt lat="47.917800000" lon="6.965920000">
+  <ele>470.000000</ele>
+  <name>A08047</name>
+  <cmt>LA CARIE</cmt>
+  <desc>LA CARIE</desc>
+</wpt>
+<wpt lat="47.878850000" lon="7.016810000">
+  <ele>420.000000</ele>
+  <name>A07042</name>
+  <cmt>RANSPACH</cmt>
+  <desc>RANSPACH</desc>
+</wpt>
+<wpt lat="48.002380000" lon="6.928370000">
+  <ele>750.000000</ele>
+  <name>A06075</name>
+  <cmt>LES PLANCHES</cmt>
+  <desc>LES PLANCHES</desc>
+</wpt>
+<wpt lat="48.024380000" lon="6.609870000">
+  <ele>410.000000</ele>
+  <name>A05041</name>
+  <cmt>ST ETIENNE</cmt>
+  <desc>ST ETIENNE</desc>
+</wpt>
+<wpt lat="48.021420000" lon="7.077660000">
+  <ele>460.000000</ele>
+  <name>A04046</name>
+  <cmt>ALTMATT</cmt>
+  <desc>ALTMATT</desc>
+</wpt>
+<wpt lat="47.931480000" lon="7.019030000">
+  <ele>1210.000000</ele>
+  <name>A03121</name>
+  <cmt>ARRIVEE TREH</cmt>
+  <desc>ARRIVEE TREH</desc>
+</wpt>
+<wpt lat="48.002460000" lon="6.893060000">
+  <ele>680.000000</ele>
+  <name>A02068</name>
+  <cmt>LA BRESSE</cmt>
+  <desc>LA BRESSE</desc>
+</wpt>
+<wpt lat="47.901390000" lon="6.984320000">
+  <ele>460.000000</ele>
+  <name>A01046</name>
+  <cmt>AEROTEC</cmt>
+  <desc>AEROTEC</desc>
+</wpt>
+<wpt lat="48.283300000" lon="6.950000000">
+  <ele>0.000000</ele>
+  <name>VER-07</name>
+  <cmt>ICARE CLUB 2015</cmt>
+  <desc>ICARE CLUB 2015</desc>
+</wpt>
+<wpt lat="48.266666000" lon="6.956944000">
+  <ele>390.000000</ele>
+  <name>A31039</name>
+  <cmt>ATTERRO KEMBERG</cmt>
+  <desc>ATTERRO KEMBERG</desc>
+</wpt>
+<wpt lat="48.193055000" lon="7.215555000">
+  <ele>835.000000</ele>
+  <name>B77083</name>
+  <cmt>COL DE FRELAND</cmt>
+  <desc>COL DE FRELAND</desc>
+</wpt>
+<wpt lat="48.233333000" lon="7.210280000">
+  <ele>881.000000</ele>
+  <name>B76088</name>
+  <cmt>ADELSPACH</cmt>
+  <desc>ADELSPACH</desc>
+</wpt>
+<wpt lat="47.701111000" lon="6.666666000">
+  <ele>360.000000</ele>
+  <name>B75036</name>
+  <cmt>RONCHAMP-EST LAC</cmt>
+  <desc>RONCHAMP-EST LAC</desc>
+</wpt>
+<wpt lat="48.303833000" lon="6.994569000">
+  <ele>840.000000</ele>
+  <name>B74084</name>
+  <cmt>RELAIS ORMONT</cmt>
+  <desc>RELAIS ORMONT</desc>
+</wpt>
+<wpt lat="48.272221000" lon="6.930990000">
+  <ele>670.000000</ele>
+  <name>B73067</name>
+  <cmt>DECO KIOSQUE</cmt>
+  <desc>DECO KIOSQUE</desc>
+</wpt>
+<wpt lat="48.256790000" lon="6.931977000">
+  <ele>727.000000</ele>
+  <name>B72073</name>
+  <cmt>DECO KEMBERG</cmt>
+  <desc>DECO KEMBERG</desc>
+</wpt>
+<wpt lat="48.249383000" lon="7.343524000">
+  <ele>757.000000</ele>
+  <name>B71076</name>
+  <cmt>HAUT-KOENIGSBOURG</cmt>
+  <desc>HAUT-KOENIGSBOURG</desc>
+</wpt>
+<wpt lat="48.265000000" lon="7.000000000">
+  <ele>356.000000</ele>
+  <name>A30036</name>
+  <cmt>REMOMEIX</cmt>
+  <desc>REMOMEIX</desc>
+</wpt>
+<wpt lat="47.953056000" lon="6.343611000">
+  <ele>0.000000</ele>
+  <name>R164B</name>
+  <cmt>R164B Limite SO</cmt>
+  <desc>R164B Limite SO</desc>
+</wpt>
+<wpt lat="48.159444000" lon="7.000000000">
+  <ele>0.000000</ele>
+  <name>R164C4</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="47.998611000" lon="6.808333000">
+  <ele>0.000000</ele>
+  <name>R164C3</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="48.006944000" lon="6.875000000">
+  <ele>0.000000</ele>
+  <name>R164C2</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="48.031111000" lon="6.977222000">
+  <ele>0.000000</ele>
+  <name>R164C1</name>
+  <cmt>R164C 1980m</cmt>
+  <desc>R164C 1980m</desc>
+</wpt>
+<wpt lat="48.159444000" lon="7.000000000">
+  <ele>0.000000</ele>
+  <name>R164C0</name>
+  <cmt>R164 C 1980m</cmt>
+  <desc>R164 C 1980m</desc>
+</wpt>
+<wpt lat="48.081389000" lon="7.569444000">
+  <ele>0.000000</ele>
+  <name>COL407</name>
+  <cmt>COLMAR4 NE Rhin</cmt>
+  <desc>COLMAR4 NE Rhin</desc>
+</wpt>
+<wpt lat="48.031111000" lon="7.338611000">
+  <ele>0.000000</ele>
+  <name>COL403</name>
+  <cmt>COLMAR4 NO</cmt>
+  <desc>COLMAR4 NO</desc>
+</wpt>
+<wpt lat="47.933333000" lon="7.249167000">
+  <ele>0.000000</ele>
+  <name>COL402</name>
+  <cmt>COLMAR4 SO</cmt>
+  <desc>COLMAR4 SO</desc>
+</wpt>
+<wpt lat="47.933333000" lon="7.585000000">
+  <ele>0.000000</ele>
+  <name>COL401</name>
+  <cmt>COLMAR4 SE Rhin</cmt>
+  <desc>COLMAR4 SE Rhin</desc>
+</wpt>
+<wpt lat="47.900000000" lon="6.416667000">
+  <ele>0.000000</ele>
+  <name>TMA607</name>
+  <cmt>BALE TMA6 NO</cmt>
+  <desc>BALE TMA6 NO</desc>
+</wpt>
+<wpt lat="47.533333000" lon="6.333333000">
+  <ele>0.000000</ele>
+  <name>TMA605</name>
+  <cmt>BALE TMA6 SO</cmt>
+  <desc>BALE TMA6 SO</desc>
+</wpt>
+<wpt lat="47.833333000" lon="6.808333000">
+  <ele>0.000000</ele>
+  <name>TMA601</name>
+  <cmt>BALE TMA6 NE</cmt>
+  <desc>BALE TMA6 NE</desc>
+</wpt>
+<wpt lat="47.488889000" lon="6.613889000">
+  <ele>0.000000</ele>
+  <name>TMA503</name>
+  <cmt>BELFORT SO 1980</cmt>
+  <desc>BELFORT SO 1980</desc>
+</wpt>
+<wpt lat="47.650000000" lon="6.650000000">
+  <ele>0.000000</ele>
+  <name>TMA502</name>
+  <cmt>BELFORT O 1980 max</cmt>
+  <desc>BELFORT O 1980 max</desc>
+</wpt>
+<wpt lat="47.750000000" lon="6.808333000">
+  <ele>0.000000</ele>
+  <name>TMA501</name>
+  <cmt>BELFORT NO 1980 max</cmt>
+  <desc>BELFORT NO 1980 max</desc>
+</wpt>
+<wpt lat="47.787222000" lon="6.364722000">
+  <ele>0.000000</ele>
+  <name>ZI22-4</name>
+  <cmt>LUXEUIL 22-4km</cmt>
+  <desc>LUXEUIL 22-4km</desc>
+</wpt>
+<wpt lat="47.637849000" lon="6.207305000">
+  <ele>0.000000</ele>
+  <name>ZI-R2</name>
+  <cmt>INTERDIT 2KM - Parachutes</cmt>
+  <desc>INTERDIT 2KM - Parachutes</desc>
+</wpt>
+<wpt lat="47.903923000" lon="6.989407000">
+  <ele>700.000000</ele>
+  <name>D98070</name>
+  <cmt>Siebach-deco</cmt>
+  <desc>Siebach-deco</desc>
+</wpt>
+<wpt lat="48.033880000" lon="6.946870000">
+  <ele>1180.000000</ele>
+  <name>D97118</name>
+  <cmt>CHAMPIS</cmt>
+  <desc>CHAMPIS</desc>
+</wpt>
+<wpt lat="47.900540000" lon="6.917320000">
+  <ele>1170.000000</ele>
+  <name>D96117</name>
+  <cmt>DRUMONT</cmt>
+  <desc>DRUMONT</desc>
+</wpt>
+<wpt lat="48.003880000" lon="6.842730000">
+  <ele>1020.000000</ele>
+  <name>D95102</name>
+  <cmt>BASSE DES FEIGNE</cmt>
+  <desc>BASSE DES FEIGNE</desc>
+</wpt>
+<wpt lat="47.988600000" lon="6.859650000">
+  <ele>960.000000</ele>
+  <name>D94096</name>
+  <cmt>ROCHE DE MINUIT</cmt>
+  <desc>ROCHE DE MINUIT</desc>
+</wpt>
+<wpt lat="48.009200000" lon="6.982990000">
+  <ele>1300.000000</ele>
+  <name>D93130</name>
+  <cmt>RAINKOPF DECO</cmt>
+  <desc>RAINKOPF DECO</desc>
+</wpt>
+<wpt lat="47.893850000" lon="6.934420000">
+  <ele>1020.000000</ele>
+  <name>D92102</name>
+  <cmt>LE GUSTIBERG</cmt>
+  <desc>LE GUSTIBERG</desc>
+</wpt>
+<wpt lat="47.822420000" lon="6.845300000">
+  <ele>1247.000000</ele>
+  <name>D91124</name>
+  <cmt>LE BALLON</cmt>
+  <desc>LE BALLON</desc>
+</wpt>
+<wpt lat="47.925550000" lon="7.011630000">
+  <ele>1220.000000</ele>
+  <name>D90122</name>
+  <cmt>LE TREH</cmt>
+  <desc>LE TREH</desc>
+</wpt>
+<wpt lat="47.906885000" lon="6.995741000">
+  <ele>820.000000</ele>
+  <name>B70082</name>
+  <cmt>SIEBACH-HAUT</cmt>
+  <desc>SIEBACH-HAUT</desc>
+</wpt>
+<wpt lat="48.056630000" lon="6.701670000">
+  <ele>490.000000</ele>
+  <name>B69049</name>
+  <cmt>JULIENRUPT USINE</cmt>
+  <desc>JULIENRUPT USINE</desc>
+</wpt>
+<wpt lat="48.188150000" lon="6.953430000">
+  <ele>450.000000</ele>
+  <name>B68045</name>
+  <cmt>ANOULD-INTERSECT</cmt>
+  <desc>ANOULD-INTERSECT</desc>
+</wpt>
+<wpt lat="48.192480000" lon="7.113730000">
+  <ele>900.000000</ele>
+  <name>B67090</name>
+  <cmt>BAGENELLES COL</cmt>
+  <desc>BAGENELLES COL</desc>
+</wpt>
+<wpt lat="48.172150000" lon="7.113380000">
+  <ele>690.000000</ele>
+  <name>B66069</name>
+  <cmt>BONHOMNE VILLE</cmt>
+  <desc>BONHOMNE VILLE</desc>
+</wpt>
+<wpt lat="48.163150000" lon="6.917070000">
+  <ele>620.000000</ele>
+  <name>B65062</name>
+  <cmt>PLAFOND-COL</cmt>
+  <desc>PLAFOND-COL</desc>
+</wpt>
+<wpt lat="48.172570000" lon="6.880770000">
+  <ele>530.000000</ele>
+  <name>B64053</name>
+  <cmt>CORCIEUX-ROND-PT</cmt>
+  <desc>CORCIEUX-ROND-PT</desc>
+</wpt>
+<wpt lat="47.979220000" lon="6.982020000">
+  <ele>1150.000000</ele>
+  <name>B63115</name>
+  <cmt>HUSS FERME</cmt>
+  <desc>HUSS FERME</desc>
+</wpt>
+<wpt lat="48.009350000" lon="6.891800000">
+  <ele>850.000000</ele>
+  <name>B62085</name>
+  <cmt>MOYENMONT ANTENN</cmt>
+  <desc>MOYENMONT ANTENN</desc>
+</wpt>
+<wpt lat="47.953600000" lon="6.744380000">
+  <ele>450.000000</ele>
+  <name>B61045</name>
+  <cmt>SAULXURES USINE</cmt>
+  <desc>SAULXURES USINE</desc>
+</wpt>
+<wpt lat="47.925818000" lon="6.787061000">
+  <ele>950.000000</ele>
+  <name>B60095</name>
+  <cmt>TETE DU MIDI</cmt>
+  <desc>TETE DU MIDI</desc>
+</wpt>
+<wpt lat="47.961380000" lon="6.980520000">
+  <ele>1000.000000</ele>
+  <name>B59100</name>
+  <cmt>SCHAFFERT FERME</cmt>
+  <desc>SCHAFFERT FERME</desc>
+</wpt>
+<wpt lat="47.927691000" lon="6.979888000">
+  <ele>842.000000</ele>
+  <name>B58084</name>
+  <cmt>Gommkopf</cmt>
+  <desc>Gommkopf</desc>
+</wpt>
+<wpt lat="48.108880000" lon="7.002460000">
+  <ele>1130.000000</ele>
+  <name>B57113</name>
+  <cmt>SERICHAMP ANTEN</cmt>
+  <desc>SERICHAMP ANTEN</desc>
+</wpt>
+<wpt lat="48.019430000" lon="6.945800000">
+  <ele>850.000000</ele>
+  <name>B56085</name>
+  <cmt>LE NOL FERME</cmt>
+  <desc>LE NOL FERME</desc>
+</wpt>
+<wpt lat="47.903589000" lon="6.601004000">
+  <ele>752.000000</ele>
+  <name>B55075</name>
+  <cmt>Roches Louvi-res</cmt>
+  <desc>Roches Louvi-res</desc>
+</wpt>
+<wpt lat="47.767222000" lon="6.774167000">
+  <ele>1148.000000</ele>
+  <name>B54114</name>
+  <cmt>BELLES FILLES</cmt>
+  <desc>BELLES FILLES</desc>
+</wpt>
+<wpt lat="47.825550000" lon="7.019760000">
+  <ele>1050.000000</ele>
+  <name>B53105</name>
+  <cmt>ROSSBERG FERME</cmt>
+  <desc>ROSSBERG FERME</desc>
+</wpt>
+<wpt lat="47.854730000" lon="6.917470000">
+  <ele>1070.000000</ele>
+  <name>B52107</name>
+  <cmt>ROUGE GAZON AUBE</cmt>
+  <desc>ROUGE GAZON AUBE</desc>
+</wpt>
+<wpt lat="47.856130000" lon="6.816650000">
+  <ele>550.000000</ele>
+  <name>B51055</name>
+  <cmt>ST MAURICE USINE</cmt>
+  <desc>ST MAURICE USINE</desc>
+</wpt>
+<wpt lat="47.885570000" lon="6.995080000">
+  <ele>430.000000</ele>
+  <name>B50043</name>
+  <cmt>WESSERLING-USINE</cmt>
+  <desc>WESSERLING-USINE</desc>
+</wpt>
+<wpt lat="47.949590000" lon="6.666623000">
+  <ele>882.000000</ele>
+  <name>B49088</name>
+  <cmt>TETE DE L-AVUXON</cmt>
+  <desc>TETE DE L-AVUXON</desc>
+</wpt>
+<wpt lat="47.900810000" lon="7.099380000">
+  <ele>1420.000000</ele>
+  <name>B48142</name>
+  <cmt>GRAND BALLON</cmt>
+  <desc>GRAND BALLON</desc>
+</wpt>
+<wpt lat="47.982780000" lon="7.119150000">
+  <ele>1150.000000</ele>
+  <name>B47115</name>
+  <cmt>PETIT BALLON</cmt>
+  <desc>PETIT BALLON</desc>
+</wpt>
+<wpt lat="48.006680000" lon="6.976370000">
+  <ele>1180.000000</ele>
+  <name>B46118</name>
+  <cmt>ROTHENBACH FERME</cmt>
+  <desc>ROTHENBACH FERME</desc>
+</wpt>
+<wpt lat="48.018060000" lon="6.668000000">
+  <ele>400.000000</ele>
+  <name>B45040</name>
+  <cmt>ST AME PONT</cmt>
+  <desc>ST AME PONT</desc>
+</wpt>
+<wpt lat="48.164870000" lon="7.079300000">
+  <ele>950.000000</ele>
+  <name>B44095</name>
+  <cmt>BONHOMME COL</cmt>
+  <desc>BONHOMME COL</desc>
+</wpt>
+<wpt lat="48.048120000" lon="7.420850000">
+  <ele>190.000000</ele>
+  <name>B43019</name>
+  <cmt>SUNDHOFFEN SILO</cmt>
+  <desc>SUNDHOFFEN SILO</desc>
+</wpt>
+<wpt lat="48.080050000" lon="6.743420000">
+  <ele>560.000000</ele>
+  <name>B42056</name>
+  <cmt>LE THOLY ROND PT</cmt>
+  <desc>LE THOLY ROND PT</desc>
+</wpt>
+<wpt lat="48.082300000" lon="6.944820000">
+  <ele>750.000000</ele>
+  <name>B41075</name>
+  <cmt>LONGEMER USINE</cmt>
+  <desc>LONGEMER USINE</desc>
+</wpt>
+<wpt lat="47.767013000" lon="6.658500000">
+  <ele>720.000000</ele>
+  <name>B40072</name>
+  <cmt>Montagne Fresse</cmt>
+  <desc>Montagne Fresse</desc>
+</wpt>
+<wpt lat="47.772778000" lon="6.921944000">
+  <ele>1074.000000</ele>
+  <name>B39107</name>
+  <cmt>BAERENKOPF</cmt>
+  <desc>BAERENKOPF</desc>
+</wpt>
+<wpt lat="48.107780000" lon="7.246670000">
+  <ele>730.000000</ele>
+  <name>B38073</name>
+  <cmt>GALZ STATUE JC</cmt>
+  <desc>GALZ STATUE JC</desc>
+</wpt>
+<wpt lat="48.060000000" lon="7.269170000">
+  <ele>640.000000</ele>
+  <name>B37064</name>
+  <cmt>HOHLANDSBURG CHA</cmt>
+  <desc>HOHLANDSBURG CHA</desc>
+</wpt>
+<wpt lat="47.762410000" lon="6.616580000">
+  <ele>340.000000</ele>
+  <name>B36034</name>
+  <cmt>USINE BELONCHAMP</cmt>
+  <desc>USINE BELONCHAMP</desc>
+</wpt>
+<wpt lat="48.041850000" lon="6.763380000">
+  <ele>820.000000</ele>
+  <name>B35082</name>
+  <cmt>HAUT DU TOT</cmt>
+  <desc>HAUT DU TOT</desc>
+</wpt>
+<wpt lat="47.991670000" lon="6.964880000">
+  <ele>700.000000</ele>
+  <name>B34070</name>
+  <cmt>BRAMONT AUBERGE</cmt>
+  <desc>BRAMONT AUBERGE</desc>
+</wpt>
+<wpt lat="47.924510000" lon="6.656180000">
+  <ele>420.000000</ele>
+  <name>B33042</name>
+  <cmt>USINE DE RUPT</cmt>
+  <desc>USINE DE RUPT</desc>
+</wpt>
+<wpt lat="47.784444000" lon="6.865000000">
+  <ele>1089.000000</ele>
+  <name>B32109</name>
+  <cmt>TREMONTKOPF</cmt>
+  <desc>TREMONTKOPF</desc>
+</wpt>
+<wpt lat="47.837778000" lon="6.990556000">
+  <ele>980.000000</ele>
+  <name>B31098</name>
+  <cmt>BELACKER FERME</cmt>
+  <desc>BELACKER FERME</desc>
+</wpt>
+<wpt lat="47.882220000" lon="6.940800000">
+  <ele>450.000000</ele>
+  <name>B30045</name>
+  <cmt>URBES-VIADUC</cmt>
+  <desc>URBES-VIADUC</desc>
+</wpt>
+<wpt lat="47.378646000" lon="6.372244000">
+  <ele>420.000000</ele>
+  <name>A29042</name>
+  <cmt>BAUME- PEAGE- Tuillerie</cmt>
+  <desc>BAUME- PEAGE- Tuillerie</desc>
+</wpt>
+<wpt lat="47.543721000" lon="6.445739000">
+  <ele>300.000000</ele>
+  <name>A28030</name>
+  <cmt>VILLERSEXEL-SE</cmt>
+  <desc>VILLERSEXEL-SE</desc>
+</wpt>
+<wpt lat="47.820630000" lon="6.694740000">
+  <ele>402.000000</ele>
+  <name>A27041</name>
+  <cmt>THEM - STADE</cmt>
+  <desc>THEM - STADE</desc>
+</wpt>
+<wpt lat="47.686157000" lon="6.178171000">
+  <ele>220.000000</ele>
+  <name>A26022</name>
+  <cmt>AUXON</cmt>
+  <desc>AUXON</desc>
+</wpt>
+<wpt lat="47.951170000" lon="6.756080000">
+  <ele>450.000000</ele>
+  <name>A25045</name>
+  <cmt>SAULXURES - lac</cmt>
+  <desc>SAULXURES - lac</desc>
+</wpt>
+<wpt lat="48.155400000" lon="7.544720000">
+  <ele>170.000000</ele>
+  <name>A24017</name>
+  <cmt>MARCKOLSEIM</cmt>
+  <desc>MARCKOLSEIM</desc>
+</wpt>
+<wpt lat="48.407470000" lon="7.708050000">
+  <ele>150.000000</ele>
+  <name>A23015</name>
+  <cmt>GERSTHEIM</cmt>
+  <desc>GERSTHEIM</desc>
+</wpt>
+<wpt lat="48.195020000" lon="6.478050000">
+  <ele>344.000000</ele>
+  <name>A22034</name>
+  <cmt>JEUXEY</cmt>
+  <desc>JEUXEY</desc>
+</wpt>
+<wpt lat="48.045430000" lon="6.414990000">
+  <ele>569.000000</ele>
+  <name>A21057</name>
+  <cmt>XERTIGNY</cmt>
+  <desc>XERTIGNY</desc>
+</wpt>
+<wpt lat="46.975170000" lon="5.866680000">
+  <ele>540.000000</ele>
+  <name>A20054</name>
+  <cmt>POUPET</cmt>
+  <desc>POUPET</desc>
+</wpt>
+<wpt lat="47.673200000" lon="6.249880000">
+  <ele>280.000000</ele>
+  <name>A19028</name>
+  <cmt>VILLERPOZ</cmt>
+  <desc>VILLERPOZ</desc>
+</wpt>
+<wpt lat="47.629100000" lon="6.131450000">
+  <ele>210.000000</ele>
+  <name>A17021</name>
+  <cmt>VESOUL LAC</cmt>
+  <desc>VESOUL LAC</desc>
+</wpt>
+<wpt lat="47.890559000" lon="6.859580000">
+  <ele>600.000000</ele>
+  <name>A16060</name>
+  <cmt>BUSSANG</cmt>
+  <desc>BUSSANG</desc>
+</wpt>
+<wpt lat="47.843020000" lon="6.859370000">
+  <ele>630.000000</ele>
+  <name>A15063</name>
+  <cmt>CHARBONNIERS</cmt>
+  <desc>CHARBONNIERS</desc>
+</wpt>
+<wpt lat="48.055920000" lon="6.985900000">
+  <ele>780.000000</ele>
+  <name>A14078</name>
+  <cmt>RETOURNEMER</cmt>
+  <desc>RETOURNEMER</desc>
+</wpt>
+<wpt lat="48.306660000" lon="6.913600000">
+  <ele>323.000000</ele>
+  <name>A13032</name>
+  <cmt>ST DIE</cmt>
+  <desc>ST DIE</desc>
+</wpt>
+<wpt lat="48.019800000" lon="6.705280000">
+  <ele>400.000000</ele>
+  <name>A12040</name>
+  <cmt>VAGNEY AIR REPOS</cmt>
+  <desc>VAGNEY AIR REPOS</desc>
+</wpt>
+<wpt lat="47.986836000" lon="7.069816000">
+  <ele>610.000000</ele>
+  <name>A11061</name>
+  <cmt>ATTERRO SCHNEPF</cmt>
+  <desc>ATTERRO SCHNEPF</desc>
+</wpt>
+<wpt lat="47.913980000" lon="6.676620000">
+  <ele>450.000000</ele>
+  <name>A10045</name>
+  <cmt>RUPT MOSELLE</cmt>
+  <desc>RUPT MOSELLE</desc>
+</wpt>
+<wpt lat="47.949020000" lon="6.791950000">
+  <ele>480.000000</ele>
+  <name>A09048</name>
+  <cmt>SAULXURES</cmt>
+  <desc>SAULXURES</desc>
+</wpt>
+<wpt lat="47.917800000" lon="6.965920000">
+  <ele>470.000000</ele>
+  <name>A08047</name>
+  <cmt>LA CARIE</cmt>
+  <desc>LA CARIE</desc>
+</wpt>
+<wpt lat="47.878850000" lon="7.016810000">
+  <ele>420.000000</ele>
+  <name>A07042</name>
+  <cmt>RANSPACH</cmt>
+  <desc>RANSPACH</desc>
+</wpt>
+<wpt lat="48.002380000" lon="6.928370000">
+  <ele>750.000000</ele>
+  <name>A06075</name>
+  <cmt>LES PLANCHES</cmt>
+  <desc>LES PLANCHES</desc>
+</wpt>
+<wpt lat="48.024380000" lon="6.609870000">
+  <ele>410.000000</ele>
+  <name>A05041</name>
+  <cmt>ST ETIENNE</cmt>
+  <desc>ST ETIENNE</desc>
+</wpt>
+<wpt lat="48.021420000" lon="7.077660000">
+  <ele>460.000000</ele>
+  <name>A04046</name>
+  <cmt>ALTMATT</cmt>
+  <desc>ALTMATT</desc>
+</wpt>
+<wpt lat="47.931480000" lon="7.019030000">
+  <ele>1210.000000</ele>
+  <name>A03121</name>
+  <cmt>ARRIVEE TREH</cmt>
+  <desc>ARRIVEE TREH</desc>
+</wpt>
+<wpt lat="48.002460000" lon="6.893060000">
+  <ele>680.000000</ele>
+  <name>A02068</name>
+  <cmt>LA BRESSE</cmt>
+  <desc>LA BRESSE</desc>
+</wpt>
+<wpt lat="47.901390000" lon="6.984320000">
+  <ele>460.000000</ele>
+  <name>A01046</name>
+  <cmt>AEROTEC</cmt>
+  <desc>AEROTEC</desc>
+</wpt>
+</gpx>

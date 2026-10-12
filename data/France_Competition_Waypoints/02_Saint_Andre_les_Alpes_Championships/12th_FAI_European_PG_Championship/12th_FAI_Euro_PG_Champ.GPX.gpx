@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2014-09-24T13:47:14Z</time>
+<bounds minlat="43.757833333" minlon="5.834166667" maxlat="44.406333333" maxlon="6.882000000"/>
+<wpt lat="44.312166667" lon="5.834166667">
+  <ele>0.000000</ele>
+  <name>A06</name>
+  <cmt>A06</cmt>
+  <desc>A06</desc>
+</wpt>
+<wpt lat="44.021500000" lon="6.362333333">
+  <ele>22.000000</ele>
+  <name>B25</name>
+  <cmt>B25</cmt>
+  <desc>B25</desc>
+</wpt>
+<wpt lat="44.009333333" lon="6.527833333">
+  <ele>22.000000</ele>
+  <name>B28</name>
+  <cmt>B28</cmt>
+  <desc>B28</desc>
+</wpt>
+<wpt lat="44.397500000" lon="6.298000000">
+  <ele>22.000000</ele>
+  <name>B47</name>
+  <cmt>B47</cmt>
+  <desc>B47</desc>
+</wpt>
+<wpt lat="44.406333333" lon="6.216333333">
+  <ele>22.000000</ele>
+  <name>B13</name>
+  <cmt>B13</cmt>
+  <desc>B13</desc>
+</wpt>
+<wpt lat="43.978500000" lon="6.480000000">
+  <ele>22.000000</ele>
+  <name>D01</name>
+  <cmt>D01</cmt>
+  <desc>D01</desc>
+</wpt>
+<wpt lat="43.968833333" lon="6.247833333">
+  <ele>22.000000</ele>
+  <name>B19</name>
+  <cmt>B19</cmt>
+  <desc>B19</desc>
+</wpt>
+<wpt lat="43.958666667" lon="6.510500000">
+  <ele>22.000000</ele>
+  <name>A01</name>
+  <cmt>A01</cmt>
+  <desc>A01</desc>
+</wpt>
+<wpt lat="43.987500000" lon="6.431833333">
+  <ele>22.000000</ele>
+  <name>B04</name>
+  <cmt>B04</cmt>
+  <desc>B04</desc>
+</wpt>
+<wpt lat="43.927166667" lon="6.590833333">
+  <ele>22.000000</ele>
+  <name>B08</name>
+  <cmt>B08</cmt>
+  <desc>B08</desc>
+</wpt>
+<wpt lat="44.180833333" lon="6.626833333">
+  <ele>22.000000</ele>
+  <name>B34</name>
+  <cmt>B34</cmt>
+  <desc>B34</desc>
+</wpt>
+<wpt lat="43.922000000" lon="5.904000000">
+  <ele>22.000000</ele>
+  <name>A05</name>
+  <cmt>A05</cmt>
+  <desc>A05</desc>
+</wpt>
+<wpt lat="44.070000000" lon="6.387333333">
+  <ele>22.000000</ele>
+  <name>B24</name>
+  <cmt>B24</cmt>
+  <desc>B24</desc>
+</wpt>
+<wpt lat="44.130666667" lon="6.882000000">
+  <ele>22.000000</ele>
+  <name>B48</name>
+  <cmt>B48</cmt>
+  <desc>B48</desc>
+</wpt>
+<wpt lat="43.849500000" lon="6.509333333">
+  <ele>22.000000</ele>
+  <name>B16</name>
+  <cmt>B16</cmt>
+  <desc>B16</desc>
+</wpt>
+<wpt lat="43.914833333" lon="6.540833333">
+  <ele>22.000000</ele>
+  <name>B09</name>
+  <cmt>B09</cmt>
+  <desc>B09</desc>
+</wpt>
+<wpt lat="44.143000000" lon="6.595333333">
+  <ele>22.000000</ele>
+  <name>B39</name>
+  <cmt>B39</cmt>
+  <desc>B39</desc>
+</wpt>
+<wpt lat="43.844666667" lon="6.601833333">
+  <ele>22.000000</ele>
+  <name>B10</name>
+  <cmt>B10</cmt>
+  <desc>B10</desc>
+</wpt>
+<wpt lat="43.916333333" lon="6.408666667">
+  <ele>22.000000</ele>
+  <name>B21</name>
+  <cmt>B21</cmt>
+  <desc>B21</desc>
+</wpt>
+<wpt lat="43.956166667" lon="6.524833333">
+  <ele>22.000000</ele>
+  <name>A03</name>
+  <cmt>A03</cmt>
+  <desc>A03</desc>
+</wpt>
+<wpt lat="43.757833333" lon="6.623833333">
+  <ele>22.000000</ele>
+  <name>B15</name>
+  <cmt>B15</cmt>
+  <desc>B15</desc>
+</wpt>
+<wpt lat="44.045666667" lon="6.418666667">
+  <ele>22.000000</ele>
+  <name>B36</name>
+  <cmt>B36</cmt>
+  <desc>B36</desc>
+</wpt>
+<wpt lat="44.253000000" lon="6.070500000">
+  <ele>22.000000</ele>
+  <name>B49</name>
+  <cmt>B49</cmt>
+  <desc>B49</desc>
+</wpt>
+<wpt lat="44.043000000" lon="6.242333333">
+  <ele>22.000000</ele>
+  <name>B23</name>
+  <cmt>B23</cmt>
+  <desc>B23</desc>
+</wpt>
+<wpt lat="44.067666667" lon="6.509666667">
+  <ele>22.000000</ele>
+  <name>B27</name>
+  <cmt>B27</cmt>
+  <desc>B27</desc>
+</wpt>
+<wpt lat="43.854833333" lon="6.418333333">
+  <ele>22.000000</ele>
+  <name>B18</name>
+  <cmt>B18</cmt>
+  <desc>B18</desc>
+</wpt>
+<wpt lat="44.133833333" lon="6.485166667">
+  <ele>22.000000</ele>
+  <name>B38</name>
+  <cmt>B38</cmt>
+  <desc>B38</desc>
+</wpt>
+<wpt lat="44.014000000" lon="6.456333333">
+  <ele>22.000000</ele>
+  <name>B01</name>
+  <cmt>B01</cmt>
+  <desc>B01</desc>
+</wpt>
+<wpt lat="44.262666667" lon="6.454666667">
+  <ele>22.000000</ele>
+  <name>B45</name>
+  <cmt>B45</cmt>
+  <desc>B45</desc>
+</wpt>
+<wpt lat="44.134333333" lon="6.096666667">
+  <ele>0.000000</ele>
+  <name>B14</name>
+  <cmt>B14</cmt>
+  <desc>B14</desc>
+</wpt>
+<wpt lat="43.985166667" lon="6.399833333">
+  <ele>22.000000</ele>
+  <name>B22</name>
+  <cmt>B22</cmt>
+  <desc>B22</desc>
+</wpt>
+<wpt lat="44.235333333" lon="6.628833333">
+  <ele>22.000000</ele>
+  <name>A04</name>
+  <cmt>A04</cmt>
+  <desc>A04</desc>
+</wpt>
+<wpt lat="43.961666667" lon="6.471000000">
+  <ele>22.000000</ele>
+  <name>B03</name>
+  <cmt>B03</cmt>
+  <desc>B03</desc>
+</wpt>
+<wpt lat="43.951166667" lon="6.370833333">
+  <ele>22.000000</ele>
+  <name>B20</name>
+  <cmt>B20</cmt>
+  <desc>B20</desc>
+</wpt>
+<wpt lat="43.870333333" lon="6.577500000">
+  <ele>22.000000</ele>
+  <name>B11</name>
+  <cmt>B11</cmt>
+  <desc>B11</desc>
+</wpt>
+<wpt lat="44.140833333" lon="6.393666667">
+  <ele>22.000000</ele>
+  <name>B30</name>
+  <cmt>B30</cmt>
+  <desc>B30</desc>
+</wpt>
+<wpt lat="43.944166667" lon="6.557833333">
+  <ele>22.000000</ele>
+  <name>B07</name>
+  <cmt>B07</cmt>
+  <desc>B07</desc>
+</wpt>
+<wpt lat="44.096666667" lon="6.556166667">
+  <ele>22.000000</ele>
+  <name>B32</name>
+  <cmt>B32</cmt>
+  <desc>B32</desc>
+</wpt>
+<wpt lat="44.244333333" lon="6.647333333">
+  <ele>22.000000</ele>
+  <name>B51</name>
+  <cmt>B51</cmt>
+  <desc>B51</desc>
+</wpt>
+<wpt lat="44.091500000" lon="6.499666667">
+  <ele>22.000000</ele>
+  <name>B29</name>
+  <cmt>B29</cmt>
+  <desc>B29</desc>
+</wpt>
+<wpt lat="43.987833333" lon="6.364333333">
+  <ele>22.000000</ele>
+  <name>B42</name>
+  <cmt>B42</cmt>
+  <desc>B42</desc>
+</wpt>
+<wpt lat="43.927833333" lon="6.510166667">
+  <ele>22.000000</ele>
+  <name>B35</name>
+  <cmt>B35</cmt>
+  <desc>B35</desc>
+</wpt>
+<wpt lat="44.011500000" lon="6.564833333">
+  <ele>22.000000</ele>
+  <name>B33</name>
+  <cmt>B33</cmt>
+  <desc>B33</desc>
+</wpt>
+<wpt lat="43.965833333" lon="6.557833333">
+  <ele>22.000000</ele>
+  <name>B37</name>
+  <cmt>B37</cmt>
+  <desc>B37</desc>
+</wpt>
+<wpt lat="43.813833333" lon="6.811333333">
+  <ele>0.000000</ele>
+  <name>D05</name>
+  <cmt>D05</cmt>
+  <desc>D05</desc>
+</wpt>
+<wpt lat="43.974666667" lon="6.519333333">
+  <ele>22.000000</ele>
+  <name>A02</name>
+  <cmt>A02</cmt>
+  <desc>A02</desc>
+</wpt>
+<wpt lat="44.021166667" lon="6.590333333">
+  <ele>22.000000</ele>
+  <name>B06</name>
+  <cmt>B06</cmt>
+  <desc>B06</desc>
+</wpt>
+<wpt lat="43.845833333" lon="6.251833333">
+  <ele>22.000000</ele>
+  <name>B17</name>
+  <cmt>B17</cmt>
+  <desc>B17</desc>
+</wpt>
+<wpt lat="43.976833333" lon="6.491333333">
+  <ele>22.000000</ele>
+  <name>D02</name>
+  <cmt>D02</cmt>
+  <desc>D02</desc>
+</wpt>
+<wpt lat="44.053666667" lon="6.171666667">
+  <ele>22.000000</ele>
+  <name>B50</name>
+  <cmt>B50</cmt>
+  <desc>B50</desc>
+</wpt>
+<wpt lat="43.938833333" lon="6.407833333">
+  <ele>22.000000</ele>
+  <name>B40</name>
+  <cmt>B40</cmt>
+  <desc>B40</desc>
+</wpt>
+<wpt lat="43.964833333" lon="6.534333333">
+  <ele>22.000000</ele>
+  <name>B05</name>
+  <cmt>B05</cmt>
+  <desc>B05</desc>
+</wpt>
+<wpt lat="44.384166667" lon="6.669333333">
+  <ele>22.000000</ele>
+  <name>B12</name>
+  <cmt>B12</cmt>
+  <desc>B12</desc>
+</wpt>
+<wpt lat="44.047500000" lon="6.443833333">
+  <ele>22.000000</ele>
+  <name>B26</name>
+  <cmt>B26</cmt>
+  <desc>B26</desc>
+</wpt>
+<wpt lat="44.027833333" lon="6.317833333">
+  <ele>22.000000</ele>
+  <name>B41</name>
+  <cmt>B41</cmt>
+  <desc>B41</desc>
+</wpt>
+<wpt lat="44.371166667" lon="6.309833333">
+  <ele>22.000000</ele>
+  <name>B46</name>
+  <cmt>B46</cmt>
+  <desc>B46</desc>
+</wpt>
+<wpt lat="44.110500000" lon="6.362166667">
+  <ele>22.000000</ele>
+  <name>B31</name>
+  <cmt>B31</cmt>
+  <desc>B31</desc>
+</wpt>
+<wpt lat="44.100166667" lon="6.350666667">
+  <ele>22.000000</ele>
+  <name>B44</name>
+  <cmt>B44</cmt>
+  <desc>B44</desc>
+</wpt>
+<wpt lat="43.961333333" lon="6.493333333">
+  <ele>22.000000</ele>
+  <name>B02</name>
+  <cmt>B02</cmt>
+  <desc>B02</desc>
+</wpt>
+<wpt lat="44.045500000" lon="6.360166667">
+  <ele>22.000000</ele>
+  <name>B43</name>
+  <cmt>B43</cmt>
+  <desc>B43</desc>
+</wpt>
+<wpt lat="44.403166667" lon="6.369500000">
+  <ele>22.000000</ele>
+  <name>D03</name>
+  <cmt>D03</cmt>
+  <desc>D03</desc>
+</wpt>
+</gpx>

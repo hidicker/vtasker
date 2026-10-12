@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2018-01-22T14:50:24Z</time>
+<bounds minlat="17.675116795" minlon="73.622641642" maxlat="18.276380186" maxlon="74.099187247"/>
+<wpt lat="18.148386417" lon="73.843705391">
+  <ele>614.000000</ele>
+  <name>B05</name>
+  <cmt>B05-Bhor Village</cmt>
+  <desc>B05-Bhor Village</desc>
+</wpt>
+<wpt lat="17.755726703" lon="73.998604303">
+  <ele>716.000000</ele>
+  <name>L08</name>
+  <cmt>L08-Highway Landing</cmt>
+  <desc>L08-Highway Landing</desc>
+</wpt>
+<wpt lat="17.952481652" lon="73.843622567">
+  <ele>757.000000</ele>
+  <name>L05</name>
+  <cmt>L05- Pasarni Landing</cmt>
+  <desc>L05- Pasarni Landing</desc>
+</wpt>
+<wpt lat="17.956362191" lon="73.957080464">
+  <ele>761.000000</ele>
+  <name>L06</name>
+  <cmt>L06-Wai-Surur Landing</cmt>
+  <desc>L06-Wai-Surur Landing</desc>
+</wpt>
+<wpt lat="17.894734200" lon="73.988418900">
+  <ele>739.000000</ele>
+  <name>L07</name>
+  <cmt>L07-Landing windmills</cmt>
+  <desc>L07-Landing windmills</desc>
+</wpt>
+<wpt lat="17.983213900" lon="73.760758300">
+  <ele>1256.000000</ele>
+  <name>D02</name>
+  <cmt>D02-Kamalgarh Ridge line</cmt>
+  <desc>D02-Kamalgarh Ridge line</desc>
+</wpt>
+<wpt lat="17.966897200" lon="73.744886100">
+  <ele>1346.000000</ele>
+  <name>D01</name>
+  <cmt>D01-Kamalgadh</cmt>
+  <desc>D01-Kamalgadh</desc>
+</wpt>
+<wpt lat="18.276380186" lon="73.622641642">
+  <ele>1371.000000</ele>
+  <name>B04</name>
+  <cmt>B04-Torna Fort</cmt>
+  <desc>B04-Torna Fort</desc>
+</wpt>
+<wpt lat="18.246208104" lon="73.682375887">
+  <ele>1314.000000</ele>
+  <name>B03</name>
+  <cmt>B03-Rajgad Fort</cmt>
+  <desc>B03-Rajgad Fort</desc>
+</wpt>
+<wpt lat="18.237465389" lon="73.793848494">
+  <ele>1000.000000</ele>
+  <name>B02</name>
+  <cmt>B02-Bhor</cmt>
+  <desc>B02-Bhor</desc>
+</wpt>
+<wpt lat="18.153714839" lon="73.732742408">
+  <ele>1237.000000</ele>
+  <name>B01</name>
+  <cmt>B01-Bhor South</cmt>
+  <desc>B01-Bhor South</desc>
+</wpt>
+<wpt lat="18.023465030" lon="73.927158324">
+  <ele>1283.000000</ele>
+  <name>A07</name>
+  <cmt>A07-Balegar</cmt>
+  <desc>A07-Balegar</desc>
+</wpt>
+<wpt lat="18.047304893" lon="73.880864719">
+  <ele>1279.000000</ele>
+  <name>A06</name>
+  <cmt>A06-Mandhardevi east TO</cmt>
+  <desc>A06-Mandhardevi east TO</desc>
+</wpt>
+<wpt lat="18.034070190" lon="73.861744592">
+  <ele>1267.000000</ele>
+  <name>A05</name>
+  <cmt>A05-Mandhardevi West TO</cmt>
+  <desc>A05-Mandhardevi West TO</desc>
+</wpt>
+<wpt lat="17.998327700" lon="73.863652800">
+  <ele>1254.000000</ele>
+  <name>A04</name>
+  <cmt>A04-Pandavgadh</cmt>
+  <desc>A04-Pandavgadh</desc>
+</wpt>
+<wpt lat="18.018041600" lon="73.794475000">
+  <ele>1314.000000</ele>
+  <name>A03</name>
+  <cmt>A03-Eruli</cmt>
+  <desc>A03-Eruli</desc>
+</wpt>
+<wpt lat="18.025305600" lon="73.745077800">
+  <ele>1273.000000</ele>
+  <name>A02</name>
+  <cmt>A02-Kenjalgadh</cmt>
+  <desc>A02-Kenjalgadh</desc>
+</wpt>
+<wpt lat="18.048586100" lon="73.715438900">
+  <ele>1395.000000</ele>
+  <name>A01</name>
+  <cmt>A01-Raireshwar</cmt>
+  <desc>A01-Raireshwar</desc>
+</wpt>
+<wpt lat="17.974202800" lon="73.712483300">
+  <ele>1300.000000</ele>
+  <name>D03</name>
+  <cmt>D03-Balakwadi Top</cmt>
+  <desc>D03-Balakwadi Top</desc>
+</wpt>
+<wpt lat="17.993430500" lon="73.731775000">
+  <ele>1154.000000</ele>
+  <name>D04</name>
+  <cmt>D04-Vasole Top</cmt>
+  <desc>D04-Vasole Top</desc>
+</wpt>
+<wpt lat="18.001186100" lon="73.671452800">
+  <ele>1408.000000</ele>
+  <name>D05</name>
+  <cmt>D05-Jor</cmt>
+  <desc>D05-Jor</desc>
+</wpt>
+<wpt lat="17.964500019" lon="73.662816993">
+  <ele>1333.000000</ele>
+  <name>K01</name>
+  <cmt>K01-Old Mahabaleshwar</cmt>
+  <desc>K01-Old Mahabaleshwar</desc>
+</wpt>
+<wpt lat="17.924958400" lon="73.657533041">
+  <ele>1365.000000</ele>
+  <name>K02</name>
+  <cmt>K02-Mahabaleshwar Town</cmt>
+  <desc>K02-Mahabaleshwar Town</desc>
+</wpt>
+<wpt lat="17.865887157" lon="73.733282873">
+  <ele>1223.000000</ele>
+  <name>K03</name>
+  <cmt>K03-Majrewadi</cmt>
+  <desc>K03-Majrewadi</desc>
+</wpt>
+<wpt lat="17.818877588" lon="73.757819721">
+  <ele>1286.000000</ele>
+  <name>K04</name>
+  <cmt>K04-Galdev</cmt>
+  <desc>K04-Galdev</desc>
+</wpt>
+<wpt lat="17.729629503" lon="73.818984816">
+  <ele>1233.000000</ele>
+  <name>K05</name>
+  <cmt>K05-Kaas Plateau</cmt>
+  <desc>K05-Kaas Plateau</desc>
+</wpt>
+<wpt lat="17.675116795" lon="73.954768965">
+  <ele>1137.000000</ele>
+  <name>K06</name>
+  <cmt>K06-Sambarwadi</cmt>
+  <desc>K06-Sambarwadi</desc>
+</wpt>
+<wpt lat="17.875313900" lon="73.800841700">
+  <ele>1192.000000</ele>
+  <name>M01</name>
+  <cmt>M01-Ghoteghar</cmt>
+  <desc>M01-Ghoteghar</desc>
+</wpt>
+<wpt lat="17.852793134" lon="73.797890809">
+  <ele>1000.000000</ele>
+  <name>M02</name>
+  <cmt>M02-Marli TO</cmt>
+  <desc>M02-Marli TO</desc>
+</wpt>
+<wpt lat="17.843223755" lon="73.828221931">
+  <ele>1282.000000</ele>
+  <name>M03</name>
+  <cmt>M03-Marli Table Land</cmt>
+  <desc>M03-Marli Table Land</desc>
+</wpt>
+<wpt lat="17.770943869" lon="73.916492727">
+  <ele>1169.000000</ele>
+  <name>M04</name>
+  <cmt>M04-Meruling</cmt>
+  <desc>M04-Meruling</desc>
+</wpt>
+<wpt lat="17.923863900" lon="73.734880500">
+  <ele>1289.000000</ele>
+  <name>P01</name>
+  <cmt>P01-Mapro Garden Ridge</cmt>
+  <desc>P01-Mapro Garden Ridge</desc>
+</wpt>
+<wpt lat="17.937625000" lon="73.770333400">
+  <ele>1156.000000</ele>
+  <name>P02</name>
+  <cmt>P02-Pangari</cmt>
+  <desc>P02-Pangari</desc>
+</wpt>
+<wpt lat="17.927377840" lon="73.807519231">
+  <ele>1331.000000</ele>
+  <name>P03</name>
+  <cmt>P03-Panchgani Big Table Land</cmt>
+  <desc>P03-Panchgani Big Table Land</desc>
+</wpt>
+<wpt lat="17.937297483" lon="73.805889176">
+  <ele>1268.000000</ele>
+  <name>P04</name>
+  <cmt>P04-Sydney Point West TO</cmt>
+  <desc>P04-Sydney Point West TO</desc>
+</wpt>
+<wpt lat="17.946922200" lon="73.808466700">
+  <ele>1120.000000</ele>
+  <name>P05</name>
+  <cmt>P05-Sydney Point East TO</cmt>
+  <desc>P05-Sydney Point East TO</desc>
+</wpt>
+<wpt lat="17.943177800" lon="73.831511100">
+  <ele>1100.000000</ele>
+  <name>P06</name>
+  <cmt>P06-Harrisons Folly TO</cmt>
+  <desc>P06-Harrisons Folly TO</desc>
+</wpt>
+<wpt lat="17.933624116" lon="73.872238289">
+  <ele>1125.000000</ele>
+  <name>P07</name>
+  <cmt>P07-Wai Ridge Line</cmt>
+  <desc>P07-Wai Ridge Line</desc>
+</wpt>
+<wpt lat="17.897300048" lon="73.818202725">
+  <ele>1204.000000</ele>
+  <name>R01</name>
+  <cmt>R01-Khingar TO</cmt>
+  <desc>R01-Khingar TO</desc>
+</wpt>
+<wpt lat="17.897889654" lon="73.841913453">
+  <ele>1192.000000</ele>
+  <name>R02</name>
+  <cmt>R02-Rajapuri South TO</cmt>
+  <desc>R02-Rajapuri South TO</desc>
+</wpt>
+<wpt lat="17.896126297" lon="73.859736392">
+  <ele>1197.000000</ele>
+  <name>R03</name>
+  <cmt>R03-Rajapuri East TO</cmt>
+  <desc>R03-Rajapuri East TO</desc>
+</wpt>
+<wpt lat="17.871141700" lon="73.897536100">
+  <ele>1166.000000</ele>
+  <name>R04</name>
+  <cmt>R04-Vyajawadi</cmt>
+  <desc>R04-Vyajawadi</desc>
+</wpt>
+<wpt lat="18.006763064" lon="74.029274252">
+  <ele>1275.000000</ele>
+  <name>W01</name>
+  <cmt>W01-Highway Ghat</cmt>
+  <desc>W01-Highway Ghat</desc>
+</wpt>
+<wpt lat="17.966964837" lon="73.992121407">
+  <ele>774.000000</ele>
+  <name>W02</name>
+  <cmt>W02-Surur</cmt>
+  <desc>W02-Surur</desc>
+</wpt>
+<wpt lat="17.937091700" lon="74.010400000">
+  <ele>1193.000000</ele>
+  <name>W03</name>
+  <cmt>W03-Chavaneshwar Temple</cmt>
+  <desc>W03-Chavaneshwar Temple</desc>
+</wpt>
+<wpt lat="17.803970909" lon="74.064393631">
+  <ele>991.000000</ele>
+  <name>W04</name>
+  <cmt>W04-Nhalewadi</cmt>
+  <desc>W04-Nhalewadi</desc>
+</wpt>
+<wpt lat="17.736896760" lon="74.099187247">
+  <ele>1105.000000</ele>
+  <name>W05</name>
+  <cmt>W05-Hanuman Mandir</cmt>
+  <desc>W05-Hanuman Mandir</desc>
+</wpt>
+<wpt lat="17.972736676" lon="73.809366109">
+  <ele>740.000000</ele>
+  <name>L01</name>
+  <cmt>L01-Boat Club LZ</cmt>
+  <desc>L01-Boat Club LZ</desc>
+</wpt>
+<wpt lat="17.991966883" lon="73.827927300">
+  <ele>748.000000</ele>
+  <name>L02</name>
+  <cmt>L02-Abhepuri LZ</cmt>
+  <desc>L02-Abhepuri LZ</desc>
+</wpt>
+<wpt lat="17.991491538" lon="73.818605283">
+  <ele>739.000000</ele>
+  <name>L03</name>
+  <cmt>L03-Abhepuri Lakeside LZ</cmt>
+  <desc>L03-Abhepuri Lakeside LZ</desc>
+</wpt>
+<wpt lat="17.974283300" lon="73.784988900">
+  <ele>744.000000</ele>
+  <name>L04</name>
+  <cmt>L04-Asgaon LZ</cmt>
+  <desc>L04-Asgaon LZ</desc>
+</wpt>
+</gpx>

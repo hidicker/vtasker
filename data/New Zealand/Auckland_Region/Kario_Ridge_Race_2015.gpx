@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+     creator="GpsDump 4.77"
+     version="1.1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.gethome.no/stein.sorensen/">
+      <text>GPS dump for www.flightlog.org</text>
+    </link>
+    <time>2015-05-26T06:45:57Z</time>
+    <bounds minlat="-37.316433" minlon="171.887339" maxlat="-37.050672" maxlon="174.671949"/>
+  </metadata>
+  <wpt lat="-37.130978" lon="174.572051">
+    <ele>0.0</ele>
+    <time>2015-05-26T06:45:44</time>
+    <name>HAMILT</name>
+    <cmt>Hamilton Gap</cmt>
+    <desc>Hamilton Gap</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.286769" lon="174.658175">
+    <ele>0.0</ele>
+    <time>2015-05-26T06:45:44</time>
+    <name>CLUB</name>
+    <cmt>Club Takeoff</cmt>
+    <desc>Club Takeoff</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.316433" lon="174.671949">
+    <ele>0.0</ele>
+    <time>2015-05-26T06:45:44</time>
+    <name>PARK</name>
+    <cmt>Park</cmt>
+    <desc>Park</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.050672" lon="174.545889">
+    <ele>0.0</ele>
+    <time>2015-05-26T06:45:44</time>
+    <name>LIGHTH</name>
+    <cmt>Lighthouse</cmt>
+    <desc>Lighthouse</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.203940" lon="174.612887">
+    <ele>0.0</ele>
+    <time>2015-05-26T06:45:44</time>
+    <name>WALTON</name>
+    <cmt>Waltons Gap</cmt>
+    <desc>Waltons Gap</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.096358" lon="174.551001">
+    <ele>0.0</ele>
+    <time>2015-05-26T06:45:44</time>
+    <name>START</name>
+    <cmt>Start of Curve</cmt>
+    <desc>Start of Curve</desc>
+    <sym>Dot</sym>
+  </wpt>
+  <wpt lat="-37.079441" lon="174.540897">
+    <ele>0.0</ele>
+    <time>2015-05-26T06:45:44</time>
+    <name>CURVE2</name>
+    <cmt>Curve2</cmt>
+    <desc>Curve2</desc>
+    <sym>Dot</sym>
+  </wpt>
+</gpx>

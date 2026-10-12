@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2025-02-08T11:20:38Z</time>
+<bounds minlat="43.916333333" minlon="5.435800000" maxlat="44.613900000" maxlon="6.669350000"/>
+<wpt lat="44.608700000" lon="6.049830600">
+  <ele>1890.000000</ele>
+  <name>B91180</name>
+  <cmt>Charance North</cmt>
+  <desc>Charance North</desc>
+</wpt>
+<wpt lat="44.597944400" lon="6.154544400">
+  <ele>1405.000000</ele>
+  <name>B90140</name>
+  <cmt>La Rochette</cmt>
+  <desc>La Rochette</desc>
+</wpt>
+<wpt lat="44.584038900" lon="6.235458400">
+  <ele>1569.000000</ele>
+  <name>D28156</name>
+  <cmt>TO Batie Neuve</cmt>
+  <desc>TO Batie Neuve</desc>
+</wpt>
+<wpt lat="44.548152800" lon="5.703327800">
+  <ele>1533.000000</ele>
+  <name>D27153</name>
+  <cmt>TO West Aspres</cmt>
+  <desc>TO West Aspres</desc>
+</wpt>
+<wpt lat="44.540877800" lon="5.712238800">
+  <ele>1550.000000</ele>
+  <name>D26155</name>
+  <cmt>TO Aspres Sth</cmt>
+  <desc>TO Aspres Sth</desc>
+</wpt>
+<wpt lat="44.203697200" lon="5.511608400">
+  <ele>1360.000000</ele>
+  <name>D25136</name>
+  <cmt>TO Bergies</cmt>
+  <desc>TO Bergies</desc>
+</wpt>
+<wpt lat="44.207544400" lon="5.477963900">
+  <ele>1417.000000</ele>
+  <name>D24140</name>
+  <cmt>TO Buc</cmt>
+  <desc>TO Buc</desc>
+</wpt>
+<wpt lat="44.303150000" lon="5.776125000">
+  <ele>1290.000000</ele>
+  <name>D22124</name>
+  <cmt>T0 Chabre Nth Pg</cmt>
+  <desc>T0 Chabre Nth Pg</desc>
+</wpt>
+<wpt lat="44.297494400" lon="5.762636100">
+  <ele>1340.000000</ele>
+  <name>D21134</name>
+  <cmt>TO Chabre Sth</cmt>
+  <desc>TO Chabre Sth</desc>
+</wpt>
+<wpt lat="44.427447200" lon="5.503677800">
+  <ele>1470.000000</ele>
+  <name>B88147</name>
+  <cmt>Rosans Ridge</cmt>
+  <desc>Rosans Ridge</desc>
+</wpt>
+<wpt lat="44.452519500" lon="6.035813900">
+  <ele>594.000000</ele>
+  <name>B87059</name>
+  <cmt>Tallard Aerodrome</cmt>
+  <desc>Tallard Aerodrome</desc>
+</wpt>
+<wpt lat="44.321222200" lon="5.463258400">
+  <ele>1344.000000</ele>
+  <name>B86134</name>
+  <cmt>Montagne De Claveliere</cmt>
+  <desc>Montagne De Claveliere</desc>
+</wpt>
+<wpt lat="44.036866700" lon="6.115458300">
+  <ele>490.000000</ele>
+  <name>B85049</name>
+  <cmt>Mallemoisson</cmt>
+  <desc>Mallemoisson</desc>
+</wpt>
+<wpt lat="44.043905600" lon="6.064108300">
+  <ele>462.000000</ele>
+  <name>B84046</name>
+  <cmt>Chapel Maliji</cmt>
+  <desc>Chapel Maliji</desc>
+</wpt>
+<wpt lat="44.122561100" lon="5.916738900">
+  <ele>1235.000000</ele>
+  <name>B83123</name>
+  <cmt>Lure East</cmt>
+  <desc>Lure East</desc>
+</wpt>
+<wpt lat="44.376880500" lon="5.799247200">
+  <ele>1214.000000</ele>
+  <name>B82121</name>
+  <cmt>St Genis</cmt>
+  <desc>St Genis</desc>
+</wpt>
+<wpt lat="44.492969500" lon="5.725397300">
+  <ele>767.000000</ele>
+  <name>B80076</name>
+  <cmt>Aspremont</cmt>
+  <desc>Aspremont</desc>
+</wpt>
+<wpt lat="44.421947200" lon="5.794566700">
+  <ele>736.000000</ele>
+  <name>B79073</name>
+  <cmt>Savournon</cmt>
+  <desc>Savournon</desc>
+</wpt>
+<wpt lat="44.365683300" lon="5.768247200">
+  <ele>635.000000</ele>
+  <name>B76063</name>
+  <cmt>Riou lake</cmt>
+  <desc>Riou lake</desc>
+</wpt>
+<wpt lat="44.224905500" lon="5.913711100">
+  <ele>505.000000</ele>
+  <name>B74050</name>
+  <cmt>Roundabout Sisteron</cmt>
+  <desc>Roundabout Sisteron</desc>
+</wpt>
+<wpt lat="44.170791600" lon="5.744947200">
+  <ele>687.000000</ele>
+  <name>B73068</name>
+  <cmt>St Vincent Jambron</cmt>
+  <desc>St Vincent Jambron</desc>
+</wpt>
+<wpt lat="44.194488900" lon="5.599647300">
+  <ele>1484.000000</ele>
+  <name>B72148</name>
+  <cmt>Palle</cmt>
+  <desc>Palle</desc>
+</wpt>
+<wpt lat="44.301227800" lon="5.626966600">
+  <ele>1107.000000</ele>
+  <name>B71108</name>
+  <cmt>Le Puy</cmt>
+  <desc>Le Puy</desc>
+</wpt>
+<wpt lat="44.430008400" lon="5.745630600">
+  <ele>1434.000000</ele>
+  <name>B70143</name>
+  <cmt>Arambre</cmt>
+  <desc>Arambre</desc>
+</wpt>
+<wpt lat="44.569069400" lon="6.019997200">
+  <ele>1873.000000</ele>
+  <name>B69171</name>
+  <cmt>Charance</cmt>
+  <desc>Charance</desc>
+</wpt>
+<wpt lat="44.225997200" lon="5.742627800">
+  <ele>1560.000000</ele>
+  <name>B68151</name>
+  <cmt>Fleossier</cmt>
+  <desc>Fleossier</desc>
+</wpt>
+<wpt lat="44.233872300" lon="5.987708300">
+  <ele>1350.000000</ele>
+  <name>B67135</name>
+  <cmt>Gache</cmt>
+  <desc>Gache</desc>
+</wpt>
+<wpt lat="44.438113900" lon="5.848800000">
+  <ele>1830.000000</ele>
+  <name>B66180</name>
+  <cmt>Aujour</cmt>
+  <desc>Aujour</desc>
+</wpt>
+<wpt lat="44.459733400" lon="5.801694500">
+  <ele>1390.000000</ele>
+  <name>B65139</name>
+  <cmt>Longue Dent nr Le Saix</cmt>
+  <desc>Longue Dent nr Le Saix</desc>
+</wpt>
+<wpt lat="44.406586100" lon="5.904533400">
+  <ele>1316.000000</ele>
+  <name>B64131</name>
+  <cmt>Celles east Aujour</cmt>
+  <desc>Celles east Aujour</desc>
+</wpt>
+<wpt lat="44.379333300" lon="5.857213900">
+  <ele>1310.000000</ele>
+  <name>B63130</name>
+  <cmt>St Genis East</cmt>
+  <desc>St Genis East</desc>
+</wpt>
+<wpt lat="44.370311100" lon="5.905186200">
+  <ele>680.000000</ele>
+  <name>B62068</name>
+  <cmt>Ventavon</cmt>
+  <desc>Ventavon</desc>
+</wpt>
+<wpt lat="44.319477800" lon="5.874636100">
+  <ele>758.000000</ele>
+  <name>B61075</name>
+  <cmt>Upaix</cmt>
+  <desc>Upaix</desc>
+</wpt>
+<wpt lat="44.263338900" lon="5.839491600">
+  <ele>682.000000</ele>
+  <name>B60068</name>
+  <cmt>Mison</cmt>
+  <desc>Mison</desc>
+</wpt>
+<wpt lat="44.319758400" lon="5.956811100">
+  <ele>832.000000</ele>
+  <name>B58083</name>
+  <cmt>Sigoyer</cmt>
+  <desc>Sigoyer</desc>
+</wpt>
+<wpt lat="44.198836100" lon="5.973055600">
+  <ele>1140.000000</ele>
+  <name>B55114</name>
+  <cmt>La Baume Sisteron</cmt>
+  <desc>La Baume Sisteron</desc>
+</wpt>
+<wpt lat="44.279658300" lon="5.985188900">
+  <ele>1180.000000</ele>
+  <name>B54110</name>
+  <cmt>Hongrie</cmt>
+  <desc>Hongrie</desc>
+</wpt>
+<wpt lat="44.236222200" lon="5.790863900">
+  <ele>1480.000000</ele>
+  <name>B53148</name>
+  <cmt>La Platte</cmt>
+  <desc>La Platte</desc>
+</wpt>
+<wpt lat="44.200511100" lon="5.831780500">
+  <ele>1280.000000</ele>
+  <name>B52121</name>
+  <cmt>Ubac</cmt>
+  <desc>Ubac</desc>
+</wpt>
+<wpt lat="44.197930600" lon="5.640186100">
+  <ele>1420.000000</ele>
+  <name>B51142</name>
+  <cmt>Chante Duc</cmt>
+  <desc>Chante Duc</desc>
+</wpt>
+<wpt lat="44.257072200" lon="5.466805600">
+  <ele>1303.000000</ele>
+  <name>B50130</name>
+  <cmt>Croc -nr Mevoullion-</cmt>
+  <desc>Croc -nr Mevoullion-</desc>
+</wpt>
+<wpt lat="44.254275000" lon="5.509161100">
+  <ele>1180.000000</ele>
+  <name>B49118</name>
+  <cmt>La Trappe</cmt>
+  <desc>La Trappe</desc>
+</wpt>
+<wpt lat="44.261291600" lon="5.572980600">
+  <ele>1531.000000</ele>
+  <name>B48153</name>
+  <cmt>Chamousse</cmt>
+  <desc>Chamousse</desc>
+</wpt>
+<wpt lat="44.261350000" lon="5.629933300">
+  <ele>1281.000000</ele>
+  <name>B47127</name>
+  <cmt>Col St Jean</cmt>
+  <desc>Col St Jean</desc>
+</wpt>
+<wpt lat="44.372252800" lon="6.002386100">
+  <ele>1420.000000</ele>
+  <name>B46142</name>
+  <cmt>Les Croix -nr Melve-</cmt>
+  <desc>Les Croix -nr Melve-</desc>
+</wpt>
+<wpt lat="44.383494400" lon="6.037575000">
+  <ele>1560.000000</ele>
+  <name>B45156</name>
+  <cmt>Malaup</cmt>
+  <desc>Malaup</desc>
+</wpt>
+<wpt lat="44.565266600" lon="5.960894500">
+  <ele>1010.000000</ele>
+  <name>B44101</name>
+  <cmt>La Roche Des Arnauds</cmt>
+  <desc>La Roche Des Arnauds</desc>
+</wpt>
+<wpt lat="44.512036100" lon="5.832816600">
+  <ele>1600.000000</ele>
+  <name>B42160</name>
+  <cmt>Oule</cmt>
+  <desc>Oule</desc>
+</wpt>
+<wpt lat="44.570327800" lon="5.872180600">
+  <ele>900.000000</ele>
+  <name>B41090</name>
+  <cmt>Montmaur</cmt>
+  <desc>Montmaur</desc>
+</wpt>
+<wpt lat="44.534194400" lon="5.620191600">
+  <ele>1643.000000</ele>
+  <name>B40164</name>
+  <cmt>Col de Cabre -South of-</cmt>
+  <desc>Col de Cabre -South of-</desc>
+</wpt>
+<wpt lat="44.406811100" lon="5.725611100">
+  <ele>640.000000</ele>
+  <name>B39064</name>
+  <cmt>Germanette lake</cmt>
+  <desc>Germanette lake</desc>
+</wpt>
+<wpt lat="44.223480500" lon="5.643338800">
+  <ele>740.000000</ele>
+  <name>B38074</name>
+  <cmt>Lachau Church</cmt>
+  <desc>Lachau Church</desc>
+</wpt>
+<wpt lat="44.346144400" lon="5.727372200">
+  <ele>1080.000000</ele>
+  <name>B37104</name>
+  <cmt>La Garde</cmt>
+  <desc>La Garde</desc>
+</wpt>
+<wpt lat="44.330247200" lon="5.704458300">
+  <ele>1300.000000</ele>
+  <name>B36130</name>
+  <cmt>Orpierre Suillet</cmt>
+  <desc>Orpierre Suillet</desc>
+</wpt>
+<wpt lat="44.385647200" lon="5.686086100">
+  <ele>1540.000000</ele>
+  <name>B35154</name>
+  <cmt>Beaumont</cmt>
+  <desc>Beaumont</desc>
+</wpt>
+<wpt lat="44.444613900" lon="5.617133300">
+  <ele>1640.000000</ele>
+  <name>B34162</name>
+  <cmt>Bonnet Rouge</cmt>
+  <desc>Bonnet Rouge</desc>
+</wpt>
+<wpt lat="44.478455500" lon="5.678711200">
+  <ele>1400.000000</ele>
+  <name>B33140</name>
+  <cmt>Glider Ridge</cmt>
+  <desc>Glider Ridge</desc>
+</wpt>
+<wpt lat="44.540833300" lon="5.744391700">
+  <ele>1490.000000</ele>
+  <name>B32149</name>
+  <cmt>Aspres Aerials</cmt>
+  <desc>Aspres Aerials</desc>
+</wpt>
+<wpt lat="44.283975000" lon="5.704766600">
+  <ele>1238.000000</ele>
+  <name>B31124</name>
+  <cmt>Col St Ange</cmt>
+  <desc>Col St Ange</desc>
+</wpt>
+<wpt lat="44.223866700" lon="5.468613900">
+  <ele>955.000000</ele>
+  <name>A19095</name>
+  <cmt>Buc Landing</cmt>
+  <desc>Buc Landing</desc>
+</wpt>
+<wpt lat="44.045522300" lon="6.036441600">
+  <ele>433.000000</ele>
+  <name>A18043</name>
+  <cmt>Malijai Landing</cmt>
+  <desc>Malijai Landing</desc>
+</wpt>
+<wpt lat="44.547700000" lon="6.266830600">
+  <ele>856.000000</ele>
+  <name>A17085</name>
+  <cmt>Chorges Landing</cmt>
+  <desc>Chorges Landing</desc>
+</wpt>
+<wpt lat="44.613900000" lon="5.435800000">
+  <ele>564.000000</ele>
+  <name>A16056</name>
+  <cmt>Poyols Landing</cmt>
+  <desc>Poyols Landing</desc>
+</wpt>
+<wpt lat="44.534736100" lon="5.835902800">
+  <ele>814.000000</ele>
+  <name>A15081</name>
+  <cmt>Veynes Landing</cmt>
+  <desc>Veynes Landing</desc>
+</wpt>
+<wpt lat="44.381405600" lon="5.471283400">
+  <ele>637.000000</ele>
+  <name>A14063</name>
+  <cmt>Rosans landing</cmt>
+  <desc>Rosans landing</desc>
+</wpt>
+<wpt lat="44.417252800" lon="6.351402800">
+  <ele>1334.000000</ele>
+  <name>A12134</name>
+  <cmt>St Jean Monclar Landing</cmt>
+  <desc>St Jean Monclar Landing</desc>
+</wpt>
+<wpt lat="44.340358300" lon="5.752088900">
+  <ele>663.000000</ele>
+  <name>A11066</name>
+  <cmt>Lagrand Landing</cmt>
+  <desc>Lagrand Landing</desc>
+</wpt>
+<wpt lat="44.551850000" lon="6.212422200">
+  <ele>790.000000</ele>
+  <name>A09079</name>
+  <cmt>Batie Neuve Landing</cmt>
+  <desc>Batie Neuve Landing</desc>
+</wpt>
+<wpt lat="43.921711100" lon="5.905019400">
+  <ele>348.000000</ele>
+  <name>A08034</name>
+  <cmt>Oraison Landing Hippo</cmt>
+  <desc>Oraison Landing Hippo</desc>
+</wpt>
+<wpt lat="44.220383300" lon="5.522022200">
+  <ele>796.000000</ele>
+  <name>A07079</name>
+  <cmt>Bergies Landing</cmt>
+  <desc>Bergies Landing</desc>
+</wpt>
+<wpt lat="44.525091700" lon="5.706005600">
+  <ele>820.000000</ele>
+  <name>A06082</name>
+  <cmt>Aspres St Pierre Landing</cmt>
+  <desc>Aspres St Pierre Landing</desc>
+</wpt>
+<wpt lat="44.520066600" lon="5.738550000">
+  <ele>823.000000</ele>
+  <name>A05082</name>
+  <cmt>Aspres Aerodrome</cmt>
+  <desc>Aspres Aerodrome</desc>
+</wpt>
+<wpt lat="44.320202800" lon="5.792119500">
+  <ele>560.000000</ele>
+  <name>A04056</name>
+  <cmt>Laragne N Landing</cmt>
+  <desc>Laragne N Landing</desc>
+</wpt>
+<wpt lat="44.262658300" lon="5.740722200">
+  <ele>640.000000</ele>
+  <name>A03064</name>
+  <cmt>Barret Landing</cmt>
+  <desc>Barret Landing</desc>
+</wpt>
+<wpt lat="44.241833300" lon="5.844169400">
+  <ele>550.000000</ele>
+  <name>A02053</name>
+  <cmt>Ribiers Landing</cmt>
+  <desc>Ribiers Landing</desc>
+</wpt>
+<wpt lat="44.312016700" lon="5.834300000">
+  <ele>573.000000</ele>
+  <name>A01057</name>
+  <cmt>Camping Landing</cmt>
+  <desc>Camping Landing</desc>
+</wpt>
+<wpt lat="44.349616667" lon="6.343766667">
+  <ele>1120.000000</ele>
+  <name>A05121</name>
+  <cmt>GoalRemote&quot;</cmt>
+  <desc>GoalRemote&quot;</desc>
+</wpt>
+<wpt lat="44.410266667" lon="6.351650000">
+  <ele>1329.000000</ele>
+  <name>Z20133</name>
+  <cmt>Chairlift&quot;</cmt>
+  <desc>Chairlift&quot;</desc>
+</wpt>
+<wpt lat="44.411983333" lon="6.351133333">
+  <ele>1328.000000</ele>
+  <name>Z10133</name>
+  <cmt>GWO HQ&quot;</cmt>
+  <desc>GWO HQ&quot;</desc>
+</wpt>
+<wpt lat="44.312083333" lon="5.835600000">
+  <ele>571.000000</ele>
+  <name>C40057</name>
+  <cmt>Camping Laragne&quot;</cmt>
+  <desc>Camping Laragne&quot;</desc>
+</wpt>
+<wpt lat="44.595466667" lon="6.151016667">
+  <ele>1179.000000</ele>
+  <name>C30117</name>
+  <cmt>Chapeau Napoleon&quot;</cmt>
+  <desc>Chapeau Napoleon&quot;</desc>
+</wpt>
+<wpt lat="44.499416667" lon="6.190200000">
+  <ele>1275.000000</ele>
+  <name>C20128</name>
+  <cmt>Colombis&quot;</cmt>
+  <desc>Colombis&quot;</desc>
+</wpt>
+<wpt lat="44.463033333" lon="6.577766667">
+  <ele>2738.000000</ele>
+  <name>C10276</name>
+  <cmt>Table Orientation&quot;</cmt>
+  <desc>Table Orientation&quot;</desc>
+</wpt>
+<wpt lat="44.344366667" lon="6.371866667">
+  <ele>1191.000000</ele>
+  <name>A06119</name>
+  <cmt>BASE-VOL-A-VOILE----&quot;</cmt>
+  <desc>BASE-VOL-A-VOILE----&quot;</desc>
+</wpt>
+<wpt lat="44.334783333" lon="6.296166667">
+  <ele>1980.000000</ele>
+  <name>D05198</name>
+  <cmt>DECO CHABANON&quot;</cmt>
+  <desc>DECO CHABANON&quot;</desc>
+</wpt>
+<wpt lat="44.395666667" lon="6.374716667">
+  <ele>1866.000000</ele>
+  <name>D04187</name>
+  <cmt>DECO SUD PLATEAU&quot;</cmt>
+  <desc>DECO SUD PLATEAU&quot;</desc>
+</wpt>
+<wpt lat="44.394983333" lon="6.390250000">
+  <ele>2289.000000</ele>
+  <name>D03231</name>
+  <cmt>DECO SOMMET COL BAS&quot;</cmt>
+  <desc>DECO SOMMET COL BAS&quot;</desc>
+</wpt>
+<wpt lat="44.443233333" lon="6.371533333">
+  <ele>1282.000000</ele>
+  <name>D02128</name>
+  <cmt>DECO ST VINCENT&quot;</cmt>
+  <desc>DECO ST VINCENT&quot;</desc>
+</wpt>
+<wpt lat="44.403033333" lon="6.370533333">
+  <ele>1870.000000</ele>
+  <name>D01188</name>
+  <cmt>DECO OUEST PLATEAU&quot;</cmt>
+  <desc>DECO OUEST PLATEAU&quot;</desc>
+</wpt>
+<wpt lat="44.419983333" lon="6.334783333">
+  <ele>1308.000000</ele>
+  <name>B61130</name>
+  <cmt>LAC DE ST LEGER&quot;</cmt>
+  <desc>LAC DE ST LEGER&quot;</desc>
+</wpt>
+<wpt lat="44.404850000" lon="6.333466667">
+  <ele>1230.000000</ele>
+  <name>B60123</name>
+  <cmt>AZUR ET NEIGE&quot;</cmt>
+  <desc>AZUR ET NEIGE&quot;</desc>
+</wpt>
+<wpt lat="44.411683333" lon="6.330333333">
+  <ele>1320.000000</ele>
+  <name>B59132</name>
+  <cmt>RISOLET&quot;</cmt>
+  <desc>RISOLET&quot;</desc>
+</wpt>
+<wpt lat="44.352966667" lon="6.326416667">
+  <ele>1123.000000</ele>
+  <name>B58112</name>
+  <cmt>BAS CHARDAVON&quot;</cmt>
+  <desc>BAS CHARDAVON&quot;</desc>
+</wpt>
+<wpt lat="44.351983333" lon="6.414166667">
+  <ele>1684.000000</ele>
+  <name>B57168</name>
+  <cmt>LA CABANE DU SERPENT&quot;</cmt>
+  <desc>LA CABANE DU SERPENT&quot;</desc>
+</wpt>
+<wpt lat="44.282500000" lon="6.391566667">
+  <ele>1230.000000</ele>
+  <name>B56123</name>
+  <cmt>CAMPING LOU PASSAVOU&quot;</cmt>
+  <desc>CAMPING LOU PASSAVOU&quot;</desc>
+</wpt>
+<wpt lat="44.313400000" lon="6.429466667">
+  <ele>2035.000000</ele>
+  <name>B55203</name>
+  <cmt>TOURTOUREL&quot;</cmt>
+  <desc>TOURTOUREL&quot;</desc>
+</wpt>
+<wpt lat="44.300833333" lon="6.431750000">
+  <ele>2010.000000</ele>
+  <name>B54201</name>
+  <cmt>PELOUSSIER&quot;</cmt>
+  <desc>PELOUSSIER&quot;</desc>
+</wpt>
+<wpt lat="44.356683333" lon="6.364700000">
+  <ele>1330.000000</ele>
+  <name>B53133</name>
+  <cmt>LES 4 CHEMINS&quot;</cmt>
+  <desc>LES 4 CHEMINS&quot;</desc>
+</wpt>
+<wpt lat="44.336916667" lon="6.342983333">
+  <ele>1180.000000</ele>
+  <name>B52118</name>
+  <cmt>CHAMPFLORIN&quot;</cmt>
+  <desc>CHAMPFLORIN&quot;</desc>
+</wpt>
+<wpt lat="44.328033333" lon="6.327416667">
+  <ele>1459.000000</ele>
+  <name>B51146</name>
+  <cmt>COL DU FANGET&quot;</cmt>
+  <desc>COL DU FANGET&quot;</desc>
+</wpt>
+<wpt lat="44.331566667" lon="6.370883333">
+  <ele>1571.000000</ele>
+  <name>B50157</name>
+  <cmt>LE PETIT PUY&quot;</cmt>
+  <desc>LE PETIT PUY&quot;</desc>
+</wpt>
+<wpt lat="44.329250000" lon="6.424716667">
+  <ele>1977.000000</ele>
+  <name>B49197</name>
+  <cmt>MICHELINE&quot;</cmt>
+  <desc>MICHELINE&quot;</desc>
+</wpt>
+<wpt lat="44.471583333" lon="6.270583333">
+  <ele>780.000000</ele>
+  <name>B48078</name>
+  <cmt>BARRAGE SERRE PONCON&quot;</cmt>
+  <desc>BARRAGE SERRE PONCON&quot;</desc>
+</wpt>
+<wpt lat="44.323783333" lon="6.455183333">
+  <ele>2422.000000</ele>
+  <name>B47242</name>
+  <cmt>COL LA PIERRE&quot;</cmt>
+  <desc>COL LA PIERRE&quot;</desc>
+</wpt>
+<wpt lat="44.365683333" lon="6.367566667">
+  <ele>1321.000000</ele>
+  <name>B46131</name>
+  <cmt>CAMPAGNE DE BLANC&quot;</cmt>
+  <desc>CAMPAGNE DE BLANC&quot;</desc>
+</wpt>
+<wpt lat="44.363750000" lon="6.380216667">
+  <ele>1463.000000</ele>
+  <name>B45146</name>
+  <cmt>ST ANTOINE LIEU DIT&quot;</cmt>
+  <desc>ST ANTOINE LIEU DIT&quot;</desc>
+</wpt>
+<wpt lat="44.384233333" lon="6.352000000">
+  <ele>1352.000000</ele>
+  <name>B44135</name>
+  <cmt>LES SAVOYES&quot;</cmt>
+  <desc>LES SAVOYES&quot;</desc>
+</wpt>
+<wpt lat="44.384216667" lon="6.368383333">
+  <ele>1527.000000</ele>
+  <name>B43153</name>
+  <cmt>LES HAUTS SAVORNINS&quot;</cmt>
+  <desc>LES HAUTS SAVORNINS&quot;</desc>
+</wpt>
+<wpt lat="44.354283333" lon="6.380133333">
+  <ele>1390.000000</ele>
+  <name>B42139</name>
+  <cmt>LES SILVES LIEU DIT&quot;</cmt>
+  <desc>LES SILVES LIEU DIT&quot;</desc>
+</wpt>
+<wpt lat="44.470666667" lon="6.411483333">
+  <ele>2293.000000</ele>
+  <name>B41230</name>
+  <cmt>LA VIEILLE DU MORGON&quot;</cmt>
+  <desc>LA VIEILLE DU MORGON&quot;</desc>
+</wpt>
+<wpt lat="44.406850000" lon="6.362750000">
+  <ele>1627.000000</ele>
+  <name>B40163</name>
+  <cmt>LES CLAPERIES&quot;</cmt>
+  <desc>LES CLAPERIES&quot;</desc>
+</wpt>
+<wpt lat="44.397266667" lon="6.351316667">
+  <ele>1391.000000</ele>
+  <name>B39140</name>
+  <cmt>LES PIOLLES LIEU DIT&quot;</cmt>
+  <desc>LES PIOLLES LIEU DIT&quot;</desc>
+</wpt>
+<wpt lat="44.377366667" lon="6.367716667">
+  <ele>1433.000000</ele>
+  <name>B38143</name>
+  <cmt>POMPIERY VILLAGE&quot;</cmt>
+  <desc>POMPIERY VILLAGE&quot;</desc>
+</wpt>
+<wpt lat="44.363250000" lon="6.351433333">
+  <ele>1427.000000</ele>
+  <name>B37143</name>
+  <cmt>SOMMET LA GINESTE&quot;</cmt>
+  <desc>SOMMET LA GINESTE&quot;</desc>
+</wpt>
+<wpt lat="44.321800000" lon="6.393450000">
+  <ele>1354.000000</ele>
+  <name>B36135</name>
+  <cmt>STATION DU GRAND PUY&quot;</cmt>
+  <desc>STATION DU GRAND PUY&quot;</desc>
+</wpt>
+<wpt lat="44.373300000" lon="6.335433333">
+  <ele>1186.000000</ele>
+  <name>B35118</name>
+  <cmt>CHATEAU DE MONTCLAR&quot;</cmt>
+  <desc>CHATEAU DE MONTCLAR&quot;</desc>
+</wpt>
+<wpt lat="44.396750000" lon="6.325666667">
+  <ele>1359.000000</ele>
+  <name>B34136</name>
+  <cmt>LA CHAPELLE EGLISE&quot;</cmt>
+  <desc>LA CHAPELLE EGLISE&quot;</desc>
+</wpt>
+<wpt lat="44.397533333" lon="6.298033333">
+  <ele>1220.000000</ele>
+  <name>B33122</name>
+  <cmt>VILLAUDEMARD VILLAGE&quot;</cmt>
+  <desc>VILLAUDEMARD VILLAGE&quot;</desc>
+</wpt>
+<wpt lat="44.283483333" lon="6.497116667">
+  <ele>2927.000000</ele>
+  <name>B32293</name>
+  <cmt>TETE DE L-ESTROP&quot;</cmt>
+  <desc>TETE DE L-ESTROP&quot;</desc>
+</wpt>
+<wpt lat="44.350333333" lon="6.380550000">
+  <ele>1360.000000</ele>
+  <name>B31136</name>
+  <cmt>ST PONS VILLAGE&quot;</cmt>
+  <desc>ST PONS VILLAGE&quot;</desc>
+</wpt>
+<wpt lat="44.442400000" lon="6.353733333">
+  <ele>1020.000000</ele>
+  <name>B30102</name>
+  <cmt>CIMETIERE DU LAUTARE&quot;</cmt>
+  <desc>CIMETIERE DU LAUTARE&quot;</desc>
+</wpt>
+<wpt lat="44.439916667" lon="6.326816667">
+  <ele>1070.000000</ele>
+  <name>B29107</name>
+  <cmt>MAISON DE RETRAITE&quot;</cmt>
+  <desc>MAISON DE RETRAITE&quot;</desc>
+</wpt>
+<wpt lat="44.478533333" lon="6.312450000">
+  <ele>1047.000000</ele>
+  <name>B28104</name>
+  <cmt>BELVEDERE SAUZE DU L&quot;</cmt>
+  <desc>BELVEDERE SAUZE DU L&quot;</desc>
+</wpt>
+<wpt lat="44.464783333" lon="6.361016667">
+  <ele>810.000000</ele>
+  <name>B27081</name>
+  <cmt>CIMETIERE D-UBAYE&quot;</cmt>
+  <desc>CIMETIERE D-UBAYE&quot;</desc>
+</wpt>
+<wpt lat="44.458200000" lon="6.354566667">
+  <ele>810.000000</ele>
+  <name>B26081</name>
+  <cmt>CAMPING DU PIBOU&quot;</cmt>
+  <desc>CAMPING DU PIBOU&quot;</desc>
+</wpt>
+<wpt lat="44.467116667" lon="6.340366667">
+  <ele>810.000000</ele>
+  <name>B25081</name>
+  <cmt>PONT DE LA GDE COTE&quot;</cmt>
+  <desc>PONT DE LA GDE COTE&quot;</desc>
+</wpt>
+<wpt lat="44.449333333" lon="6.372866667">
+  <ele>1274.000000</ele>
+  <name>B24127</name>
+  <cmt>TOUR VAUBAN ST VINCE&quot;</cmt>
+  <desc>TOUR VAUBAN ST VINCE&quot;</desc>
+</wpt>
+<wpt lat="44.370916667" lon="6.309883333">
+  <ele>1070.000000</ele>
+  <name>B23107</name>
+  <cmt>EGLISE DE SELLONET&quot;</cmt>
+  <desc>EGLISE DE SELLONET&quot;</desc>
+</wpt>
+<wpt lat="44.351566667" lon="6.354500000">
+  <ele>1260.000000</ele>
+  <name>B22126</name>
+  <cmt>FORT VAUBAN SEYNE&quot;</cmt>
+  <desc>FORT VAUBAN SEYNE&quot;</desc>
+</wpt>
+<wpt lat="44.386533333" lon="6.327833333">
+  <ele>1140.000000</ele>
+  <name>B21114</name>
+  <cmt>LA CHAPELLE LIEU DIT&quot;</cmt>
+  <desc>LA CHAPELLE LIEU DIT&quot;</desc>
+</wpt>
+<wpt lat="44.443966667" lon="6.278266667">
+  <ele>1694.000000</ele>
+  <name>B20169</name>
+  <cmt>CLOS LA CIME&quot;</cmt>
+  <desc>CLOS LA CIME&quot;</desc>
+</wpt>
+<wpt lat="44.446383333" lon="6.311433333">
+  <ele>1197.000000</ele>
+  <name>B19119</name>
+  <cmt>LA ROCHE DE L-AIGLE&quot;</cmt>
+  <desc>LA ROCHE DE L-AIGLE&quot;</desc>
+</wpt>
+<wpt lat="44.457350000" lon="6.294850000">
+  <ele>940.000000</ele>
+  <name>B18094</name>
+  <cmt>EGLISE DE LA BREOLE&quot;</cmt>
+  <desc>EGLISE DE LA BREOLE&quot;</desc>
+</wpt>
+<wpt lat="44.491850000" lon="6.397366667">
+  <ele>2324.000000</ele>
+  <name>B17232</name>
+  <cmt>PIC DE MORGON&quot;</cmt>
+  <desc>PIC DE MORGON&quot;</desc>
+</wpt>
+<wpt lat="44.411566667" lon="6.351433333">
+  <ele>1335.000000</ele>
+  <name>B16133</name>
+  <cmt>STATION DE MONTCLAR&quot;</cmt>
+  <desc>STATION DE MONTCLAR&quot;</desc>
+</wpt>
+<wpt lat="44.314366667" lon="6.380800000">
+  <ele>1758.000000</ele>
+  <name>B15176</name>
+  <cmt>SOMMET DU GRAND PUY&quot;</cmt>
+  <desc>SOMMET DU GRAND PUY&quot;</desc>
+</wpt>
+<wpt lat="44.301383333" lon="6.467033333">
+  <ele>2661.000000</ele>
+  <name>B14266</name>
+  <cmt>PIC DES TETES&quot;</cmt>
+  <desc>PIC DES TETES&quot;</desc>
+</wpt>
+<wpt lat="44.320466667" lon="6.435416667">
+  <ele>1710.000000</ele>
+  <name>B13171</name>
+  <cmt>CABANE DES MULETS&quot;</cmt>
+  <desc>CABANE DES MULETS&quot;</desc>
+</wpt>
+<wpt lat="44.366833333" lon="6.411800000">
+  <ele>2430.000000</ele>
+  <name>B12243</name>
+  <cmt>PIC DE BERNARDEZ&quot;</cmt>
+  <desc>PIC DE BERNARDEZ&quot;</desc>
+</wpt>
+<wpt lat="44.379433333" lon="6.403783333">
+  <ele>2430.000000</ele>
+  <name>B11243</name>
+  <cmt>PIC DE SAVERNE&quot;</cmt>
+  <desc>PIC DE SAVERNE&quot;</desc>
+</wpt>
+<wpt lat="44.409550000" lon="6.386133333">
+  <ele>2505.000000</ele>
+  <name>B10250</name>
+  <cmt>FORT DE DORMILLOUSE&quot;</cmt>
+  <desc>FORT DE DORMILLOUSE&quot;</desc>
+</wpt>
+<wpt lat="44.442333333" lon="6.371466667">
+  <ele>1252.000000</ele>
+  <name>A92128</name>
+  <cmt>ATTERO DECO ST VINCENT&quot;</cmt>
+  <desc>ATTERO DECO ST VINCENT&quot;</desc>
+</wpt>
+<wpt lat="44.417566667" lon="6.351383333">
+  <ele>1339.000000</ele>
+  <name>A91133</name>
+  <cmt>ATTERO COL ST JEAN&quot;</cmt>
+  <desc>ATTERO COL ST JEAN&quot;</desc>
+</wpt>
+<wpt lat="43.976833333" lon="6.491333333">
+  <ele>1540.000000</ele>
+  <name>D07154</name>
+  <cmt>CHALVET S&quot;</cmt>
+  <desc>CHALVET S&quot;</desc>
+</wpt>
+<wpt lat="43.978500000" lon="6.480000000">
+  <ele>1550.000000</ele>
+  <name>D06155</name>
+  <cmt>CHALVET W&quot;</cmt>
+  <desc>CHALVET W&quot;</desc>
+</wpt>
+<wpt lat="44.244400000" lon="6.647250000">
+  <ele>1740.000000</ele>
+  <name>B09174</name>
+  <cmt>VILLARD HAUT&quot;</cmt>
+  <desc>VILLARD HAUT&quot;</desc>
+</wpt>
+<wpt lat="44.053683333" lon="6.171683333">
+  <ele>560.000000</ele>
+  <name>B99056</name>
+  <cmt>GOLF GAUBERT&quot;</cmt>
+  <desc>GOLF GAUBERT&quot;</desc>
+</wpt>
+<wpt lat="44.252966667" lon="6.070583333">
+  <ele>1634.000000</ele>
+  <name>B98163</name>
+  <cmt>TRAINON&quot;</cmt>
+  <desc>TRAINON&quot;</desc>
+</wpt>
+<wpt lat="44.397533333" lon="6.298033333">
+  <ele>1229.000000</ele>
+  <name>B97123</name>
+  <cmt>VILLAUDEMAND VILLAGE&quot;</cmt>
+  <desc>VILLAUDEMAND VILLAGE&quot;</desc>
+</wpt>
+<wpt lat="44.262666667" lon="6.454666667">
+  <ele>1450.000000</ele>
+  <name>B95145</name>
+  <cmt>VLLG SAUME-LONGE&quot;</cmt>
+  <desc>VLLG SAUME-LONGE&quot;</desc>
+</wpt>
+<wpt lat="44.100166667" lon="6.350666667">
+  <ele>1990.000000</ele>
+  <name>B94199</name>
+  <cmt>MT COUARD&quot;</cmt>
+  <desc>MT COUARD&quot;</desc>
+</wpt>
+<wpt lat="44.045500000" lon="6.360166667">
+  <ele>910.000000</ele>
+  <name>B93091</name>
+  <cmt>BLDG SAUZENES&quot;</cmt>
+  <desc>BLDG SAUZENES&quot;</desc>
+</wpt>
+<wpt lat="43.987833333" lon="6.364333333">
+  <ele>1450.000000</ele>
+  <name>B92145</name>
+  <cmt>MT ST MARTIN&quot;</cmt>
+  <desc>MT ST MARTIN&quot;</desc>
+</wpt>
+<wpt lat="44.027833333" lon="6.317833333">
+  <ele>1620.000000</ele>
+  <name>B91162</name>
+  <cmt>MT PILACOUIT&quot;</cmt>
+  <desc>MT PILACOUIT&quot;</desc>
+</wpt>
+<wpt lat="43.938833333" lon="6.407833333">
+  <ele>1340.000000</ele>
+  <name>B90134</name>
+  <cmt>MT LIEYE&quot;</cmt>
+  <desc>MT LIEYE&quot;</desc>
+</wpt>
+<wpt lat="44.143000000" lon="6.595333333">
+  <ele>1150.000000</ele>
+  <name>B89115</name>
+  <cmt>BRDG BEAUVEZER&quot;</cmt>
+  <desc>BRDG BEAUVEZER&quot;</desc>
+</wpt>
+<wpt lat="44.133833333" lon="6.485166667">
+  <ele>2290.000000</ele>
+  <name>B88229</name>
+  <cmt>MT COSTE LONGUE&quot;</cmt>
+  <desc>MT COSTE LONGUE&quot;</desc>
+</wpt>
+<wpt lat="43.965833333" lon="6.557833333">
+  <ele>1780.000000</ele>
+  <name>B87178</name>
+  <cmt>MT SERRE GROS&quot;</cmt>
+  <desc>MT SERRE GROS&quot;</desc>
+</wpt>
+<wpt lat="44.045666667" lon="6.418666667">
+  <ele>1700.000000</ele>
+  <name>B86170</name>
+  <cmt>MT SAPEE&quot;</cmt>
+  <desc>MT SAPEE&quot;</desc>
+</wpt>
+<wpt lat="43.927833333" lon="6.510166667">
+  <ele>1310.000000</ele>
+  <name>B85131</name>
+  <cmt>CHRCH COURCHONS&quot;</cmt>
+  <desc>CHRCH COURCHONS&quot;</desc>
+</wpt>
+<wpt lat="44.180833333" lon="6.626833333">
+  <ele>1210.000000</ele>
+  <name>B84121</name>
+  <cmt>CHRCH COLMARS&quot;</cmt>
+  <desc>CHRCH COLMARS&quot;</desc>
+</wpt>
+<wpt lat="44.011500000" lon="6.564833333">
+  <ele>1050.000000</ele>
+  <name>B83105</name>
+  <cmt>BLDG VAUCLAUSE&quot;</cmt>
+  <desc>BLDG VAUCLAUSE&quot;</desc>
+</wpt>
+<wpt lat="44.096666667" lon="6.556166667">
+  <ele>1130.000000</ele>
+  <name>B82113</name>
+  <cmt>CHRCH THORAME HA&quot;</cmt>
+  <desc>CHRCH THORAME HA&quot;</desc>
+</wpt>
+<wpt lat="44.110500000" lon="6.362166667">
+  <ele>1890.000000</ele>
+  <name>B81189</name>
+  <cmt>MT CUCUYON&quot;</cmt>
+  <desc>MT CUCUYON&quot;</desc>
+</wpt>
+<wpt lat="44.140833333" lon="6.393666667">
+  <ele>1720.000000</ele>
+  <name>B80172</name>
+  <cmt>MT POMPE&quot;</cmt>
+  <desc>MT POMPE&quot;</desc>
+</wpt>
+<wpt lat="44.091500000" lon="6.499666667">
+  <ele>1140.000000</ele>
+  <name>B79114</name>
+  <cmt>CHRCH THORAME BA&quot;</cmt>
+  <desc>CHRCH THORAME BA&quot;</desc>
+</wpt>
+<wpt lat="44.009333333" lon="6.527833333">
+  <ele>1760.000000</ele>
+  <name>B78176</name>
+  <cmt>PYLN MAUREL&quot;</cmt>
+  <desc>PYLN MAUREL&quot;</desc>
+</wpt>
+<wpt lat="44.067666667" lon="6.509666667">
+  <ele>1780.000000</ele>
+  <name>B77178</name>
+  <cmt>MT PETIT CORDEIL&quot;</cmt>
+  <desc>MT PETIT CORDEIL&quot;</desc>
+</wpt>
+<wpt lat="44.047500000" lon="6.443833333">
+  <ele>1150.000000</ele>
+  <name>B76115</name>
+  <cmt>CHRCH LAMBRUISSE&quot;</cmt>
+  <desc>CHRCH LAMBRUISSE&quot;</desc>
+</wpt>
+<wpt lat="44.021500000" lon="6.362333333">
+  <ele>880.000000</ele>
+  <name>B75088</name>
+  <cmt>VLLG RIOU&quot;</cmt>
+  <desc>VLLG RIOU&quot;</desc>
+</wpt>
+<wpt lat="44.070000000" lon="6.387333333">
+  <ele>950.000000</ele>
+  <name>B74095</name>
+  <cmt>VLLG TARTONNE&quot;</cmt>
+  <desc>VLLG TARTONNE&quot;</desc>
+</wpt>
+<wpt lat="44.043000000" lon="6.242333333">
+  <ele>1420.000000</ele>
+  <name>B73142</name>
+  <cmt>MT ST MICHEL DE&quot;</cmt>
+  <desc>MT ST MICHEL DE&quot;</desc>
+</wpt>
+<wpt lat="43.985166667" lon="6.399833333">
+  <ele>840.000000</ele>
+  <name>B72084</name>
+  <cmt>CHRCH ST LIONS&quot;</cmt>
+  <desc>CHRCH ST LIONS&quot;</desc>
+</wpt>
+<wpt lat="43.916333333" lon="6.408666667">
+  <ele>770.000000</ele>
+  <name>B71077</name>
+  <cmt>BRDG SENEZ&quot;</cmt>
+  <desc>BRDG SENEZ&quot;</desc>
+</wpt>
+<wpt lat="43.951166667" lon="6.370833333">
+  <ele>720.000000</ele>
+  <name>B70072</name>
+  <cmt>STATION BARREME&quot;</cmt>
+  <desc>STATION BARREME&quot;</desc>
+</wpt>
+<wpt lat="43.968833333" lon="6.247833333">
+  <ele>1600.000000</ele>
+  <name>B69160</name>
+  <cmt>MT BEYNES&quot;</cmt>
+  <desc>MT BEYNES&quot;</desc>
+</wpt>
+<wpt lat="44.134266667" lon="6.096716667">
+  <ele>840.000000</ele>
+  <name>B64084</name>
+  <cmt>SEYSTERAC&quot;</cmt>
+  <desc>SEYSTERAC&quot;</desc>
+</wpt>
+<wpt lat="44.406400000" lon="6.216316667">
+  <ele>1000.000000</ele>
+  <name>B63100</name>
+  <cmt>CHAUMENC&quot;</cmt>
+  <desc>CHAUMENC&quot;</desc>
+</wpt>
+<wpt lat="44.384200000" lon="6.669350000">
+  <ele>1160.000000</ele>
+  <name>B62116</name>
+  <cmt>LA CHAUP BASSE&quot;</cmt>
+  <desc>LA CHAUP BASSE&quot;</desc>
+</wpt>
+<wpt lat="44.021166667" lon="6.590333333">
+  <ele>2000.000000</ele>
+  <name>B06200</name>
+  <cmt>MT PUY DE RENT&quot;</cmt>
+  <desc>MT PUY DE RENT&quot;</desc>
+</wpt>
+<wpt lat="43.964850000" lon="6.534283333">
+  <ele>1060.000000</ele>
+  <name>B05106</name>
+  <cmt>LA SAMBUQUE&quot;</cmt>
+  <desc>LA SAMBUQUE&quot;</desc>
+</wpt>
+<wpt lat="43.987500000" lon="6.431833333">
+  <ele>1590.000000</ele>
+  <name>B04159</name>
+  <cmt>MT MOUCHON&quot;</cmt>
+  <desc>MT MOUCHON&quot;</desc>
+</wpt>
+<wpt lat="44.014000000" lon="6.456333333">
+  <ele>1730.000000</ele>
+  <name>B01173</name>
+  <cmt>PYLN REYNIERE&quot;</cmt>
+  <desc>PYLN REYNIERE&quot;</desc>
+</wpt>
+<wpt lat="44.235300000" lon="6.628800000">
+  <ele>1400.000000</ele>
+  <name>A04140</name>
+  <cmt>ALLOS&quot;</cmt>
+  <desc>ALLOS&quot;</desc>
+</wpt>
+<wpt lat="43.956116667" lon="6.524750000">
+  <ele>910.000000</ele>
+  <name>A03091</name>
+  <cmt>PONT ECOLE&quot;</cmt>
+  <desc>PONT ECOLE&quot;</desc>
+</wpt>
+<wpt lat="43.974666667" lon="6.519300000">
+  <ele>900.000000</ele>
+  <name>A02090</name>
+  <cmt>LA MURE&quot;</cmt>
+  <desc>LA MURE&quot;</desc>
+</wpt>
+<wpt lat="43.958666667" lon="6.510500000">
+  <ele>880.000000</ele>
+  <name>A01088</name>
+  <cmt>ST ANDRE LES ALP&quot;</cmt>
+  <desc>ST ANDRE LES ALP&quot;</desc>
+</wpt>
+<wpt lat="44.348350000" lon="6.386533333">
+  <ele>1363.000000</ele>
+  <name>A11136</name>
+  <cmt>East Goal&quot;</cmt>
+  <desc>East Goal&quot;</desc>
+</wpt>
+<wpt lat="44.360750000" lon="6.366950000">
+  <ele>1321.000000</ele>
+  <name>A12132</name>
+  <cmt>West Goal&quot;</cmt>
+  <desc>West Goal&quot;</desc>
+</wpt>
+<wpt lat="44.165520934" lon="6.051657078">
+  <ele>741.000000</ele>
+  <name>B89104</name>
+  <cmt>La Colette</cmt>
+  <desc>La Colette</desc>
+</wpt>
+</gpx>

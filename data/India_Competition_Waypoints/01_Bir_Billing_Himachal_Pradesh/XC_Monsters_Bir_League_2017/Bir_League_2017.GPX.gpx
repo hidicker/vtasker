@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2021-05-25T14:15:32Z</time>
+<bounds minlat="31.713464000" minlon="35.998800000" maxlat="55.042666667" maxlon="77.244986000"/>
+<wpt lat="54.919516667" lon="38.678516667">
+  <ele>200.000000</ele>
+  <name>X103NE</name>
+  <cmt>X103NE</cmt>
+  <desc>X103NE</desc>
+</wpt>
+<wpt lat="54.712216667" lon="39.251533333">
+  <ele>200.000000</ele>
+  <name>X102EE</name>
+  <cmt>X102EE</cmt>
+  <desc>X102EE</desc>
+</wpt>
+<wpt lat="54.695000000" lon="36.762650000">
+  <ele>200.000000</ele>
+  <name>X101WW</name>
+  <cmt>X101WW</cmt>
+  <desc>X101WW</desc>
+</wpt>
+<wpt lat="54.857316667" lon="37.165133333">
+  <ele>200.000000</ele>
+  <name>X100NW</name>
+  <cmt>X100NW</cmt>
+  <desc>X100NW</desc>
+</wpt>
+<wpt lat="54.696300000" lon="38.291600000">
+  <ele>209.000000</ele>
+  <name>S99EEX</name>
+  <cmt>S99EEX</cmt>
+  <desc>S99EEX</desc>
+</wpt>
+<wpt lat="55.042666667" lon="37.732950000">
+  <ele>200.000000</ele>
+  <name>X98NWN</name>
+  <cmt>X98NWN</cmt>
+  <desc>X98NWN</desc>
+</wpt>
+<wpt lat="55.036366667" lon="38.306983333">
+  <ele>200.000000</ele>
+  <name>X97NEN</name>
+  <cmt>X97NEN</cmt>
+  <desc>X97NEN</desc>
+</wpt>
+<wpt lat="54.840183333" lon="38.214966667">
+  <ele>189.000000</ele>
+  <name>T96NEN</name>
+  <cmt>T96NEN</cmt>
+  <desc>T96NEN</desc>
+</wpt>
+<wpt lat="54.829733333" lon="37.905650000">
+  <ele>190.000000</ele>
+  <name>T95NWN</name>
+  <cmt>T95NWN</cmt>
+  <desc>T95NWN</desc>
+</wpt>
+<wpt lat="54.446300000" lon="38.105800000">
+  <ele>213.000000</ele>
+  <name>T94SSV</name>
+  <cmt>T94SSV</cmt>
+  <desc>T94SSV</desc>
+</wpt>
+<wpt lat="54.360700000" lon="38.333900000">
+  <ele>217.000000</ele>
+  <name>T93SSV</name>
+  <cmt>T93SSV</cmt>
+  <desc>T93SSV</desc>
+</wpt>
+<wpt lat="54.634600000" lon="38.587400000">
+  <ele>173.000000</ele>
+  <name>T92EES</name>
+  <cmt>T92EES</cmt>
+  <desc>T92EES</desc>
+</wpt>
+<wpt lat="54.730500000" lon="38.372800000">
+  <ele>201.000000</ele>
+  <name>T91EEX</name>
+  <cmt>T91EEX</cmt>
+  <desc>T91EEX</desc>
+</wpt>
+<wpt lat="54.659500000" lon="38.236600000">
+  <ele>208.000000</ele>
+  <name>T90EEX</name>
+  <cmt>T90EEX</cmt>
+  <desc>T90EEX</desc>
+</wpt>
+<wpt lat="54.273400000" lon="38.181300000">
+  <ele>188.000000</ele>
+  <name>W89SSV</name>
+  <cmt>W89SSV</cmt>
+  <desc>W89SSV</desc>
+</wpt>
+<wpt lat="54.679100000" lon="38.215800000">
+  <ele>222.000000</ele>
+  <name>T88EEX</name>
+  <cmt>T88EEX</cmt>
+  <desc>T88EEX</desc>
+</wpt>
+<wpt lat="54.670000000" lon="38.173600000">
+  <ele>197.000000</ele>
+  <name>T87EEX</name>
+  <cmt>T87EEX</cmt>
+  <desc>T87EEX</desc>
+</wpt>
+<wpt lat="53.945900000" lon="37.486500000">
+  <ele>203.000000</ele>
+  <name>R86SWT</name>
+  <cmt>R86SWT</cmt>
+  <desc>R86SWT</desc>
+</wpt>
+<wpt lat="54.561900000" lon="38.129500000">
+  <ele>234.000000</ele>
+  <name>T85SSM</name>
+  <cmt>T85SSM</cmt>
+  <desc>T85SSM</desc>
+</wpt>
+<wpt lat="54.624000000" lon="38.157100000">
+  <ele>212.000000</ele>
+  <name>T84SSX</name>
+  <cmt>T84SSX</cmt>
+  <desc>T84SSX</desc>
+</wpt>
+<wpt lat="54.683400000" lon="38.100300000">
+  <ele>181.000000</ele>
+  <name>T83NWX</name>
+  <cmt>T83NWX</cmt>
+  <desc>T83NWX</desc>
+</wpt>
+<wpt lat="54.653500000" lon="38.121500000">
+  <ele>185.000000</ele>
+  <name>W82WWX</name>
+  <cmt>W82WWX</cmt>
+  <desc>W82WWX</desc>
+</wpt>
+<wpt lat="54.754200000" lon="38.144200000">
+  <ele>212.000000</ele>
+  <name>R81NNX</name>
+  <cmt>R81NNX</cmt>
+  <desc>R81NNX</desc>
+</wpt>
+<wpt lat="54.781100000" lon="38.124800000">
+  <ele>201.000000</ele>
+  <name>R80NNK</name>
+  <cmt>R80NNK</cmt>
+  <desc>R80NNK</desc>
+</wpt>
+<wpt lat="54.651300000" lon="37.967000000">
+  <ele>220.000000</ele>
+  <name>T79WWX</name>
+  <cmt>T79WWX</cmt>
+  <desc>T79WWX</desc>
+</wpt>
+<wpt lat="54.470200000" lon="37.511400000">
+  <ele>238.000000</ele>
+  <name>R78SWY</name>
+  <cmt>R78SWY</cmt>
+  <desc>R78SWY</desc>
+</wpt>
+<wpt lat="54.450100000" lon="35.998800000">
+  <ele>176.000000</ele>
+  <name>S77WWA</name>
+  <cmt>S77WWA</cmt>
+  <desc>S77WWA</desc>
+</wpt>
+<wpt lat="54.424300000" lon="36.508900000">
+  <ele>184.000000</ele>
+  <name>T76WWA</name>
+  <cmt>T76WWA</cmt>
+  <desc>T76WWA</desc>
+</wpt>
+<wpt lat="54.275100000" lon="37.212600000">
+  <ele>183.000000</ele>
+  <name>K75SWT</name>
+  <cmt>K75SWT</cmt>
+  <desc>K75SWT</desc>
+</wpt>
+<wpt lat="54.229700000" lon="37.491100000">
+  <ele>151.000000</ele>
+  <name>W74SWT</name>
+  <cmt>W74SWT</cmt>
+  <desc>W74SWT</desc>
+</wpt>
+<wpt lat="54.499800000" lon="37.067200000">
+  <ele>152.000000</ele>
+  <name>T73WWA</name>
+  <cmt>T73WWA</cmt>
+  <desc>T73WWA</desc>
+</wpt>
+<wpt lat="54.444600000" lon="37.383200000">
+  <ele>247.000000</ele>
+  <name>K72SWY</name>
+  <cmt>K72SWY</cmt>
+  <desc>K72SWY</desc>
+</wpt>
+<wpt lat="54.624200000" lon="37.551100000">
+  <ele>241.000000</ele>
+  <name>T71WWP</name>
+  <cmt>T71WWP</cmt>
+  <desc>T71WWP</desc>
+</wpt>
+<wpt lat="54.712000000" lon="37.791800000">
+  <ele>200.000000</ele>
+  <name>T70WWP</name>
+  <cmt>T70WWP</cmt>
+  <desc>T70WWP</desc>
+</wpt>
+<wpt lat="54.742800000" lon="37.938400000">
+  <ele>179.000000</ele>
+  <name>T69NWX</name>
+  <cmt>T69NWX</cmt>
+  <desc>T69NWX</desc>
+</wpt>
+<wpt lat="54.834200000" lon="37.462600000">
+  <ele>205.000000</ele>
+  <name>R68NWP</name>
+  <cmt>R68NWP</cmt>
+  <desc>R68NWP</desc>
+</wpt>
+<wpt lat="54.771900000" lon="38.071000000">
+  <ele>212.000000</ele>
+  <name>S67NNX</name>
+  <cmt>S67NNX</cmt>
+  <desc>S67NNX</desc>
+</wpt>
+<wpt lat="54.734400000" lon="38.097900000">
+  <ele>218.000000</ele>
+  <name>T66NNX</name>
+  <cmt>T66NNX</cmt>
+  <desc>T66NNX</desc>
+</wpt>
+<wpt lat="54.724800000" lon="38.158700000">
+  <ele>213.000000</ele>
+  <name>T65NNX</name>
+  <cmt>T65NNX</cmt>
+  <desc>T65NNX</desc>
+</wpt>
+<wpt lat="54.742200000" lon="38.241500000">
+  <ele>188.000000</ele>
+  <name>T64NNK</name>
+  <cmt>T64NNK</cmt>
+  <desc>T64NNK</desc>
+</wpt>
+<wpt lat="54.764000000" lon="38.192400000">
+  <ele>210.000000</ele>
+  <name>R63NNK</name>
+  <cmt>R63NNK</cmt>
+  <desc>R63NNK</desc>
+</wpt>
+<wpt lat="54.808800000" lon="38.079200000">
+  <ele>129.000000</ele>
+  <name>W62NNK</name>
+  <cmt>W62NNK</cmt>
+  <desc>W62NNK</desc>
+</wpt>
+<wpt lat="54.809600000" lon="38.068700000">
+  <ele>166.000000</ele>
+  <name>R61NNK</name>
+  <cmt>R61NNK</cmt>
+  <desc>R61NNK</desc>
+</wpt>
+<wpt lat="54.821700000" lon="38.042600000">
+  <ele>116.000000</ele>
+  <name>T60NNK</name>
+  <cmt>T60NNK</cmt>
+  <desc>T60NNK</desc>
+</wpt>
+<wpt lat="54.821200000" lon="38.134300000">
+  <ele>207.000000</ele>
+  <name>R59NNK</name>
+  <cmt>R59NNK</cmt>
+  <desc>R59NNK</desc>
+</wpt>
+<wpt lat="54.853800000" lon="38.145500000">
+  <ele>108.000000</ele>
+  <name>W58NNK</name>
+  <cmt>W58NNK</cmt>
+  <desc>W58NNK</desc>
+</wpt>
+<wpt lat="54.856200000" lon="38.258500000">
+  <ele>136.000000</ele>
+  <name>T57NNK</name>
+  <cmt>T57NNK</cmt>
+  <desc>T57NNK</desc>
+</wpt>
+<wpt lat="54.763300000" lon="38.276000000">
+  <ele>216.000000</ele>
+  <name>T56NNK</name>
+  <cmt>T56NNK</cmt>
+  <desc>T56NNK</desc>
+</wpt>
+<wpt lat="54.779500000" lon="38.433200000">
+  <ele>201.000000</ele>
+  <name>T55NEZ</name>
+  <cmt>T55NEZ</cmt>
+  <desc>T55NEZ</desc>
+</wpt>
+<wpt lat="54.833900000" lon="38.581700000">
+  <ele>101.000000</ele>
+  <name>W54NEZ</name>
+  <cmt>W54NEZ</cmt>
+  <desc>W54NEZ</desc>
+</wpt>
+<wpt lat="54.704900000" lon="38.476900000">
+  <ele>143.000000</ele>
+  <name>T53EEZ</name>
+  <cmt>T53EEZ</cmt>
+  <desc>T53EEZ</desc>
+</wpt>
+<wpt lat="54.757100000" lon="38.871500000">
+  <ele>143.000000</ele>
+  <name>T52EEZ</name>
+  <cmt>T52EEZ</cmt>
+  <desc>T52EEZ</desc>
+</wpt>
+<wpt lat="54.601300000" lon="38.746700000">
+  <ele>185.000000</ele>
+  <name>T51EES</name>
+  <cmt>T51EES</cmt>
+  <desc>T51EES</desc>
+</wpt>
+<wpt lat="54.527800000" lon="38.608300000">
+  <ele>132.000000</ele>
+  <name>T50SES</name>
+  <cmt>T50SES</cmt>
+  <desc>T50SES</desc>
+</wpt>
+<wpt lat="54.523300000" lon="39.504400000">
+  <ele>175.000000</ele>
+  <name>T49EER</name>
+  <cmt>T49EER</cmt>
+  <desc>T49EER</desc>
+</wpt>
+<wpt lat="54.262800000" lon="39.005600000">
+  <ele>181.000000</ele>
+  <name>R48SE6</name>
+  <cmt>R48SE6</cmt>
+  <desc>R48SE6</desc>
+</wpt>
+<wpt lat="54.450500000" lon="38.747100000">
+  <ele>136.000000</ele>
+  <name>T47SES</name>
+  <cmt>T47SES</cmt>
+  <desc>T47SES</desc>
+</wpt>
+<wpt lat="54.401300000" lon="38.682600000">
+  <ele>186.000000</ele>
+  <name>R46SES</name>
+  <cmt>R46SES</cmt>
+  <desc>R46SES</desc>
+</wpt>
+<wpt lat="54.467900000" lon="38.544700000">
+  <ele>154.000000</ele>
+  <name>T45SES</name>
+  <cmt>T45SES</cmt>
+  <desc>T45SES</desc>
+</wpt>
+<wpt lat="54.662700000" lon="38.347000000">
+  <ele>171.000000</ele>
+  <name>T44EEM</name>
+  <cmt>T44EEM</cmt>
+  <desc>T44EEM</desc>
+</wpt>
+<wpt lat="54.584100000" lon="38.436500000">
+  <ele>206.000000</ele>
+  <name>T43SEM</name>
+  <cmt>T43SEM</cmt>
+  <desc>T43SEM</desc>
+</wpt>
+<wpt lat="54.565300000" lon="38.333100000">
+  <ele>168.000000</ele>
+  <name>W42SEM</name>
+  <cmt>W42SEM</cmt>
+  <desc>W42SEM</desc>
+</wpt>
+<wpt lat="54.507800000" lon="38.345400000">
+  <ele>184.000000</ele>
+  <name>W41SEM</name>
+  <cmt>W41SEM</cmt>
+  <desc>W41SEM</desc>
+</wpt>
+<wpt lat="54.566200000" lon="38.163500000">
+  <ele>226.000000</ele>
+  <name>R40SSM</name>
+  <cmt>R40SSM</cmt>
+  <desc>R40SSM</desc>
+</wpt>
+<wpt lat="54.575900000" lon="38.226400000">
+  <ele>197.000000</ele>
+  <name>T39SSM</name>
+  <cmt>T39SSM</cmt>
+  <desc>T39SSM</desc>
+</wpt>
+<wpt lat="54.539600000" lon="38.165100000">
+  <ele>230.000000</ele>
+  <name>R38SSM</name>
+  <cmt>R38SSM</cmt>
+  <desc>R38SSM</desc>
+</wpt>
+<wpt lat="54.508000000" lon="38.172100000">
+  <ele>221.000000</ele>
+  <name>T37SSM</name>
+  <cmt>T37SSM</cmt>
+  <desc>T37SSM</desc>
+</wpt>
+<wpt lat="54.395500000" lon="38.404300000">
+  <ele>199.000000</ele>
+  <name>T36SEV</name>
+  <cmt>T36SEV</cmt>
+  <desc>T36SEV</desc>
+</wpt>
+<wpt lat="54.411000000" lon="38.172600000">
+  <ele>181.000000</ele>
+  <name>R35SSV</name>
+  <cmt>R35SSV</cmt>
+  <desc>R35SSV</desc>
+</wpt>
+<wpt lat="54.338600000" lon="38.285900000">
+  <ele>169.000000</ele>
+  <name>T34SSV</name>
+  <cmt>T34SSV</cmt>
+  <desc>T34SSV</desc>
+</wpt>
+<wpt lat="54.370800000" lon="38.154900000">
+  <ele>219.000000</ele>
+  <name>R33SSV</name>
+  <cmt>R33SSV</cmt>
+  <desc>R33SSV</desc>
+</wpt>
+<wpt lat="54.336700000" lon="38.154400000">
+  <ele>204.000000</ele>
+  <name>R32SSV</name>
+  <cmt>R32SSV</cmt>
+  <desc>R32SSV</desc>
+</wpt>
+<wpt lat="54.317400000" lon="37.955100000">
+  <ele>212.000000</ele>
+  <name>T31SSV</name>
+  <cmt>T31SSV</cmt>
+  <desc>T31SSV</desc>
+</wpt>
+<wpt lat="54.245600000" lon="38.143400000">
+  <ele>211.000000</ele>
+  <name>T30SSV</name>
+  <cmt>T30SSV</cmt>
+  <desc>T30SSV</desc>
+</wpt>
+<wpt lat="54.146200000" lon="38.649700000">
+  <ele>206.000000</ele>
+  <name>T29SEV</name>
+  <cmt>T29SEV</cmt>
+  <desc>T29SEV</desc>
+</wpt>
+<wpt lat="54.176200000" lon="38.174000000">
+  <ele>173.000000</ele>
+  <name>W28SSN</name>
+  <cmt>W28SSN</cmt>
+  <desc>W28SSN</desc>
+</wpt>
+<wpt lat="54.079100000" lon="38.043500000">
+  <ele>232.000000</ele>
+  <name>R27SSN</name>
+  <cmt>R27SSN</cmt>
+  <desc>R27SSN</desc>
+</wpt>
+<wpt lat="54.752100000" lon="39.420800000">
+  <ele>107.000000</ele>
+  <name>T26EER</name>
+  <cmt>T26EER</cmt>
+  <desc>T26EER</desc>
+</wpt>
+<wpt lat="53.838000000" lon="39.644400000">
+  <ele>163.000000</ele>
+  <name>T25SE6</name>
+  <cmt>T25SE6</cmt>
+  <desc>T25SE6</desc>
+</wpt>
+<wpt lat="53.961200000" lon="38.550900000">
+  <ele>216.000000</ele>
+  <name>T24SEN</name>
+  <cmt>T24SEN</cmt>
+  <desc>T24SEN</desc>
+</wpt>
+<wpt lat="53.833800000" lon="38.555800000">
+  <ele>162.000000</ele>
+  <name>T23SEN</name>
+  <cmt>T23SEN</cmt>
+  <desc>T23SEN</desc>
+</wpt>
+<wpt lat="53.609100000" lon="38.672900000">
+  <ele>227.000000</ele>
+  <name>T22SEB</name>
+  <cmt>T22SEB</cmt>
+  <desc>T22SEB</desc>
+</wpt>
+<wpt lat="53.608500000" lon="38.099300000">
+  <ele>264.000000</ele>
+  <name>R21SSB</name>
+  <cmt>R21SSB</cmt>
+  <desc>R21SSB</desc>
+</wpt>
+<wpt lat="53.761000000" lon="38.030900000">
+  <ele>203.000000</ele>
+  <name>R20SSB</name>
+  <cmt>R20SSB</cmt>
+  <desc>R20SSB</desc>
+</wpt>
+<wpt lat="53.888700000" lon="38.053400000">
+  <ele>221.000000</ele>
+  <name>R19SSB</name>
+  <cmt>R19SSB</cmt>
+  <desc>R19SSB</desc>
+</wpt>
+<wpt lat="54.022500000" lon="38.010700000">
+  <ele>246.000000</ele>
+  <name>R18SSN</name>
+  <cmt>R18SSN</cmt>
+  <desc>R18SSN</desc>
+</wpt>
+<wpt lat="54.797883333" lon="37.744416667">
+  <ele>223.000000</ele>
+  <name>T17WNW</name>
+  <cmt>T17WNW</cmt>
+  <desc>T17WNW</desc>
+</wpt>
+<wpt lat="54.065700000" lon="37.799400000">
+  <ele>240.000000</ele>
+  <name>T16SWT</name>
+  <cmt>T16SWT</cmt>
+  <desc>T16SWT</desc>
+</wpt>
+<wpt lat="54.156700000" lon="37.496700000">
+  <ele>229.000000</ele>
+  <name>R15SWT</name>
+  <cmt>R15SWT</cmt>
+  <desc>R15SWT</desc>
+</wpt>
+<wpt lat="54.246700000" lon="37.672100000">
+  <ele>164.000000</ele>
+  <name>T14SWT</name>
+  <cmt>T14SWT</cmt>
+  <desc>T14SWT</desc>
+</wpt>
+<wpt lat="54.367300000" lon="37.711700000">
+  <ele>250.000000</ele>
+  <name>T13SWY</name>
+  <cmt>T13SWY</cmt>
+  <desc>T13SWY</desc>
+</wpt>
+<wpt lat="54.494800000" lon="37.693000000">
+  <ele>228.000000</ele>
+  <name>T12SWY</name>
+  <cmt>T12SWY</cmt>
+  <desc>T12SWY</desc>
+</wpt>
+<wpt lat="54.534500000" lon="37.788000000">
+  <ele>226.000000</ele>
+  <name>T11SWY</name>
+  <cmt>T11SWY</cmt>
+  <desc>T11SWY</desc>
+</wpt>
+<wpt lat="54.544200000" lon="37.895800000">
+  <ele>208.000000</ele>
+  <name>T10SWY</name>
+  <cmt>T10SWY</cmt>
+  <desc>T10SWY</desc>
+</wpt>
+<wpt lat="54.616800000" lon="37.942000000">
+  <ele>232.000000</ele>
+  <name>T09WWX</name>
+  <cmt>T09WWX</cmt>
+  <desc>T09WWX</desc>
+</wpt>
+<wpt lat="54.701800000" lon="37.931000000">
+  <ele>219.000000</ele>
+  <name>T08WWX</name>
+  <cmt>T08WWX</cmt>
+  <desc>T08WWX</desc>
+</wpt>
+<wpt lat="54.578200000" lon="38.007900000">
+  <ele>210.000000</ele>
+  <name>W07SWY</name>
+  <cmt>W07SWY</cmt>
+  <desc>W07SWY</desc>
+</wpt>
+<wpt lat="54.574800000" lon="38.106100000">
+  <ele>215.000000</ele>
+  <name>T06SSM</name>
+  <cmt>T06SSM</cmt>
+  <desc>T06SSM</desc>
+</wpt>
+<wpt lat="54.639700000" lon="38.051600000">
+  <ele>188.000000</ele>
+  <name>T05WWX</name>
+  <cmt>T05WWX</cmt>
+  <desc>T05WWX</desc>
+</wpt>
+<wpt lat="54.600700000" lon="38.169200000">
+  <ele>219.000000</ele>
+  <name>T04SSM</name>
+  <cmt>T04SSM</cmt>
+  <desc>T04SSM</desc>
+</wpt>
+<wpt lat="54.640900000" lon="38.208400000">
+  <ele>189.000000</ele>
+  <name>K03EEX</name>
+  <cmt>K03EEX</cmt>
+  <desc>K03EEX</desc>
+</wpt>
+<wpt lat="54.669100000" lon="38.148300000">
+  <ele>205.000000</ele>
+  <name>S02NNX</name>
+  <cmt>S02NNX</cmt>
+  <desc>S02NNX</desc>
+</wpt>
+<wpt lat="54.660400000" lon="38.148800000">
+  <ele>205.000000</ele>
+  <name>S01SSX</name>
+  <cmt>S01SSX</cmt>
+  <desc>S01SSX</desc>
+</wpt>
+<wpt lat="32.204006000" lon="76.324006000">
+  <ele>1220.000000</ele>
+  <name>L06-D</name>
+  <cmt>goal dharamsala</cmt>
+  <desc>goal dharamsala</desc>
+</wpt>
+<wpt lat="32.093833000" lon="76.704333000">
+  <ele>2290.000000</ele>
+  <name>XB01-R</name>
+  <cmt>Rastoman</cmt>
+  <desc>Rastoman</desc>
+</wpt>
+<wpt lat="31.999333000" lon="76.768167000">
+  <ele>1080.000000</ele>
+  <name>L07-TS</name>
+  <cmt>Dohag</cmt>
+  <desc>Dohag</desc>
+</wpt>
+<wpt lat="31.988500000" lon="76.812167000">
+  <ele>1320.000000</ele>
+  <name>L08-TS</name>
+  <cmt>cricket pitch</cmt>
+  <desc>cricket pitch</desc>
+</wpt>
+<wpt lat="32.049903000" lon="76.647097000">
+  <ele>1030.000000</ele>
+  <name>B03-BE</name>
+  <cmt>B03-BE Bejnat</cmt>
+  <desc>B03-BE Bejnat</desc>
+</wpt>
+<wpt lat="32.238672000" lon="76.323717000">
+  <ele>1750.000000</ele>
+  <name>DALAI</name>
+  <cmt>DALAI-lama</cmt>
+  <desc>DALAI-lama</desc>
+</wpt>
+<wpt lat="32.058814000" lon="76.744328000">
+  <ele>2403.000000</ele>
+  <name>S01-B</name>
+  <cmt>S01-B Take-off High</cmt>
+  <desc>S01-B Take-off High</desc>
+</wpt>
+<wpt lat="32.042000000" lon="76.708722000">
+  <ele>1476.000000</ele>
+  <name>L01-B</name>
+  <cmt>L01-B Bir Landing Big</cmt>
+  <desc>L01-B Bir Landing Big</desc>
+</wpt>
+<wpt lat="32.033117000" lon="76.714528000">
+  <ele>1384.000000</ele>
+  <name>L02-B</name>
+  <cmt>L02-B Bir Landing Suresh</cmt>
+  <desc>L02-B Bir Landing Suresh</desc>
+</wpt>
+<wpt lat="31.713464000" lon="76.932236000">
+  <ele>750.000000</ele>
+  <name>MANDI</name>
+  <cmt>Landing Mandi</cmt>
+  <desc>Landing Mandi</desc>
+</wpt>
+<wpt lat="31.955711000" lon="77.110150000">
+  <ele>1250.000000</ele>
+  <name>LK02-K</name>
+  <cmt>Landing Kullu 2</cmt>
+  <desc>Landing Kullu 2</desc>
+</wpt>
+<wpt lat="31.975344500" lon="77.103688900">
+  <ele>2000.000000</ele>
+  <name>SK02-K</name>
+  <cmt>Start Kullu 2 bekhli</cmt>
+  <desc>Start Kullu 2 bekhli</desc>
+</wpt>
+<wpt lat="32.012761000" lon="76.825033000">
+  <ele>2415.000000</ele>
+  <name>B44-TS</name>
+  <cmt>B44-TS Trein Station</cmt>
+  <desc>B44-TS Trein Station</desc>
+</wpt>
+<wpt lat="32.023742000" lon="76.706944000">
+  <ele>1400.000000</ele>
+  <name>B42-B</name>
+  <cmt>B42-B Bir Trein Station</cmt>
+  <desc>B42-B Bir Trein Station</desc>
+</wpt>
+<wpt lat="32.063014000" lon="76.648497000">
+  <ele>1193.000000</ele>
+  <name>B39-BE</name>
+  <cmt>B39-BE Bejnat Hrebet B39016</cmt>
+  <desc>B39-BE Bejnat Hrebet B39016</desc>
+</wpt>
+<wpt lat="32.018678000" lon="76.691131000">
+  <ele>1850.000000</ele>
+  <name>B05-AN</name>
+  <cmt>B05-AN Antenna B37016</cmt>
+  <desc>B05-AN Antenna B37016</desc>
+</wpt>
+<wpt lat="32.007008000" lon="76.740256000">
+  <ele>1220.000000</ele>
+  <name>L09-B</name>
+  <cmt>L09-B Landing Bir- Trein Station B36012</cmt>
+  <desc>L09-B Landing Bir- Trein Station B36012</desc>
+</wpt>
+<wpt lat="31.948975000" lon="76.867714000">
+  <ele>1760.000000</ele>
+  <name>BL35-T</name>
+  <cmt>BL35-T Landing B35017</cmt>
+  <desc>BL35-T Landing B35017</desc>
+</wpt>
+<wpt lat="31.947475000" lon="76.881942000">
+  <ele>2030.000000</ele>
+  <name>B34-T</name>
+  <cmt>B34-T 360 - Mandi B34020</cmt>
+  <desc>B34-T 360 - Mandi B34020</desc>
+</wpt>
+<wpt lat="31.960592000" lon="76.873978000">
+  <ele>2230.000000</ele>
+  <name>B33-T</name>
+  <cmt>B33-T 360 - mandi B33022</cmt>
+  <desc>B33-T 360 - mandi B33022</desc>
+</wpt>
+<wpt lat="31.974072000" lon="76.867469000">
+  <ele>2240.000000</ele>
+  <name>XB03-3</name>
+  <cmt>360</cmt>
+  <desc>360</desc>
+</wpt>
+<wpt lat="31.987539000" lon="76.857572000">
+  <ele>2300.000000</ele>
+  <name>B31-T</name>
+  <cmt>B31-T B31021</cmt>
+  <desc>B31-T B31021</desc>
+</wpt>
+<wpt lat="31.998947000" lon="76.777794000">
+  <ele>1250.000000</ele>
+  <name>L12-TS</name>
+  <cmt>B27012</cmt>
+  <desc>B27012</desc>
+</wpt>
+<wpt lat="32.018381000" lon="76.796611000">
+  <ele>2000.000000</ele>
+  <name>B25-B</name>
+  <cmt>B25-B B25002</cmt>
+  <desc>B25-B B25002</desc>
+</wpt>
+<wpt lat="32.027064000" lon="76.783442000">
+  <ele>1920.000000</ele>
+  <name>B24-B</name>
+  <cmt>B24-B B24002</cmt>
+  <desc>B24-B B24002</desc>
+</wpt>
+<wpt lat="32.036592000" lon="76.761908000">
+  <ele>2210.000000</ele>
+  <name>B23-B</name>
+  <cmt>B23-B B23002</cmt>
+  <desc>B23-B B23002</desc>
+</wpt>
+<wpt lat="32.053178000" lon="76.691244000">
+  <ele>1350.000000</ele>
+  <name>B22-FT</name>
+  <cmt>B22-FT Forest temple B22002</cmt>
+  <desc>B22-FT Forest temple B22002</desc>
+</wpt>
+<wpt lat="32.043761000" lon="76.724578000">
+  <ele>1550.000000</ele>
+  <name>B21-B</name>
+  <cmt>B21-B Billing B21002</cmt>
+  <desc>B21-B Billing B21002</desc>
+</wpt>
+<wpt lat="32.048792000" lon="76.734661000">
+  <ele>2000.000000</ele>
+  <name>B20-B</name>
+  <cmt>B20-B End Start otrog B20002</cmt>
+  <desc>B20-B End Start otrog B20002</desc>
+</wpt>
+<wpt lat="32.241817000" lon="76.349719000">
+  <ele>2350.000000</ele>
+  <name>B17-D</name>
+  <cmt>B17-D Pered Dramsaloi B17014</cmt>
+  <desc>B17-D Pered Dramsaloi B17014</desc>
+</wpt>
+<wpt lat="32.303097000" lon="76.256461000">
+  <ele>2600.000000</ele>
+  <name>B16-D</name>
+  <cmt>B16-D B16020</cmt>
+  <desc>B16-D B16020</desc>
+</wpt>
+<wpt lat="32.294542000" lon="76.278358000">
+  <ele>2650.000000</ele>
+  <name>B15-D</name>
+  <cmt>B15-D za dramsaloi B15020</cmt>
+  <desc>B15-D za dramsaloi B15020</desc>
+</wpt>
+<wpt lat="32.250128000" lon="76.316564000">
+  <ele>2160.000000</ele>
+  <name>B14-DR</name>
+  <cmt>B14-DR B14001</cmt>
+  <desc>B14-DR B14001</desc>
+</wpt>
+<wpt lat="32.209644000" lon="76.394981000">
+  <ele>2220.000000</ele>
+  <name>B13-D</name>
+  <cmt>B13-D B13001</cmt>
+  <desc>B13-D B13001</desc>
+</wpt>
+<wpt lat="32.169636000" lon="76.469211000">
+  <ele>1450.000000</ele>
+  <name>B12-P</name>
+  <cmt>B12-P B12014</cmt>
+  <desc>B12-P B12014</desc>
+</wpt>
+<wpt lat="32.163125000" lon="76.499942000">
+  <ele>2320.000000</ele>
+  <name>B11-P</name>
+  <cmt>B11-P B11022</cmt>
+  <desc>B11-P B11022</desc>
+</wpt>
+<wpt lat="32.133758000" lon="76.596914000">
+  <ele>2350.000000</ele>
+  <name>B08-BF</name>
+  <cmt>B08-BF B08000</cmt>
+  <desc>B08-BF B08000</desc>
+</wpt>
+<wpt lat="32.136917000" lon="76.634342000">
+  <ele>2890.000000</ele>
+  <name>B07-BF</name>
+  <cmt>B07-BF B07000</cmt>
+  <desc>B07-BF B07000</desc>
+</wpt>
+<wpt lat="32.115556000" lon="76.678056000">
+  <ele>2380.000000</ele>
+  <name>B06-B</name>
+  <cmt>B06-B B06000</cmt>
+  <desc>B06-B B06000</desc>
+</wpt>
+<wpt lat="32.086211000" lon="76.698381000">
+  <ele>2100.000000</ele>
+  <name>B04-RT</name>
+  <cmt>B04-RT RED TEMPLE B04000</cmt>
+  <desc>B04-RT RED TEMPLE B04000</desc>
+</wpt>
+<wpt lat="32.064805000" lon="76.727864000">
+  <ele>2213.000000</ele>
+  <name>B02-B</name>
+  <cmt>B02-B B02000</cmt>
+  <desc>B02-B B02000</desc>
+</wpt>
+<wpt lat="32.081125000" lon="76.754506000">
+  <ele>3075.000000</ele>
+  <name>B01-B</name>
+  <cmt>B01-B Top Start Hrebet B01025</cmt>
+  <desc>B01-B Top Start Hrebet B01025</desc>
+</wpt>
+<wpt lat="32.125339000" lon="76.538300000">
+  <ele>1350.000000</ele>
+  <name>L05-PA</name>
+  <cmt>L05-PA Landing palampur A03013</cmt>
+  <desc>L05-PA Landing palampur A03013</desc>
+</wpt>
+<wpt lat="32.101711000" lon="76.547600000">
+  <ele>1290.000000</ele>
+  <name>L04-P</name>
+  <cmt>L04-P Landing Palampur stadium A02013</cmt>
+  <desc>L04-P Landing Palampur stadium A02013</desc>
+</wpt>
+<wpt lat="32.156269000" lon="76.511797000">
+  <ele>2218.000000</ele>
+  <name>XB02-P</name>
+  <cmt>Landing palamur</cmt>
+  <desc>Landing palamur</desc>
+</wpt>
+<wpt lat="32.164489000" lon="76.507933000">
+  <ele>2479.000000</ele>
+  <name>S02-P</name>
+  <cmt>Start palampur</cmt>
+  <desc>Start palampur</desc>
+</wpt>
+<wpt lat="31.998966700" lon="76.595141700">
+  <ele>1117.000000</ele>
+  <name>N03-AA</name>
+  <cmt>Far antenns</cmt>
+  <desc>Far antenns</desc>
+</wpt>
+<wpt lat="31.961972200" lon="76.737083400">
+  <ele>1542.000000</ele>
+  <name>N02-AN</name>
+  <cmt>2-nd Antens top</cmt>
+  <desc>2-nd Antens top</desc>
+</wpt>
+<wpt lat="31.983813900" lon="76.717908300">
+  <ele>1405.000000</ele>
+  <name>N01-AN</name>
+  <cmt>1-st Antens top</cmt>
+  <desc>1-st Antens top</desc>
+</wpt>
+<wpt lat="32.013281000" lon="76.611806000">
+  <ele>876.000000</ele>
+  <name>L03-AN</name>
+  <cmt>Cheki - dalnei antenni</cmt>
+  <desc>Cheki - dalnei antenni</desc>
+</wpt>
+<wpt lat="31.959911000" lon="76.865067000">
+  <ele>1842.000000</ele>
+  <name>L10-36</name>
+  <cmt>Landing 360 down</cmt>
+  <desc>Landing 360 down</desc>
+</wpt>
+<wpt lat="31.919500000" lon="76.846430600">
+  <ele>1673.000000</ele>
+  <name>N04-36</name>
+  <cmt>360 vpered</cmt>
+  <desc>360 vpered</desc>
+</wpt>
+<wpt lat="32.299781000" lon="77.176531000">
+  <ele>2225.000000</ele>
+  <name>LM05-M</name>
+  <cmt>Landing Manali 5</cmt>
+  <desc>Landing Manali 5</desc>
+</wpt>
+<wpt lat="32.321278000" lon="77.205003000">
+  <ele>3032.000000</ele>
+  <name>SM03-M</name>
+  <cmt>Start Manali 3</cmt>
+  <desc>Start Manali 3</desc>
+</wpt>
+<wpt lat="32.364997000" lon="77.244986000">
+  <ele>3912.000000</ele>
+  <name>SM04-M</name>
+  <cmt>Start Rothang 3900</cmt>
+  <desc>Start Rothang 3900</desc>
+</wpt>
+<wpt lat="32.358686000" lon="77.217767000">
+  <ele>3666.000000</ele>
+  <name>SM02-M</name>
+  <cmt>Start manali Rothang</cmt>
+  <desc>Start manali Rothang</desc>
+</wpt>
+<wpt lat="32.317625000" lon="77.191481000">
+  <ele>2503.000000</ele>
+  <name>LM02-M</name>
+  <cmt>Landing Manali 2</cmt>
+  <desc>Landing Manali 2</desc>
+</wpt>
+<wpt lat="32.314411100" lon="77.146202800">
+  <ele>2913.000000</ele>
+  <name>SM01-M</name>
+  <cmt>Start Manali 1 Solang</cmt>
+  <desc>Start Manali 1 Solang</desc>
+</wpt>
+<wpt lat="32.315150000" lon="77.154797000">
+  <ele>2498.000000</ele>
+  <name>LM01-M</name>
+  <cmt>Landing Manali</cmt>
+  <desc>Landing Manali</desc>
+</wpt>
+<wpt lat="32.269225000" lon="77.183264000">
+  <ele>1990.000000</ele>
+  <name>LM04-M</name>
+  <cmt>Landing manali 4</cmt>
+  <desc>Landing manali 4</desc>
+</wpt>
+<wpt lat="32.243658000" lon="77.240658000">
+  <ele>3280.000000</ele>
+  <name>XM01-M</name>
+  <cmt>Landind Manali top</cmt>
+  <desc>Landind Manali top</desc>
+</wpt>
+<wpt lat="31.922888900" lon="77.149211100">
+  <ele>2418.000000</ele>
+  <name>SK01-K</name>
+  <cmt>Start Bantar Bijli Mahadev</cmt>
+  <desc>Start Bantar Bijli Mahadev</desc>
+</wpt>
+<wpt lat="31.896547000" lon="77.148747000">
+  <ele>1104.000000</ele>
+  <name>LK03-K</name>
+  <cmt>Bantar Kullu land</cmt>
+  <desc>Bantar Kullu land</desc>
+</wpt>
+<wpt lat="31.895433000" lon="77.140939000">
+  <ele>1109.000000</ele>
+  <name>LK04-K</name>
+  <cmt>Buntar Kullu land 2</cmt>
+  <desc>Buntar Kullu land 2</desc>
+</wpt>
+<wpt lat="31.983308000" lon="77.132308000">
+  <ele>1319.000000</ele>
+  <name>LK01-K</name>
+  <cmt>Landing Kullu</cmt>
+  <desc>Landing Kullu</desc>
+</wpt>
+<wpt lat="32.257506000" lon="77.187394000">
+  <ele>1934.000000</ele>
+  <name>LM03-M</name>
+  <cmt>Landing manali 3</cmt>
+  <desc>Landing manali 3</desc>
+</wpt>
+<wpt lat="32.085072000" lon="76.790506000">
+  <ele>2659.000000</ele>
+  <name>H01-H</name>
+  <cmt>1-st point</cmt>
+  <desc>1-st point</desc>
+</wpt>
+<wpt lat="32.111408000" lon="76.775028000">
+  <ele>3041.000000</ele>
+  <name>H02-H</name>
+  <cmt>2- Point</cmt>
+  <desc>2- Point</desc>
+</wpt>
+<wpt lat="32.115636000" lon="76.788072000">
+  <ele>3535.000000</ele>
+  <name>H03-H</name>
+  <cmt>3 Point</cmt>
+  <desc>3 Point</desc>
+</wpt>
+<wpt lat="32.038986100" lon="76.844497200">
+  <ele>1839.000000</ele>
+  <name>L11-H</name>
+  <cmt>Barot Fish Farm</cmt>
+  <desc>Barot Fish Farm</desc>
+</wpt>
+<wpt lat="32.019347000" lon="76.886019000">
+  <ele>2679.000000</ele>
+  <name>H12-36</name>
+  <cmt>Low Exit</cmt>
+  <desc>Low Exit</desc>
+</wpt>
+<wpt lat="32.066758000" lon="76.941181000">
+  <ele>4005.000000</ele>
+  <name>H10-H</name>
+  <cmt>10 point -Exit 4000-</cmt>
+  <desc>10 point -Exit 4000-</desc>
+</wpt>
+<wpt lat="32.082614000" lon="76.938292000">
+  <ele>3724.000000</ele>
+  <name>XH01-A</name>
+  <cmt>Angel Lake</cmt>
+  <desc>Angel Lake</desc>
+</wpt>
+<wpt lat="32.113672000" lon="76.934372000">
+  <ele>4275.000000</ele>
+  <name>H11-H</name>
+  <cmt>Lake -Sled-</cmt>
+  <desc>Lake -Sled-</desc>
+</wpt>
+<wpt lat="32.105664000" lon="76.874422000">
+  <ele>3137.000000</ele>
+  <name>H06-H</name>
+  <cmt>6-point</cmt>
+  <desc>6-point</desc>
+</wpt>
+<wpt lat="32.120436000" lon="76.878233000">
+  <ele>3626.000000</ele>
+  <name>H07-H</name>
+  <cmt>7 point</cmt>
+  <desc>7 point</desc>
+</wpt>
+<wpt lat="32.111117000" lon="76.946389000">
+  <ele>4443.000000</ele>
+  <name>H09-H</name>
+  <cmt>9 point</cmt>
+  <desc>9 point</desc>
+</wpt>
+<wpt lat="32.133200000" lon="76.901936000">
+  <ele>4070.000000</ele>
+  <name>H08-H</name>
+  <cmt>8 point 4000</cmt>
+  <desc>8 point 4000</desc>
+</wpt>
+<wpt lat="32.202442000" lon="76.892150000">
+  <ele>4536.000000</ele>
+  <name>H13-H</name>
+  <cmt>Pereval 4500</cmt>
+  <desc>Pereval 4500</desc>
+</wpt>
+<wpt lat="32.112400000" lon="76.820575000">
+  <ele>3660.000000</ele>
+  <name>H05-H</name>
+  <cmt>5- Point</cmt>
+  <desc>5- Point</desc>
+</wpt>
+<wpt lat="32.135197000" lon="76.807875000">
+  <ele>4180.000000</ele>
+  <name>H04-H</name>
+  <cmt>Top Cirk 4000</cmt>
+  <desc>Top Cirk 4000</desc>
+</wpt>
+<wpt lat="31.756353000" lon="77.093147000">
+  <ele>2686.000000</ele>
+  <name>SP01-K</name>
+  <cmt>Start Parashar 1</cmt>
+  <desc>Start Parashar 1</desc>
+</wpt>
+<wpt lat="31.753783000" lon="77.097961000">
+  <ele>2618.000000</ele>
+  <name>SP02-K</name>
+  <cmt>Start Parashar Lake 2</cmt>
+  <desc>Start Parashar Lake 2</desc>
+</wpt>
+<wpt lat="31.754944000" lon="77.100789000">
+  <ele>2603.000000</ele>
+  <name>LP01-K</name>
+  <cmt>Landing Parashar Lake</cmt>
+  <desc>Landing Parashar Lake</desc>
+</wpt>
+<wpt lat="31.748261000" lon="77.116147000">
+  <ele>2746.000000</ele>
+  <name>XP01-K</name>
+  <cmt>Start-Landing Parashar Lake</cmt>
+  <desc>Start-Landing Parashar Lake</desc>
+</wpt>
+<wpt lat="32.255669000" lon="76.343094000">
+  <ele>2397.000000</ele>
+  <name>SD01-D</name>
+  <cmt>Start Dramsala Magik view cafe</cmt>
+  <desc>Start Dramsala Magik view cafe</desc>
+</wpt>
+<wpt lat="32.271986000" lon="76.359561000">
+  <ele>3183.000000</ele>
+  <name>SD02-D</name>
+  <cmt>Start top Dramsala</cmt>
+  <desc>Start top Dramsala</desc>
+</wpt>
+<wpt lat="32.261592000" lon="76.354486000">
+  <ele>2810.000000</ele>
+  <name>XD02-D</name>
+  <cmt>Start Dramsala Tea Shop cafe</cmt>
+  <desc>Start Dramsala Tea Shop cafe</desc>
+</wpt>
+<wpt lat="32.244489000" lon="76.351489000">
+  <ele>2429.000000</ele>
+  <name>XD01-D</name>
+  <cmt>Start-Land Dramsala</cmt>
+  <desc>Start-Land Dramsala</desc>
+</wpt>
+<wpt lat="32.211258000" lon="76.337364000">
+  <ele>1219.000000</ele>
+  <name>LD01-D</name>
+  <cmt>Land bad Dramsala</cmt>
+  <desc>Land bad Dramsala</desc>
+</wpt>
+<wpt lat="32.184447200" lon="77.146408300">
+  <ele>3471.000000</ele>
+  <name>XM02-N</name>
+  <cmt>Start-Land Bran 3470 Manali</cmt>
+  <desc>Start-Land Bran 3470 Manali</desc>
+</wpt>
+<wpt lat="32.144988900" lon="77.141566700">
+  <ele>2277.000000</ele>
+  <name>SM05-N</name>
+  <cmt>Jaendi top Badgran Start 2200</cmt>
+  <desc>Jaendi top Badgran Start 2200</desc>
+</wpt>
+<wpt lat="32.110213900" lon="76.984080500">
+  <ele>4381.000000</ele>
+  <name>H014-H</name>
+  <cmt>Way to manali</cmt>
+  <desc>Way to manali</desc>
+</wpt>
+<wpt lat="32.131041700" lon="77.086494500">
+  <ele>3448.000000</ele>
+  <name>HM15-N</name>
+  <cmt>Way to Manali Meha 3400</cmt>
+  <desc>Way to Manali Meha 3400</desc>
+</wpt>
+<wpt lat="32.137647200" lon="77.157247200">
+  <ele>1521.000000</ele>
+  <name>LN02-N</name>
+  <cmt>Landing Naggar 2 -</cmt>
+  <desc>Landing Naggar 2 -</desc>
+</wpt>
+<wpt lat="32.128383400" lon="77.149975000">
+  <ele>1588.000000</ele>
+  <name>LN01-N</name>
+  <cmt>Landing Naggar 1 -</cmt>
+  <desc>Landing Naggar 1 -</desc>
+</wpt>
+</gpx>

@@ -1,0 +1,11 @@
+node_modules
+dist
+.env
+.env.local
+*.local
+
+# Mac archive junk and scratch files
+__MACOSX/
+.DS_Store
+*.tmp.json
+

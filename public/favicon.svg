@@ -1,0 +1,13 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="VTasker">
+  <title>VTasker</title>
+  <!-- Small-size variant of the logo. The full mark uses hollow rings for the
+       cylinders, which turn to mush at 16px, so this uses filled dots and a
+       heavier route stroke to stay legible in a browser tab. -->
+  <rect width="32" height="32" rx="7" fill="#1D4ED8"/>
+  <path d="M9 11 L16 22 L23 11"
+        fill="none" stroke="#FFFFFF" stroke-width="3.4"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="9"  cy="11" r="4.1" fill="#FBBF24"/>
+  <circle cx="16" cy="22" r="3.4" fill="#FFFFFF"/>
+  <circle cx="23" cy="11" r="3.4" fill="#FFFFFF"/>
+</svg>

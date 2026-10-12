@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2016-05-31T20:50:07Z</time>
+<bounds minlat="42.699362000" minlon="-0.027031000" maxlat="43.080966000" maxlon="1.097849000"/>
+<wpt lat="42.877705000" lon="0.477155000">
+  <ele>2130.000000</ele>
+  <name>T62213</name>
+  <cmt>MONT NE</cmt>
+  <desc>MONT NE</desc>
+</wpt>
+<wpt lat="42.836671000" lon="0.432237000">
+  <ele>1550.000000</ele>
+  <name>T92155</name>
+  <cmt>RESS2KM</cmt>
+  <desc>RESS2KM</desc>
+</wpt>
+<wpt lat="42.819232000" lon="0.435632000">
+  <ele>1440.000000</ele>
+  <name>T91144</name>
+  <cmt>RESS2KM</cmt>
+  <desc>RESS2KM</desc>
+</wpt>
+<wpt lat="42.817866000" lon="0.381629000">
+  <ele>1650.000000</ele>
+  <name>T90165</name>
+  <cmt>RESS2KM</cmt>
+  <desc>RESS2KM</desc>
+</wpt>
+<wpt lat="43.028951000" lon="0.874115000">
+  <ele>420.000000</ele>
+  <name>T87042</name>
+  <cmt>ARBAS 10 NORD</cmt>
+  <desc>ARBAS 10 NORD</desc>
+</wpt>
+<wpt lat="43.044963000" lon="-0.027031000">
+  <ele>810.000000</ele>
+  <name>B94081</name>
+  <cmt>CANPAM R10 OUEST</cmt>
+  <desc>CANPAM R10 OUEST</desc>
+</wpt>
+<wpt lat="42.805316000" lon="0.786510000">
+  <ele>1900.000000</ele>
+  <name>T63190</name>
+  <cmt>LUCHON R10 EST</cmt>
+  <desc>LUCHON R10 EST</desc>
+</wpt>
+<wpt lat="42.699362000" lon="0.628993000">
+  <ele>2340.000000</ele>
+  <name>T64234</name>
+  <cmt>LUCHON R10SUD</cmt>
+  <desc>LUCHON R10SUD</desc>
+</wpt>
+<wpt lat="42.964209000" lon="1.097849000">
+  <ele>420.000000</ele>
+  <name>A96042</name>
+  <cmt>ATTERRO MOULIS</cmt>
+  <desc>ATTERRO MOULIS</desc>
+</wpt>
+<wpt lat="43.049734000" lon="0.786297000">
+  <ele>425.000000</ele>
+  <name>A95042</name>
+  <cmt>ATTERO SOUECH</cmt>
+  <desc>ATTERO SOUECH</desc>
+</wpt>
+<wpt lat="42.991303000" lon="0.904378000">
+  <ele>420.000000</ele>
+  <name>A94040</name>
+  <cmt>ATTERO ARBAS</cmt>
+  <desc>ATTERO ARBAS</desc>
+</wpt>
+<wpt lat="42.969883000" lon="0.885824000">
+  <ele>1070.000000</ele>
+  <name>D86107</name>
+  <cmt>DECO ARBAS</cmt>
+  <desc>DECO ARBAS</desc>
+</wpt>
+<wpt lat="42.824355000" lon="0.669212000">
+  <ele>1904.000000</ele>
+  <name>T85190</name>
+  <cmt>TROIS COURETS</cmt>
+  <desc>TROIS COURETS</desc>
+</wpt>
+<wpt lat="42.793209000" lon="0.654756000">
+  <ele>1870.000000</ele>
+  <name>T84187</name>
+  <cmt>POUJASTOU</cmt>
+  <desc>POUJASTOU</desc>
+</wpt>
+<wpt lat="42.914210000" lon="0.647487000">
+  <ele>486.000000</ele>
+  <name>T83049</name>
+  <cmt>RP CIERP GAUD</cmt>
+  <desc>RP CIERP GAUD</desc>
+</wpt>
+<wpt lat="42.793767000" lon="0.625463000">
+  <ele>1200.000000</ele>
+  <name>T82120</name>
+  <cmt>HERRAN LUCHON</cmt>
+  <desc>HERRAN LUCHON</desc>
+</wpt>
+<wpt lat="42.799949000" lon="0.599792000">
+  <ele>619.000000</ele>
+  <name>A81062</name>
+  <cmt>AERODROME LUCHON</cmt>
+  <desc>AERODROME LUCHON</desc>
+</wpt>
+<wpt lat="42.767926000" lon="0.579616000">
+  <ele>1760.000000</ele>
+  <name>D79176</name>
+  <cmt>DECO SUPERBAGNERES</cmt>
+  <desc>DECO SUPERBAGNERES</desc>
+</wpt>
+<wpt lat="42.986875000" lon="0.563067000">
+  <ele>599.000000</ele>
+  <name>T76060</name>
+  <cmt>SACOUE</cmt>
+  <desc>SACOUE</desc>
+</wpt>
+<wpt lat="42.859371000" lon="0.564418000">
+  <ele>1926.000000</ele>
+  <name>T75192</name>
+  <cmt>SOMMET D ANTENAC</cmt>
+  <desc>SOMMET D ANTENAC</desc>
+</wpt>
+<wpt lat="42.757753000" lon="0.537500000">
+  <ele>2363.000000</ele>
+  <name>T72236</name>
+  <cmt>CECIRE</cmt>
+  <desc>CECIRE</desc>
+</wpt>
+<wpt lat="42.836371000" lon="0.504133000">
+  <ele>1913.000000</ele>
+  <name>T70190</name>
+  <cmt>HONTEYDE</cmt>
+  <desc>HONTEYDE</desc>
+</wpt>
+<wpt lat="42.705205000" lon="0.509372000">
+  <ele>2536.000000</ele>
+  <name>T69254</name>
+  <cmt>REFUGE PORTILLON</cmt>
+  <desc>REFUGE PORTILLON</desc>
+</wpt>
+<wpt lat="42.793253000" lon="0.503165000">
+  <ele>990.000000</ele>
+  <name>A68099</name>
+  <cmt>ATTERO OO</cmt>
+  <desc>ATTERO OO</desc>
+</wpt>
+<wpt lat="42.730749000" lon="0.499348000">
+  <ele>1936.000000</ele>
+  <name>T66194</name>
+  <cmt>ESPINGO</cmt>
+  <desc>ESPINGO</desc>
+</wpt>
+<wpt lat="42.744432000" lon="0.491345000">
+  <ele>1494.000000</ele>
+  <name>T65150</name>
+  <cmt>LAC OO</cmt>
+  <desc>LAC OO</desc>
+</wpt>
+<wpt lat="43.080966000" lon="0.465857000">
+  <ele>520.000000</ele>
+  <name>A63052</name>
+  <cmt>ULM ANERES</cmt>
+  <desc>ULM ANERES</desc>
+</wpt>
+<wpt lat="42.914367000" lon="0.460252000">
+  <ele>2037.000000</ele>
+  <name>T61204</name>
+  <cmt>MONTAGNE D ARRENG</cmt>
+  <desc>MONTAGNE D ARRENG</desc>
+</wpt>
+<wpt lat="42.851530000" lon="0.460516000">
+  <ele>2072.000000</ele>
+  <name>T60207</name>
+  <cmt>PIC DU LION</cmt>
+  <desc>PIC DU LION</desc>
+</wpt>
+<wpt lat="42.759363000" lon="0.463602000">
+  <ele>2313.000000</ele>
+  <name>T59231</name>
+  <cmt>MONTSEGU</cmt>
+  <desc>MONTSEGU</desc>
+</wpt>
+<wpt lat="42.816985000" lon="0.455522000">
+  <ele>1893.000000</ele>
+  <name>T56190</name>
+  <cmt>CAP DE HOUNT NERE</cmt>
+  <desc>CAP DE HOUNT NERE</desc>
+</wpt>
+<wpt lat="42.771882000" lon="0.454364000">
+  <ele>2180.000000</ele>
+  <name>D55218</name>
+  <cmt>CAP DE PALES</cmt>
+  <desc>CAP DE PALES</desc>
+</wpt>
+<wpt lat="42.733996000" lon="0.449001000">
+  <ele>2866.000000</ele>
+  <name>T54296</name>
+  <cmt>PIC DE HOURGADE</cmt>
+  <desc>PIC DE HOURGADE</desc>
+</wpt>
+<wpt lat="42.796786000" lon="0.439330000">
+  <ele>1579.000000</ele>
+  <name>T51158</name>
+  <cmt>ALTIPORT PEYRAGUDES</cmt>
+  <desc>ALTIPORT PEYRAGUDES</desc>
+</wpt>
+<wpt lat="42.758779000" lon="0.427369000">
+  <ele>1875.000000</ele>
+  <name>T49187</name>
+  <cmt>PICHADERES</cmt>
+  <desc>PICHADERES</desc>
+</wpt>
+<wpt lat="42.943144000" lon="0.408375000">
+  <ele>1688.000000</ele>
+  <name>T48169</name>
+  <cmt>CAP DES PENES</cmt>
+  <desc>CAP DES PENES</desc>
+</wpt>
+<wpt lat="42.838196000" lon="0.409196000">
+  <ele>908.000000</ele>
+  <name>T47091</name>
+  <cmt>LAC D AVAJAN</cmt>
+  <desc>LAC D AVAJAN</desc>
+</wpt>
+<wpt lat="42.798543000" lon="0.406963000">
+  <ele>961.000000</ele>
+  <name>T45096</name>
+  <cmt>BALNEA</cmt>
+  <desc>BALNEA</desc>
+</wpt>
+<wpt lat="42.800933000" lon="0.405922000">
+  <ele>940.000000</ele>
+  <name>A44094</name>
+  <cmt>ATTERO GENOS</cmt>
+  <desc>ATTERO GENOS</desc>
+</wpt>
+<wpt lat="42.842594000" lon="0.389935000">
+  <ele>1622.000000</ele>
+  <name>T39162</name>
+  <cmt>COL DU PLA</cmt>
+  <desc>COL DU PLA</desc>
+</wpt>
+<wpt lat="42.963537000" lon="0.382177000">
+  <ele>632.000000</ele>
+  <name>T38063</name>
+  <cmt>SARRANCOLIN</cmt>
+  <desc>SARRANCOLIN</desc>
+</wpt>
+<wpt lat="42.799136000" lon="0.382788000">
+  <ele>1630.000000</ele>
+  <name>D37163</name>
+  <cmt>DECO 600 VL</cmt>
+  <desc>DECO 600 VL</desc>
+</wpt>
+<wpt lat="42.792086000" lon="0.380836000">
+  <ele>1580.000000</ele>
+  <name>T36158</name>
+  <cmt>COL D AZET</cmt>
+  <desc>COL D AZET</desc>
+</wpt>
+<wpt lat="42.777983000" lon="0.380355000">
+  <ele>2010.000000</ele>
+  <name>T35201</name>
+  <cmt>TUC D ARDOUNES</cmt>
+  <desc>TUC D ARDOUNES</desc>
+</wpt>
+<wpt lat="42.807334000" lon="0.377037000">
+  <ele>1700.000000</ele>
+  <name>D34170</name>
+  <cmt>DECO 700 VL</cmt>
+  <desc>DECO 700 VL</desc>
+</wpt>
+<wpt lat="43.048746000" lon="0.361033000">
+  <ele>680.000000</ele>
+  <name>A33068</name>
+  <cmt>ATTERO DEVIATION HEC</cmt>
+  <desc>ATTERO DEVIATION HEC</desc>
+</wpt>
+<wpt lat="42.889364000" lon="0.365222000">
+  <ele>1158.000000</ele>
+  <name>T32116</name>
+  <cmt>LANCON</cmt>
+  <desc>LANCON</desc>
+</wpt>
+<wpt lat="43.028298000" lon="0.343181000">
+  <ele>767.000000</ele>
+  <name>T30077</name>
+  <cmt>COL DE COUPE</cmt>
+  <desc>COL DE COUPE</desc>
+</wpt>
+<wpt lat="42.856115000" lon="0.341669000">
+  <ele>769.000000</ele>
+  <name>T29077</name>
+  <cmt>PONT BAZUS</cmt>
+  <desc>PONT BAZUS</desc>
+</wpt>
+<wpt lat="42.942696000" lon="0.327882000">
+  <ele>1485.000000</ele>
+  <name>T28149</name>
+  <cmt>COL D ASPIN</cmt>
+  <desc>COL D ASPIN</desc>
+</wpt>
+<wpt lat="42.804702000" lon="0.333687000">
+  <ele>1373.000000</ele>
+  <name>T27140</name>
+  <cmt>DECO ENS</cmt>
+  <desc>DECO ENS</desc>
+</wpt>
+<wpt lat="42.839836000" lon="0.317027000">
+  <ele>1434.000000</ele>
+  <name>T26143</name>
+  <cmt>GRANGES GRASCOUE</cmt>
+  <desc>GRANGES GRASCOUE</desc>
+</wpt>
+<wpt lat="42.977469000" lon="0.303615000">
+  <ele>1884.000000</ele>
+  <name>T25188</name>
+  <cmt>BASSIA</cmt>
+  <desc>BASSIA</desc>
+</wpt>
+<wpt lat="42.893536000" lon="0.302746000">
+  <ele>1704.000000</ele>
+  <name>T24171</name>
+  <cmt>SOUBIROU</cmt>
+  <desc>SOUBIROU</desc>
+</wpt>
+<wpt lat="42.813786000" lon="0.301716000">
+  <ele>1564.000000</ele>
+  <name>T23156</name>
+  <cmt>PYLONE PLAT D ADET</cmt>
+  <desc>PYLONE PLAT D ADET</desc>
+</wpt>
+<wpt lat="42.833464000" lon="0.236212000">
+  <ele>2220.000000</ele>
+  <name>T21222</name>
+  <cmt>COL DE PORTET</cmt>
+  <desc>COL DE PORTET</desc>
+</wpt>
+<wpt lat="42.995004000" lon="0.209168000">
+  <ele>756.000000</ele>
+  <name>T20075</name>
+  <cmt>PONT ARRIMOULA</cmt>
+  <desc>PONT ARRIMOULA</desc>
+</wpt>
+<wpt lat="43.020831000" lon="0.172225000">
+  <ele>655.000000</ele>
+  <name>A19065</name>
+  <cmt>ATTERO CAMPAN</cmt>
+  <desc>ATTERO CAMPAN</desc>
+</wpt>
+<wpt lat="42.997799000" lon="0.168253000">
+  <ele>1280.000000</ele>
+  <name>D17128</name>
+  <cmt>DECO CAMPAN</cmt>
+  <desc>DECO CAMPAN</desc>
+</wpt>
+<wpt lat="42.974719000" lon="0.166394000">
+  <ele>1923.000000</ele>
+  <name>T16192</name>
+  <cmt>HOUNT BLANQUE CAMPAN</cmt>
+  <desc>HOUNT BLANQUE CAMPAN</desc>
+</wpt>
+<wpt lat="43.035277000" lon="0.138334000">
+  <ele>1225.000000</ele>
+  <name>T15122</name>
+  <cmt>CAMPAN MOUNE</cmt>
+  <desc>CAMPAN MOUNE</desc>
+</wpt>
+<wpt lat="43.059230000" lon="0.095911000">
+  <ele>780.000000</ele>
+  <name>T12076</name>
+  <cmt>EGLISE LABASSERE</cmt>
+  <desc>EGLISE LABASSERE</desc>
+</wpt>
+<wpt lat="43.005553000" lon="0.089438000">
+  <ele>1792.000000</ele>
+  <name>T11179</name>
+  <cmt>CAMPAN PIC PEYRE</cmt>
+  <desc>CAMPAN PIC PEYRE</desc>
+</wpt>
+<wpt lat="42.960835000" lon="0.090004000">
+  <ele>1098.000000</ele>
+  <name>T10110</name>
+  <cmt>CAMPAN EDF CHIROULET</cmt>
+  <desc>CAMPAN EDF CHIROULET</desc>
+</wpt>
+</gpx>

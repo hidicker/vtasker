@@ -1,0 +1,1060 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2022-10-29T21:09:04Z</time>
+<bounds minlat="-42.520470000" minlon="171.608711000" maxlat="-40.846416000" maxlon="174.005710000"/>
+<wpt lat="-41.763749200" lon="172.753864300">
+  <ele>521.000000</ele>
+  <name>181NLG</name>
+  <cmt>Nelson Lakes Gliding Club</cmt>
+  <desc>Nelson Lakes Gliding Club</desc>
+</wpt>
+<wpt lat="-41.933802700" lon="172.483076500">
+  <ele>1215.000000</ele>
+  <name>417FOR</name>
+  <cmt>417 Tutaki Fork</cmt>
+  <desc>417 Tutaki Fork</desc>
+</wpt>
+<wpt lat="-41.760906000" lon="171.608711000">
+  <ele>16.000000</ele>
+  <name>800WST</name>
+  <cmt>800 WESTPORT</cmt>
+  <desc>800 WESTPORT</desc>
+</wpt>
+<wpt lat="-41.232417000" lon="173.615002000">
+  <ele>625.000000</ele>
+  <name>792RIM</name>
+  <cmt>792 MOUNT RIMU</cmt>
+  <desc>792 MOUNT RIMU</desc>
+</wpt>
+<wpt lat="-41.168683000" lon="173.669922000">
+  <ele>825.000000</ele>
+  <name>791BUL</name>
+  <cmt>791 BULL RANGE</cmt>
+  <desc>791 BULL RANGE</desc>
+</wpt>
+<wpt lat="-41.281827000" lon="173.710855000">
+  <ele>0.000000</ele>
+  <name>790FOR</name>
+  <cmt>790 FORD LANDING PADDOCK</cmt>
+  <desc>790 FORD LANDING PADDOCK</desc>
+</wpt>
+<wpt lat="-41.479081000" lon="173.565261000">
+  <ele>951.000000</ele>
+  <name>750FAB</name>
+  <cmt>750 FABIANS HILL</cmt>
+  <desc>750 FABIANS HILL</desc>
+</wpt>
+<wpt lat="-41.295280000" lon="174.005710000">
+  <ele>10.000000</ele>
+  <name>742PIS</name>
+  <cmt>742 SKATE B PARK</cmt>
+  <desc>742 SKATE B PARK</desc>
+</wpt>
+<wpt lat="-41.289880000" lon="174.003280000">
+  <ele>8.000000</ele>
+  <name>740PIW</name>
+  <cmt>740 WAITOHI DOMA</cmt>
+  <desc>740 WAITOHI DOMA</desc>
+</wpt>
+<wpt lat="-41.281490000" lon="173.914585000">
+  <ele>6.000000</ele>
+  <name>738OKI</name>
+  <cmt>738 OKIWA BAY</cmt>
+  <desc>738 OKIWA BAY</desc>
+</wpt>
+<wpt lat="-41.304430000" lon="173.900000000">
+  <ele>460.000000</ele>
+  <name>737DUN</name>
+  <cmt>737 DUNCAN LAUNC</cmt>
+  <desc>737 DUNCAN LAUNC</desc>
+</wpt>
+<wpt lat="-41.289836000" lon="173.895343000">
+  <ele>12.000000</ele>
+  <name>736ANA</name>
+  <cmt>736 ANAK RD JUNC</cmt>
+  <desc>736 ANAK RD JUNC</desc>
+</wpt>
+<wpt lat="-41.272120000" lon="173.881820000">
+  <ele>595.000000</ele>
+  <name>734OLI</name>
+  <cmt>734 MT OLIVER</cmt>
+  <desc>734 MT OLIVER</desc>
+</wpt>
+<wpt lat="-41.289505000" lon="173.857737000">
+  <ele>8.000000</ele>
+  <name>732LIN</name>
+  <cmt>732 LINKWATR INN</cmt>
+  <desc>732 LINKWATR INN</desc>
+</wpt>
+<wpt lat="-41.297577000" lon="173.856053000">
+  <ele>14.000000</ele>
+  <name>730CUL</name>
+  <cmt>730 CULLENSVILLE</cmt>
+  <desc>730 CULLENSVILLE</desc>
+</wpt>
+<wpt lat="-41.285280000" lon="173.791400000">
+  <ele>380.000000</ele>
+  <name>728HVP</name>
+  <cmt>728 HLOCK POWERL</cmt>
+  <desc>728 HLOCK POWERL</desc>
+</wpt>
+<wpt lat="-41.289337000" lon="173.675340000">
+  <ele>5.000000</ele>
+  <name>726CAN</name>
+  <cmt>726 CANVASTOWN</cmt>
+  <desc>726 CANVASTOWN</desc>
+</wpt>
+<wpt lat="-41.281606000" lon="173.643392000">
+  <ele>10.000000</ele>
+  <name>724DAL</name>
+  <cmt>724 DALTONS BRID</cmt>
+  <desc>724 DALTONS BRID</desc>
+</wpt>
+<wpt lat="-41.319170000" lon="173.600280000">
+  <ele>540.000000</ele>
+  <name>722PLA</name>
+  <cmt>722 PELORUS LAUN</cmt>
+  <desc>722 PELORUS LAUN</desc>
+</wpt>
+<wpt lat="-41.298075000" lon="173.571805000">
+  <ele>40.000000</ele>
+  <name>720PBR</name>
+  <cmt>720 PELORUS BRID</cmt>
+  <desc>720 PELORUS BRID</desc>
+</wpt>
+<wpt lat="-41.425703000" lon="173.838845000">
+  <ele>685.000000</ele>
+  <name>718TWW</name>
+  <cmt>718 TRIG WW685</cmt>
+  <desc>718 TRIG WW685</desc>
+</wpt>
+<wpt lat="-41.443454000" lon="173.762438000">
+  <ele>418.000000</ele>
+  <name>716KAI</name>
+  <cmt>716 KAITUNA RDGE</cmt>
+  <desc>716 KAITUNA RDGE</desc>
+</wpt>
+<wpt lat="-41.422111000" lon="173.763024000">
+  <ele>58.000000</ele>
+  <name>715OKA</name>
+  <cmt>715 OKARAMIO PAD</cmt>
+  <desc>715 OKARAMIO PAD</desc>
+</wpt>
+<wpt lat="-41.419430000" lon="173.792117000">
+  <ele>543.000000</ele>
+  <name>714OKE</name>
+  <cmt>714 OKARMIO EAST</cmt>
+  <desc>714 OKARMIO EAST</desc>
+</wpt>
+<wpt lat="-41.414556000" lon="173.742065000">
+  <ele>506.000000</ele>
+  <name>712OKW</name>
+  <cmt>712 OKARMIO WEST</cmt>
+  <desc>712 OKARMIO WEST</desc>
+</wpt>
+<wpt lat="-41.391951000" lon="173.715504000">
+  <ele>805.000000</ele>
+  <name>711RIL</name>
+  <cmt>711 RILEY NORTH</cmt>
+  <desc>711 RILEY NORTH</desc>
+</wpt>
+<wpt lat="-41.380739000" lon="173.743053000">
+  <ele>483.000000</ele>
+  <name>710HAF</name>
+  <cmt>710 HALFTREE SPR</cmt>
+  <desc>710 HALFTREE SPR</desc>
+</wpt>
+<wpt lat="-41.307500000" lon="173.782210000">
+  <ele>20.000000</ele>
+  <name>708NEW</name>
+  <cmt>708 NEWTONS HOUS</cmt>
+  <desc>708 NEWTONS HOUS</desc>
+</wpt>
+<wpt lat="-41.354681000" lon="173.793477000">
+  <ele>671.000000</ele>
+  <name>706CUW</name>
+  <cmt>706 CULLEN WEST</cmt>
+  <desc>706 CULLEN WEST</desc>
+</wpt>
+<wpt lat="-41.326983000" lon="173.801141000">
+  <ele>829.000000</ele>
+  <name>704CNW</name>
+  <cmt>704 CULLEN NORW</cmt>
+  <desc>704 CULLEN NORW</desc>
+</wpt>
+<wpt lat="-41.321676000" lon="173.762440000">
+  <ele>12.000000</ele>
+  <name>701FBO</name>
+  <cmt>701 FOOTES BOMB</cmt>
+  <desc>701 FOOTES BOMB</desc>
+</wpt>
+<wpt lat="-41.330355000" lon="173.750777000">
+  <ele>418.000000</ele>
+  <name>700FOT</name>
+  <cmt>700 FOOTES HILL</cmt>
+  <desc>700 FOOTES HILL</desc>
+</wpt>
+<wpt lat="-41.400680000" lon="172.849270000">
+  <ele>490.000000</ele>
+  <name>650TAP</name>
+  <cmt>650 TAPAWERA LAU</cmt>
+  <desc>650 TAPAWERA LAU</desc>
+</wpt>
+<wpt lat="-41.587905000" lon="172.518407000">
+  <ele>1336.000000</ele>
+  <name>644OWE</name>
+  <cmt>644 RIDGE NEAR OWEN</cmt>
+  <desc>644 RIDGE NEAR OWEN</desc>
+</wpt>
+<wpt lat="-41.595819000" lon="172.581071000">
+  <ele>1469.000000</ele>
+  <name>642LOO</name>
+  <cmt>642 LOOKOUT RANGE</cmt>
+  <desc>642 LOOKOUT RANGE</desc>
+</wpt>
+<wpt lat="-41.566350000" lon="172.534637000">
+  <ele>1538.000000</ele>
+  <name>640OWN</name>
+  <cmt>640 MOUNT OWEN</cmt>
+  <desc>640 MOUNT OWEN</desc>
+</wpt>
+<wpt lat="-41.648890000" lon="172.649650000">
+  <ele>390.000000</ele>
+  <name>638GLH</name>
+  <cmt>638 GLNHOPE BRID</cmt>
+  <desc>638 GLNHOPE BRID</desc>
+</wpt>
+<wpt lat="-41.657970000" lon="172.800290000">
+  <ele>380.000000</ele>
+  <name>636RNR</name>
+  <cmt>636 RAINY RIV RD</cmt>
+  <desc>636 RAINY RIV RD</desc>
+</wpt>
+<wpt lat="-41.569761000" lon="172.784508000">
+  <ele>283.000000</ele>
+  <name>635KOR</name>
+  <cmt>635 KORE RD BEND</cmt>
+  <desc>635 KORE RD BEND</desc>
+</wpt>
+<wpt lat="-41.543034000" lon="172.766984000">
+  <ele>648.000000</ele>
+  <name>634PIN</name>
+  <cmt>634 PINCHBAC HIL</cmt>
+  <desc>634 PINCHBAC HIL</desc>
+</wpt>
+<wpt lat="-41.541500000" lon="172.729050000">
+  <ele>325.000000</ele>
+  <name>632TUI</name>
+  <cmt>632 TUI BRIDGE</cmt>
+  <desc>632 TUI BRIDGE</desc>
+</wpt>
+<wpt lat="-41.488300000" lon="172.851720000">
+  <ele>215.000000</ele>
+  <name>630GGF</name>
+  <cmt>630 GOLDEN GOLF</cmt>
+  <desc>630 GOLDEN GOLF</desc>
+</wpt>
+<wpt lat="-41.485928000" lon="172.827360000">
+  <ele>480.000000</ele>
+  <name>628RID</name>
+  <cmt>628 RIDG RD RIDG</cmt>
+  <desc>628 RIDG RD RIDG</desc>
+</wpt>
+<wpt lat="-41.450559000" lon="172.835534000">
+  <ele>185.000000</ele>
+  <name>626KOH</name>
+  <cmt>626 KOHATU JUNCT</cmt>
+  <desc>626 KOHATU JUNCT</desc>
+</wpt>
+<wpt lat="-41.472245000" lon="172.775146000">
+  <ele>631.000000</ele>
+  <name>624PT6</name>
+  <cmt>624 PINCHBACK631</cmt>
+  <desc>624 PINCHBACK631</desc>
+</wpt>
+<wpt lat="-41.437766000" lon="172.753016000">
+  <ele>210.000000</ele>
+  <name>620TAD</name>
+  <cmt>620 TADMOR JUNCT</cmt>
+  <desc>620 TADMOR JUNCT</desc>
+</wpt>
+<wpt lat="-41.458461000" lon="172.728341000">
+  <ele>340.000000</ele>
+  <name>618TAR</name>
+  <cmt>618 TADMOR RIDGE</cmt>
+  <desc>618 TADMOR RIDGE</desc>
+</wpt>
+<wpt lat="-41.388610000" lon="172.821040000">
+  <ele>145.000000</ele>
+  <name>616TTW</name>
+  <cmt>616 TAPAWER TOWN</cmt>
+  <desc>616 TAPAWER TOWN</desc>
+</wpt>
+<wpt lat="-41.329890000" lon="172.784310000">
+  <ele>125.000000</ele>
+  <name>614WBR</name>
+  <cmt>614 WANGAPK BRID</cmt>
+  <desc>614 WANGAPK BRID</desc>
+</wpt>
+<wpt lat="-41.346581000" lon="172.717529000">
+  <ele>745.000000</ele>
+  <name>612THO</name>
+  <cmt>612 THOMSON HILL</cmt>
+  <desc>612 THOMSON HILL</desc>
+</wpt>
+<wpt lat="-41.381222000" lon="172.692871000">
+  <ele>650.000000</ele>
+  <name>610JON</name>
+  <cmt>610 JONES RIDGE</cmt>
+  <desc>610 JONES RIDGE</desc>
+</wpt>
+<wpt lat="-41.442523000" lon="172.630117000">
+  <ele>1035.000000</ele>
+  <name>608DEV</name>
+  <cmt>608 DEVILS THUMB</cmt>
+  <desc>608 DEVILS THUMB</desc>
+</wpt>
+<wpt lat="-41.477200000" lon="172.681030000">
+  <ele>610.000000</ele>
+  <name>606CHR</name>
+  <cmt>606 CHRCREEK HIL</cmt>
+  <desc>606 CHRCREEK HIL</desc>
+</wpt>
+<wpt lat="-41.441273000" lon="172.678462000">
+  <ele>965.000000</ele>
+  <name>604SLO</name>
+  <cmt>604 SHER LOOKOUT</cmt>
+  <desc>604 SHER LOOKOUT</desc>
+</wpt>
+<wpt lat="-41.410580000" lon="172.714434000">
+  <ele>206.000000</ele>
+  <name>602ORC</name>
+  <cmt>602 ORCHARD ROAD</cmt>
+  <desc>602 ORCHARD ROAD</desc>
+</wpt>
+<wpt lat="-41.425957000" lon="172.673994000">
+  <ele>940.000000</ele>
+  <name>600SHE</name>
+  <cmt>600 SHERRY LAUNC</cmt>
+  <desc>600 SHERRY LAUNC</desc>
+</wpt>
+<wpt lat="-40.858378000" lon="172.806648000">
+  <ele>26.000000</ele>
+  <name>599TKK</name>
+  <cmt>599TKK</cmt>
+  <desc>599TKK</desc>
+</wpt>
+<wpt lat="-40.846416000" lon="172.874237000">
+  <ele>40.000000</ele>
+  <name>514CLF</name>
+  <cmt>514 CLIFTON FLAT</cmt>
+  <desc>514 CLIFTON FLAT</desc>
+</wpt>
+<wpt lat="-40.939983000" lon="172.829468000">
+  <ele>55.000000</ele>
+  <name>512EAS</name>
+  <cmt>512 EAST TAKAKA</cmt>
+  <desc>512 EAST TAKAKA</desc>
+</wpt>
+<wpt lat="-40.987591000" lon="172.819305000">
+  <ele>70.000000</ele>
+  <name>510BRI</name>
+  <cmt>510 LINDSAY BRDG</cmt>
+  <desc>510 LINDSAY BRDG</desc>
+</wpt>
+<wpt lat="-41.004597000" lon="172.847198000">
+  <ele>705.000000</ele>
+  <name>508PT7</name>
+  <cmt>508 POINT 704</cmt>
+  <desc>508 POINT 704</desc>
+</wpt>
+<wpt lat="-41.034992000" lon="172.793198000">
+  <ele>385.000000</ele>
+  <name>507TRG</name>
+  <cmt>507 TRIG PT 382</cmt>
+  <desc>507 TRIG PT 382</desc>
+</wpt>
+<wpt lat="-41.056789000" lon="172.801453000">
+  <ele>340.000000</ele>
+  <name>506WSP</name>
+  <cmt>506 WAITUI SPUR</cmt>
+  <desc>506 WAITUI SPUR</desc>
+</wpt>
+<wpt lat="-41.073753000" lon="172.828537000">
+  <ele>920.000000</ele>
+  <name>503KNB</name>
+  <cmt>503 BUSH KNB 980</cmt>
+  <desc>503 BUSH KNB 980</desc>
+</wpt>
+<wpt lat="-41.089577000" lon="172.814987000">
+  <ele>1175.000000</ele>
+  <name>502HAI</name>
+  <cmt>502 HAIL KNB SPR</cmt>
+  <desc>502 HAIL KNB SPR</desc>
+</wpt>
+<wpt lat="-41.037441000" lon="172.835464000">
+  <ele>180.000000</ele>
+  <name>501TBO</name>
+  <cmt>501 TAKAKA BOMB</cmt>
+  <desc>501 TAKAKA BOMB</desc>
+</wpt>
+<wpt lat="-41.026443000" lon="172.861526000">
+  <ele>890.000000</ele>
+  <name>500TAK</name>
+  <cmt>500 TAKAKA TKOFF</cmt>
+  <desc>500 TAKAKA TKOFF</desc>
+</wpt>
+<wpt lat="-42.331650000" lon="172.183548000">
+  <ele>425.000000</ele>
+  <name>444SPJ</name>
+  <cmt>444 SPRINGS JUNC</cmt>
+  <desc>444 SPRINGS JUNC</desc>
+</wpt>
+<wpt lat="-42.279100000" lon="172.212070000">
+  <ele>395.000000</ele>
+  <name>442KOW</name>
+  <cmt>442 KOWAI PADDOC</cmt>
+  <desc>442 KOWAI PADDOC</desc>
+</wpt>
+<wpt lat="-42.187229000" lon="172.218369000">
+  <ele>340.000000</ele>
+  <name>440MAR</name>
+  <cmt>440 MARURIA</cmt>
+  <desc>440 MARURIA</desc>
+</wpt>
+<wpt lat="-42.039357000" lon="172.546325000">
+  <ele>1425.000000</ele>
+  <name>434FTP</name>
+  <cmt>434 FLAT TOP</cmt>
+  <desc>434 FLAT TOP</desc>
+</wpt>
+<wpt lat="-42.149100100" lon="172.333714900">
+  <ele>1650.000000</ele>
+  <name>435LEW</name>
+  <cmt>435 LEW</cmt>
+  <desc>435 LEW</desc>
+</wpt>
+<wpt lat="-42.127744500" lon="172.585644300">
+  <ele>2100.000000</ele>
+  <name>433FRA</name>
+  <cmt>433 Fanklyn</cmt>
+  <desc>433 Fanklyn</desc>
+</wpt>
+<wpt lat="-42.009516000" lon="172.493908000">
+  <ele>410.000000</ele>
+  <name>432MAT</name>
+  <cmt>432 MATAKI CORNR</cmt>
+  <desc>432 MATAKI CORNR</desc>
+</wpt>
+<wpt lat="-42.008221000" lon="172.576526000">
+  <ele>1800.000000</ele>
+  <name>431WTS</name>
+  <cmt>431 MOUNT WATSON</cmt>
+  <desc>431 MOUNT WATSON</desc>
+</wpt>
+<wpt lat="-42.004307000" lon="172.528112000">
+  <ele>480.000000</ele>
+  <name>430WAT</name>
+  <cmt>430 WATSON CREEK</cmt>
+  <desc>430 WATSON CREEK</desc>
+</wpt>
+<wpt lat="-41.896084000" lon="172.474401000">
+  <ele>355.000000</ele>
+  <name>428TUF</name>
+  <cmt>428 TUTAKI FORKS</cmt>
+  <desc>428 TUTAKI FORKS</desc>
+</wpt>
+<wpt lat="-41.828929000" lon="172.475324000">
+  <ele>280.000000</ele>
+  <name>426TUR</name>
+  <cmt>426 TUTAKI ROAD</cmt>
+  <desc>426 TUTAKI ROAD</desc>
+</wpt>
+<wpt lat="-41.965462000" lon="172.517426000">
+  <ele>515.000000</ele>
+  <name>424MOL</name>
+  <cmt>424 MOLE STREAM</cmt>
+  <desc>424 MOLE STREAM</desc>
+</wpt>
+<wpt lat="-41.832760000" lon="172.457169000">
+  <ele>550.000000</ele>
+  <name>422TUT</name>
+  <cmt>422 TUTAKI PT548</cmt>
+  <desc>422 TUTAKI PT548</desc>
+</wpt>
+<wpt lat="-41.827245000" lon="172.425203000">
+  <ele>860.000000</ele>
+  <name>421MGL</name>
+  <cmt>421 MANGLES KNB</cmt>
+  <desc>421 MANGLES KNB</desc>
+</wpt>
+<wpt lat="-42.065891000" lon="172.333115000">
+  <ele>430.000000</ele>
+  <name>420GLE</name>
+  <cmt>420 TOP GLENROY</cmt>
+  <desc>420 TOP GLENROY</desc>
+</wpt>
+<wpt lat="-42.046275000" lon="172.220131000">
+  <ele>1301.000000</ele>
+  <name>419RUT</name>
+  <cmt>418 MOUNT RUTLAND</cmt>
+  <desc>418 MOUNT RUTLAND</desc>
+</wpt>
+<wpt lat="-42.015560000" lon="172.355316000">
+  <ele>520.000000</ele>
+  <name>418BTW</name>
+  <cmt>418 BROOK RD TWR</cmt>
+  <desc>418 BROOK RD TWR</desc>
+</wpt>
+<wpt lat="-41.969669000" lon="172.291367000">
+  <ele>1510.000000</ele>
+  <name>416MAN</name>
+  <cmt>416 MANTELL NRTH</cmt>
+  <desc>416 MANTELL NRTH</desc>
+</wpt>
+<wpt lat="-41.971363000" lon="172.374387300">
+  <ele>1070.000000</ele>
+  <name>415MTI</name>
+  <cmt>Matakitaki</cmt>
+  <desc>Matakitaki</desc>
+</wpt>
+<wpt lat="-41.918571000" lon="172.319488000">
+  <ele>250.000000</ele>
+  <name>41410M</name>
+  <cmt>414 TEN MILE CK</cmt>
+  <desc>414 TEN MILE CK</desc>
+</wpt>
+<wpt lat="-41.877384000" lon="172.293403000">
+  <ele>669.000000</ele>
+  <name>413HUT</name>
+  <cmt>413 HUTCHISON STREAM</cmt>
+  <desc>413 HUTCHISON STREAM</desc>
+</wpt>
+<wpt lat="-41.872433000" lon="172.333954000">
+  <ele>270.000000</ele>
+  <name>412SIX</name>
+  <cmt>412 SIXMIL LANDG</cmt>
+  <desc>412 SIXMIL LANDG</desc>
+</wpt>
+<wpt lat="-41.796896000" lon="172.259170000">
+  <ele>726.000000</ele>
+  <name>411SPX</name>
+  <cmt>411 SPHINX</cmt>
+  <desc>411 SPHINX</desc>
+</wpt>
+<wpt lat="-41.801479000" lon="172.331711000">
+  <ele>165.000000</ele>
+  <name>410MUS</name>
+  <cmt>410 MURCH SPORTS</cmt>
+  <desc>410 MURCH SPORTS</desc>
+</wpt>
+<wpt lat="-41.777691000" lon="172.218188000">
+  <ele>155.000000</ele>
+  <name>409SUL</name>
+  <cmt>409 O-APOS-SULLIVANS BRIDGE</cmt>
+  <desc>409 O-APOS-SULLIVANS BRIDGE</desc>
+</wpt>
+<wpt lat="-41.794048000" lon="172.346710000">
+  <ele>175.000000</ele>
+  <name>408MUD</name>
+  <cmt>408 MURCH DOMAIN</cmt>
+  <desc>408 MURCH DOMAIN</desc>
+</wpt>
+<wpt lat="-41.716304000" lon="172.274954000">
+  <ele>1359.000000</ele>
+  <name>407NEW</name>
+  <cmt>407 MOUNT NEWTON</cmt>
+  <desc>407 MOUNT NEWTON</desc>
+</wpt>
+<wpt lat="-41.732937000" lon="172.420105000">
+  <ele>590.000000</ele>
+  <name>406NUG</name>
+  <cmt>406 NUGETY KNOLL</cmt>
+  <desc>406 NUGETY KNOLL</desc>
+</wpt>
+<wpt lat="-41.687837000" lon="172.334465000">
+  <ele>595.000000</ele>
+  <name>405MAT</name>
+  <cmt>405 MATIRI</cmt>
+  <desc>405 MATIRI</desc>
+</wpt>
+<wpt lat="-41.673275000" lon="172.415527000">
+  <ele>1045.000000</ele>
+  <name>404BLU</name>
+  <cmt>404 BLU CLIF NTH</cmt>
+  <desc>404 BLU CLIF NTH</desc>
+</wpt>
+<wpt lat="-41.701988000" lon="172.464310000">
+  <ele>285.000000</ele>
+  <name>402FAR</name>
+  <cmt>402 BOTTOM FARM</cmt>
+  <desc>402 BOTTOM FARM</desc>
+</wpt>
+<wpt lat="-41.729340000" lon="172.499710000">
+  <ele>1460.000000</ele>
+  <name>400MUR</name>
+  <cmt>400 MT MURCHISON</cmt>
+  <desc>400 MT MURCHISON</desc>
+</wpt>
+<wpt lat="-41.913309000" lon="172.073034000">
+  <ele>1412.000000</ele>
+  <name>362CUR</name>
+  <cmt>362 MOUNT CURTIS</cmt>
+  <desc>362 MOUNT CURTIS</desc>
+</wpt>
+<wpt lat="-41.851381000" lon="172.054605000">
+  <ele>1218.000000</ele>
+  <name>360BOU</name>
+  <cmt>360 BOUNDARY PEAK</cmt>
+  <desc>360 BOUNDARY PEAK</desc>
+</wpt>
+<wpt lat="-41.874978000" lon="172.094919000">
+  <ele>1396.000000</ele>
+  <name>358DDR</name>
+  <cmt>368 DEEPDALE RIDGE</cmt>
+  <desc>368 DEEPDALE RIDGE</desc>
+</wpt>
+<wpt lat="-41.871076000" lon="172.125512000">
+  <ele>1155.000000</ele>
+  <name>356DDE</name>
+  <cmt>356 DEEP DALE RIDGE EAST</cmt>
+  <desc>356 DEEP DALE RIDGE EAST</desc>
+</wpt>
+<wpt lat="-41.858577000" lon="172.188597000">
+  <ele>863.000000</ele>
+  <name>354BRW</name>
+  <cmt>354 MOUNT BROWN</cmt>
+  <desc>354 MOUNT BROWN</desc>
+</wpt>
+<wpt lat="-41.894148000" lon="172.193213000">
+  <ele>1055.000000</ele>
+  <name>352MHA</name>
+  <cmt>352 OVERLOOKING MINEHAHA</cmt>
+  <desc>352 OVERLOOKING MINEHAHA</desc>
+</wpt>
+<wpt lat="-41.882097000" lon="172.218694000">
+  <ele>1043.000000</ele>
+  <name>350ALL</name>
+  <cmt>350 MOUNT ALLMAN</cmt>
+  <desc>350 MOUNT ALLMAN</desc>
+</wpt>
+<wpt lat="-41.672001000" lon="173.563110000">
+  <ele>785.000000</ele>
+  <name>300HOP</name>
+  <cmt>300 BENHOPAI</cmt>
+  <desc>300 BENHOPAI</desc>
+</wpt>
+<wpt lat="-42.520470000" lon="172.821854000">
+  <ele>375.000000</ele>
+  <name>290HAM</name>
+  <cmt>290 HANMER SPRNG</cmt>
+  <desc>290 HANMER SPRNG</desc>
+</wpt>
+<wpt lat="-42.362541000" lon="172.788208000">
+  <ele>895.000000</ele>
+  <name>288TSB</name>
+  <cmt>288 TIMMSTR BRDG</cmt>
+  <desc>288 TIMMSTR BRDG</desc>
+</wpt>
+<wpt lat="-42.214249000" lon="172.754257000">
+  <ele>1100.000000</ele>
+  <name>280TNY</name>
+  <cmt>280 LAK TENNY RD</cmt>
+  <desc>280 LAK TENNY RD</desc>
+</wpt>
+<wpt lat="-42.171379000" lon="172.847275000">
+  <ele>1860.000000</ele>
+  <name>270BAL</name>
+  <cmt>270 MT BALACLAVA</cmt>
+  <desc>270 MT BALACLAVA</desc>
+</wpt>
+<wpt lat="-42.064960000" lon="172.880768000">
+  <ele>1775.000000</ele>
+  <name>242TUK</name>
+  <cmt>242 TURK RDG SPR</cmt>
+  <desc>242 TURK RDG SPR</desc>
+</wpt>
+<wpt lat="-42.025101000" lon="172.899994000">
+  <ele>832.000000</ele>
+  <name>240HEL</name>
+  <cmt>240 HELLSGA BRDG</cmt>
+  <desc>240 HELLSGA BRDG</desc>
+</wpt>
+<wpt lat="-41.990021000" lon="172.890198000">
+  <ele>800.000000</ele>
+  <name>238HOM</name>
+  <cmt>238 OLD RAINB HM</cmt>
+  <desc>238 OLD RAINB HM</desc>
+</wpt>
+<wpt lat="-41.983742000" lon="172.918426000">
+  <ele>1820.000000</ele>
+  <name>236ELP</name>
+  <cmt>236 ELISE PEAK</cmt>
+  <desc>236 ELISE PEAK</desc>
+</wpt>
+<wpt lat="-41.969650000" lon="172.908096000">
+  <ele>1300.000000</ele>
+  <name>234ELI</name>
+  <cmt>234 ELISE SPUR</cmt>
+  <desc>234 ELISE SPUR</desc>
+</wpt>
+<wpt lat="-41.969990000" lon="172.893524000">
+  <ele>780.000000</ele>
+  <name>232IRI</name>
+  <cmt>232 IRISHMANS FL</cmt>
+  <desc>232 IRISHMANS FL</desc>
+</wpt>
+<wpt lat="-41.907940000" lon="172.918381000">
+  <ele>695.000000</ele>
+  <name>2306MF</name>
+  <cmt>230 SIX MIL FLAT</cmt>
+  <desc>230 SIX MIL FLAT</desc>
+</wpt>
+<wpt lat="-41.915619000" lon="172.894913000">
+  <ele>1220.000000</ele>
+  <name>228SXS</name>
+  <cmt>228 SIX MIL SPUR</cmt>
+  <desc>228 SIX MIL SPUR</desc>
+</wpt>
+<wpt lat="-41.870220000" lon="172.924515000">
+  <ele>640.000000</ele>
+  <name>226WOL</name>
+  <cmt>226 WOOLSHE FLAT</cmt>
+  <desc>226 WOOLSHE FLAT</desc>
+</wpt>
+<wpt lat="-41.876240000" lon="172.899033000">
+  <ele>1340.000000</ele>
+  <name>224WLS</name>
+  <cmt>224 WOOLSHE SPUR</cmt>
+  <desc>224 WOOLSHE SPUR</desc>
+</wpt>
+<wpt lat="-41.812698000" lon="172.999374000">
+  <ele>1835.000000</ele>
+  <name>223RG1</name>
+  <cmt>223 RAGL PT1836</cmt>
+  <desc>223 RAGL PT1836</desc>
+</wpt>
+<wpt lat="-41.815910000" lon="172.962799000">
+  <ele>1100.000000</ele>
+  <name>222BKB</name>
+  <cmt>222 RAGL BUSH KB</cmt>
+  <desc>222 RAGL BUSH KB</desc>
+</wpt>
+<wpt lat="-41.780670000" lon="173.000000000">
+  <ele>1158.000000</ele>
+  <name>220SJU</name>
+  <cmt>220 PT1158 SPURJ</cmt>
+  <desc>220 PT1158 SPURJ</desc>
+</wpt>
+<wpt lat="-41.757111000" lon="173.044540000">
+  <ele>1290.000000</ele>
+  <name>218POS</name>
+  <cmt>218 PT1286 POSSM</cmt>
+  <desc>218 PT1286 POSSM</desc>
+</wpt>
+<wpt lat="-41.533421000" lon="173.631729000">
+  <ele>110.000000</ele>
+  <name>216BEN</name>
+  <cmt>216 WRAU RD BEND</cmt>
+  <desc>216 WRAU RD BEND</desc>
+</wpt>
+<wpt lat="-41.560871000" lon="173.526901000">
+  <ele>160.000000</ele>
+  <name>214GLF</name>
+  <cmt>214 WVLY GLF CRS</cmt>
+  <desc>214 WVLY GLF CRS</desc>
+</wpt>
+<wpt lat="-41.628059000" lon="173.342224000">
+  <ele>265.000000</ele>
+  <name>212PAD</name>
+  <cmt>212 WIDE PADDOCK</cmt>
+  <desc>212 WIDE PADDOCK</desc>
+</wpt>
+<wpt lat="-41.664959000" lon="173.203751000">
+  <ele>350.000000</ele>
+  <name>210ARG</name>
+  <cmt>210 ARGYLE RDJNC</cmt>
+  <desc>210 ARGYLE RDJNC</desc>
+</wpt>
+<wpt lat="-41.717590000" lon="173.141129000">
+  <ele>1060.000000</ele>
+  <name>202BLN</name>
+  <cmt>202 BLOWH PT1059</cmt>
+  <desc>202 BLOWH PT1059</desc>
+</wpt>
+<wpt lat="-41.738548000" lon="173.116653000">
+  <ele>1390.000000</ele>
+  <name>201BTR</name>
+  <cmt>201 BLOWHA TRIG</cmt>
+  <desc>201 BLOWHA TRIG</desc>
+</wpt>
+<wpt lat="-41.751499000" lon="173.093887000">
+  <ele>1415.000000</ele>
+  <name>200BLT</name>
+  <cmt>200 BLOWHA TKOFF</cmt>
+  <desc>200 BLOWHA TKOFF</desc>
+</wpt>
+<wpt lat="-41.777486000" lon="172.561513000">
+  <ele>1079.000000</ele>
+  <name>188BRA</name>
+  <cmt>188 BRAEBURN PT</cmt>
+  <desc>188 BRAEBURN PT</desc>
+</wpt>
+<wpt lat="-41.749746000" lon="172.607152000">
+  <ele>991.000000</ele>
+  <name>187NWS</name>
+  <cmt>187 NEW CK SPUR</cmt>
+  <desc>187 NEW CK SPUR</desc>
+</wpt>
+<wpt lat="-41.722501000" lon="172.590858000">
+  <ele>869.000000</ele>
+  <name>186GOW</name>
+  <cmt>186 GOWAN KNOB</cmt>
+  <desc>186 GOWAN KNOB</desc>
+</wpt>
+<wpt lat="-41.730980000" lon="172.695373000">
+  <ele>440.000000</ele>
+  <name>184HVR</name>
+  <cmt>184 HOWARD VY RD</cmt>
+  <desc>184 HOWARD VY RD</desc>
+</wpt>
+<wpt lat="-41.769550000" lon="172.795532000">
+  <ele>565.000000</ele>
+  <name>182TEE</name>
+  <cmt>182 TEETOTL GOAL</cmt>
+  <desc>182 TEETOTL GOAL</desc>
+</wpt>
+<wpt lat="-41.784698000" lon="172.804016000">
+  <ele>580.000000</ele>
+  <name>180SAG</name>
+  <cmt>180 SPEARGRASS</cmt>
+  <desc>180 SPEARGRASS</desc>
+</wpt>
+<wpt lat="-41.797211000" lon="172.834976000">
+  <ele>750.000000</ele>
+  <name>178BLA</name>
+  <cmt>178 BLACK HILL</cmt>
+  <desc>178 BLACK HILL</desc>
+</wpt>
+<wpt lat="-41.800549000" lon="172.844894000">
+  <ele>635.000000</ele>
+  <name>176SHP</name>
+  <cmt>176 FLD BHD SHOP</cmt>
+  <desc>176 FLD BHD SHOP</desc>
+</wpt>
+<wpt lat="-41.875599000" lon="172.822067000">
+  <ele>615.000000</ele>
+  <name>174LAK</name>
+  <cmt>174 LAKEHEAD HUT</cmt>
+  <desc>174 LAKEHEAD HUT</desc>
+</wpt>
+<wpt lat="-41.870201000" lon="172.853989000">
+  <ele>1780.000000</ele>
+  <name>172SKI</name>
+  <cmt>172 SKIFLD KNOB</cmt>
+  <desc>172 SKIFLD KNOB</desc>
+</wpt>
+<wpt lat="-41.853600000" lon="172.868790000">
+  <ele>1780.000000</ele>
+  <name>170SA3</name>
+  <cmt>170 ARNAU PT1796</cmt>
+  <desc>170 ARNAU PT1796</desc>
+</wpt>
+<wpt lat="-41.825710000" lon="172.810699000">
+  <ele>1080.000000</ele>
+  <name>168ROB</name>
+  <cmt>168 ROBERT SPUR</cmt>
+  <desc>168 ROBERT SPUR</desc>
+</wpt>
+<wpt lat="-41.823139000" lon="172.880829000">
+  <ele>1460.000000</ele>
+  <name>166ROC</name>
+  <cmt>166 PCHUTE ROCKS</cmt>
+  <desc>166 PCHUTE ROCKS</desc>
+</wpt>
+<wpt lat="-41.717121000" lon="173.095139000">
+  <ele>420.000000</ele>
+  <name>164WAS</name>
+  <cmt>164 WASH BRIDGE</cmt>
+  <desc>164 WASH BRIDGE</desc>
+</wpt>
+<wpt lat="-41.790550000" lon="172.924622000">
+  <ele>1145.000000</ele>
+  <name>162SAT</name>
+  <cmt>162 ARNAUD TOE</cmt>
+  <desc>162 ARNAUD TOE</desc>
+</wpt>
+<wpt lat="-41.785080000" lon="172.893890000">
+  <ele>725.000000</ele>
+  <name>160TOP</name>
+  <cmt>160 TOPHOUSE CNR</cmt>
+  <desc>160 TOPHOUSE CNR</desc>
+</wpt>
+<wpt lat="-41.751961000" lon="172.907898000">
+  <ele>900.000000</ele>
+  <name>158BEE</name>
+  <cmt>158 BEEB STH SPR</cmt>
+  <desc>158 BEEB STH SPR</desc>
+</wpt>
+<wpt lat="-41.730049000" lon="172.926971000">
+  <ele>1390.000000</ele>
+  <name>156BBT</name>
+  <cmt>156 BEEBY TOWERS</cmt>
+  <desc>156 BEEBY TOWERS</desc>
+</wpt>
+<wpt lat="-41.685299000" lon="172.907089000">
+  <ele>894.000000</ele>
+  <name>154894</name>
+  <cmt>154 KIKIWA PT894</cmt>
+  <desc>154 KIKIWA PT894</desc>
+</wpt>
+<wpt lat="-41.664850000" lon="172.856279000">
+  <ele>619.000000</ele>
+  <name>153KWA</name>
+  <cmt>153 KIKIWA SPUR</cmt>
+  <desc>153 KIKIWA SPUR</desc>
+</wpt>
+<wpt lat="-41.639111000" lon="172.904404000">
+  <ele>734.000000</ele>
+  <name>152GLN</name>
+  <cmt>152 BLUGLEN SKID</cmt>
+  <desc>152 BLUGLEN SKID</desc>
+</wpt>
+<wpt lat="-41.580070000" lon="172.945023000">
+  <ele>1150.000000</ele>
+  <name>151INS</name>
+  <cmt>151 INWOODS STH</cmt>
+  <desc>151 INWOODS STH</desc>
+</wpt>
+<wpt lat="-41.572281000" lon="172.936813000">
+  <ele>1025.000000</ele>
+  <name>150INT</name>
+  <cmt>150 INWOODS TWR</cmt>
+  <desc>150 INWOODS TWR</desc>
+</wpt>
+<wpt lat="-41.546380000" lon="172.882300000">
+  <ele>285.000000</ele>
+  <name>143GLD</name>
+  <cmt>143 GOLDEN DOWNS</cmt>
+  <desc>143 GOLDEN DOWNS</desc>
+</wpt>
+<wpt lat="-41.543831000" lon="172.940933000">
+  <ele>800.000000</ele>
+  <name>142INN</name>
+  <cmt>142 INWOOD NTH P</cmt>
+  <desc>142 INWOOD NTH P</desc>
+</wpt>
+<wpt lat="-41.484558000" lon="172.982956000">
+  <ele>220.000000</ele>
+  <name>140V88</name>
+  <cmt>140 88 VALLEY</cmt>
+  <desc>140 88 VALLEY</desc>
+</wpt>
+<wpt lat="-41.367910000" lon="173.201870000">
+  <ele>511.000000</ele>
+  <name>128LKT</name>
+  <cmt>128 FIRE LOOKOUT</cmt>
+  <desc>128 FIRE LOOKOUT</desc>
+</wpt>
+<wpt lat="-41.360279000" lon="173.215408000">
+  <ele>420.000000</ele>
+  <name>126SPU</name>
+  <cmt>126 SPUR W TREES</cmt>
+  <desc>126 SPUR W TREES</desc>
+</wpt>
+<wpt lat="-41.330872000" lon="173.242187000">
+  <ele>120.000000</ele>
+  <name>124TNK</name>
+  <cmt>124 WATER TANK</cmt>
+  <desc>124 WATER TANK</desc>
+</wpt>
+<wpt lat="-41.330964000" lon="173.258495000">
+  <ele>226.000000</ele>
+  <name>122GKL</name>
+  <cmt>122 GECKO LOWER</cmt>
+  <desc>122 GECKO LOWER</desc>
+</wpt>
+<wpt lat="-41.339058000" lon="173.262170000">
+  <ele>575.000000</ele>
+  <name>120GCK</name>
+  <cmt>120 GECKO UPPER</cmt>
+  <desc>120 GECKO UPPER</desc>
+</wpt>
+<wpt lat="-41.327319000" lon="173.276157000">
+  <ele>590.000000</ele>
+  <name>118JEN</name>
+  <cmt>118 JENKINS SPUR</cmt>
+  <desc>118 JENKINS SPUR</desc>
+</wpt>
+<wpt lat="-41.318340000" lon="173.282745000">
+  <ele>420.000000</ele>
+  <name>116DTR</name>
+  <cmt>116 DEAD TREE RG</cmt>
+  <desc>116 DEAD TREE RG</desc>
+</wpt>
+<wpt lat="-41.317529000" lon="173.301014000">
+  <ele>570.000000</ele>
+  <name>114CUM</name>
+  <cmt>114 CUMMING SPUR</cmt>
+  <desc>114 CUMMING SPUR</desc>
+</wpt>
+<wpt lat="-41.313232000" lon="173.308823000">
+  <ele>680.000000</ele>
+  <name>112BUL</name>
+  <cmt>112 BULLOCK SPUR</cmt>
+  <desc>112 BULLOCK SPUR</desc>
+</wpt>
+<wpt lat="-41.310791000" lon="173.311020000">
+  <ele>700.000000</ele>
+  <name>110FRI</name>
+  <cmt>110 FRINGED HILL</cmt>
+  <desc>110 FRINGED HILL</desc>
+</wpt>
+<wpt lat="-41.328850000" lon="173.215424000">
+  <ele>10.000000</ele>
+  <name>108SAX</name>
+  <cmt>108 SAXTON FIELD</cmt>
+  <desc>108 SAXTON FIELD</desc>
+</wpt>
+<wpt lat="-41.308670000" lon="173.290787000">
+  <ele>90.000000</ele>
+  <name>106LFR</name>
+  <cmt>106 FRINGE LAND</cmt>
+  <desc>106 FRINGE LAND</desc>
+</wpt>
+<wpt lat="-41.332611000" lon="173.247391000">
+  <ele>125.000000</ele>
+  <name>104LBA</name>
+  <cmt>104 BARNCO BOMB</cmt>
+  <desc>104 BARNCO BOMB</desc>
+</wpt>
+<wpt lat="-41.322380000" lon="173.231949000">
+  <ele>30.000000</ele>
+  <name>102LOC</name>
+  <cmt>102 OCTPUSS PARK</cmt>
+  <desc>102 OCTPUSS PARK</desc>
+</wpt>
+<wpt lat="-41.341648000" lon="173.252151000">
+  <ele>600.000000</ele>
+  <name>100BAR</name>
+  <cmt>100 BARNCO TKOFF</cmt>
+  <desc>100 BARNCO TKOFF</desc>
+</wpt>
+<wpt lat="-41.273109000" lon="173.279037000">
+  <ele>15.000000</ele>
+  <name>050VER</name>
+  <cmt>050 VERTICAL LIM</cmt>
+  <desc>050 VERTICAL LIM</desc>
+</wpt>
+<wpt lat="-41.281417000" lon="173.248741000">
+  <ele>10.000000</ele>
+  <name>040SPF</name>
+  <cmt>040 SPRIG N FERN</cmt>
+  <desc>040 SPRIG N FERN</desc>
+</wpt>
+</gpx>

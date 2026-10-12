@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VTasker</title>
+    <!-- Relative paths so these resolve under the /vtasker/ base in production
+         and at the root in dev, without needing rewriting. -->
+    <link rel="icon" type="image/svg+xml" href="favicon.svg">
+    <link rel="alternate icon" type="image/png" href="logo-120.png">
+    <link rel="apple-touch-icon" href="logo-120.png">
+    <meta name="theme-color" content="#1D4ED8">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      // Tailwind's smallest default breakpoint is 640px, which is already a large
+      // phone. `xs` gives us a step for narrow handsets, where button labels have
+      // to shorten to fit.
+      tailwind.config = { theme: { extend: { screens: { xs: '400px' } } } };
+    </script>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
+    <style>
+        body, html, #root { height: 100%; margin: 0; padding: 0; overflow: hidden; }
+        .leaflet-container { height: 100%; width: 100%; background: #f8fafc; }
+        
+        /* Clear the floating panel-toggle buttons that sit at the top corners of
+           the map. Those buttons occupy y 16-60, so 72px puts Leaflet's own
+           controls just below them. Everything custom lives on the right, so
+           nothing else needs to be allowed for here. */
+        .leaflet-top.leaflet-left, .leaflet-top.leaflet-right {
+            margin-top: 72px;
+        }
+
+        /* Custom scrollbar for better aesthetics */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #f1f1f1; }
+        ::-webkit-scrollbar-thumb { background: #888; border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
+        
+        .task-label-icon {
+            background: #4f46e5;
+            color: white;
+            border-radius: 50%;
+            border: 2px solid white;
+            font-weight: bold;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+
+        /* Styling for permanent tooltips */
+        .leaflet-tooltip-own {
+            background: rgba(255, 255, 255, 0.9);
+            border: 1px solid #4f46e5;
+            border-radius: 4px;
+            padding: 2px 6px;
+            font-weight: 800;
+            font-size: 10px;
+            color: #1e1b4b;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+        }
+        .leaflet-tooltip-left:before, .leaflet-tooltip-right:before {
+            display: none;
+        }
+
+        /* Launch sites: teal to match their marker, and distinct from the
+           indigo waypoint labels so the two don't read as the same thing. */
+        .leaflet-tooltip-launch {
+            background: rgba(255, 255, 255, 0.92);
+            border: 1px solid #0d9488;
+            border-radius: 4px;
+            padding: 1px 5px;
+            font-weight: 700;
+            font-size: 10px;
+            color: #0f766e;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+            white-space: nowrap;
+        }
+        .leaflet-tooltip-launch.leaflet-tooltip-top:before {
+            border-top-color: #0d9488;
+        }
+
+        /* Skyways/thermals are images from thermal.kk7.ch, not lines we draw,
+           so "thicker" means working on the picture. Each shadow is a
+           hard-edged copy of the tile offset by --kk7-r, so stacking them grows
+           every track outwards. Blur was the obvious thing to reach for and is
+           the wrong tool: it spreads the same ink thinner, so lines fade as
+           they widen instead of fattening. The tile still draws on top, so the
+           middle of each track keeps its own colours. */
+        .kk7-tune .kk7-skyways,
+        .kk7-tune .kk7-thermals {
+            opacity: var(--kk7-op, 0.6) !important;
+        }
+        .kk7-boost .kk7-skyways,
+        .kk7-boost .kk7-thermals {
+            filter:
+                drop-shadow(var(--kk7-r, 0) 0 0 var(--kk7-c))
+                drop-shadow(var(--kk7-nr, 0) 0 0 var(--kk7-c))
+                drop-shadow(0 var(--kk7-r, 0) 0 var(--kk7-c))
+                drop-shadow(0 var(--kk7-nr, 0) 0 var(--kk7-c));
+        }
+        /* The diagonals round off the cross shape, but double the work the
+           browser does, so they only come in once the lines are thick enough
+           for the shape to show. */
+        .kk7-boost-round .kk7-skyways,
+        .kk7-boost-round .kk7-thermals {
+            filter:
+                drop-shadow(var(--kk7-r, 0) 0 0 var(--kk7-c))
+                drop-shadow(var(--kk7-nr, 0) 0 0 var(--kk7-c))
+                drop-shadow(0 var(--kk7-r, 0) 0 var(--kk7-c))
+                drop-shadow(0 var(--kk7-nr, 0) 0 var(--kk7-c))
+                drop-shadow(var(--kk7-d, 0) var(--kk7-d, 0) 0 var(--kk7-c))
+                drop-shadow(var(--kk7-nd, 0) var(--kk7-d, 0) 0 var(--kk7-c))
+                drop-shadow(var(--kk7-d, 0) var(--kk7-nd, 0) 0 var(--kk7-c))
+                drop-shadow(var(--kk7-nd, 0) var(--kk7-nd, 0) 0 var(--kk7-c));
+        }
+        /* While the map is being dragged or zoomed the browser would redo the
+           whole filter every frame, which is what made a thick setting drag
+           like treacle. The tracks go back to their normal weight for the
+           moment the map is moving and thicken again as soon as it settles. */
+        .kk7-moving .kk7-skyways,
+        .kk7-moving .kk7-thermals {
+            filter: none !important;
+        }
+        /* Each layer thickens in its own colour. */
+        .kk7-skyways  { --kk7-c: rgba(37, 99, 235, 0.95); }
+        .kk7-thermals { --kk7-c: rgba(194, 65, 12, 0.95); }
+
+        /* The sliders, at the bottom of Leaflet's own layer menu. */
+        .kk7-control-slider:empty {
+            display: none;
+        }
+        .kk7-control-slider {
+            border-top: 1px solid #ddd;
+            margin-top: 6px;
+            padding-top: 6px;
+            width: 150px;
+        }
+        .kk7-slider {
+            accent-color: #4f46e5;
+            height: 4px;
+            width: 100%;
+        }
+    </style>
+<script type="importmap">
+{
+  "imports": {
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "@heroicons/react/": "https://esm.sh/@heroicons/react@^2.2.0/",
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react": "https://esm.sh/react@^19.2.3",
+    "leaflet": "https://esm.sh/leaflet@^1.9.4",
+    "react-leaflet": "https://esm.sh/react-leaflet@^5.0.0",
+    "qrcode.react": "https://esm.sh/qrcode.react@^4.1.0",
+    "path": "https://esm.sh/path@^0.12.7",
+    "vite": "https://esm.sh/vite@^7.3.1",
+    "@vitejs/plugin-react": "https://esm.sh/@vitejs/plugin-react@^5.1.4"
+  }
+}
+</script>
+</head>
+<body class="bg-gray-50">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+</body>
+</html>

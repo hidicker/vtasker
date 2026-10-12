@@ -1,0 +1,17 @@
+---
+# cPanel Git Version Control deployment.
+#
+# cPanel runs these tasks when you press "Deploy HEAD Commit" (or on push, if the
+# repository has the deployment hook enabled). It only copies files that are
+# committed to the repository — it cannot run `npm run build`, because shared
+# hosting has no dependable Node toolchain. So dist/ must be committed for this
+# to work; see the note in SETUP.md.
+#
+# Replace CPANELUSER below with your actual cPanel account name. You can see it
+# in cPanel's right-hand sidebar, or in the home directory path shown on the
+# Git Version Control page (e.g. /home/CPANELUSER/repositories/...).
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/CPANELUSER/public_html/vtasker/
+    - /bin/mkdir -p $DEPLOYPATH
+    - /bin/cp -R dist/. $DEPLOYPATH

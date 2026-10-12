@@ -1,0 +1,48 @@
+VTasker -- paragliding and hang-gliding task planning
+Copyright (C) 2026 hidicker
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU Affero General Public License as published by the Free
+Software Foundation, either version 3 of the License, or (at your option) any
+later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License, in the
+file LICENSE, for more details.
+
+
+THIRD-PARTY DATA IN THIS REPOSITORY
+
+The licence above covers VTasker's source code. The data files below are not
+VTasker's work and VTasker does not relicense them. Each keeps the terms of
+whoever published it.
+
+lib/launchSites.json
+    Launch site names and locations: a snapshot of ParaglidingEarth
+    (https://paraglidingearth.com), Creative Commons Attribution-ShareAlike
+    3.0. Reuse of this file carries the same ShareAlike condition.
+
+lib/airspace/*.json
+    Airspace: a snapshot of openAIP (https://www.openaip.net), Creative
+    Commons Attribution-NonCommercial 4.0. Not for commercial use. Advisory
+    only: it is not certified and must not be used for navigation or flight
+    planning. Check the official AIP.
+
+data/
+    Competition and regional waypoint sets, published by the clubs and
+    organisers who made them. They are included so the waypoint library works
+    out of the box. VTasker does not own them and does not relicense them. If
+    you published a set that is included here and want it removed, contact the
+    maintainer.
+
+
+SERVICES USED AT RUN TIME (not part of this repository)
+
+Map tiles from OpenStreetMap, OpenTopoMap and Esri; the skyways and thermals
+overlays from thermal.kk7.ch; task sharing through tools.xcontest.org; and a
+Supabase project for accounts and shared tasks. Each has its own terms.
+
+If you run your own copy, use your own Supabase project, and change the `src=`
+parameter on the thermal.kk7.ch tile addresses (components/MapComponent.tsx) to
+identify your own site.

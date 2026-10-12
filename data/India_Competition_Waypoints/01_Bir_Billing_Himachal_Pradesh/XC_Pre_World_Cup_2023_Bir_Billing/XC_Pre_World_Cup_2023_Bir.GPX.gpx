@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2023-10-26T23:04:29Z</time>
+<bounds minlat="31.738666700" minlon="76.227000000" maxlat="32.321833300" maxlon="76.967000000"/>
+<wpt lat="32.056500000" lon="76.743333300">
+  <ele>2350.000000</ele>
+  <name>D01</name>
+  <cmt>Biling</cmt>
+  <desc>Biling</desc>
+</wpt>
+<wpt lat="31.988333300" lon="76.659000000">
+  <ele>830.000000</ele>
+  <name>B48</name>
+  <cmt>Nagehr Gabli</cmt>
+  <desc>Nagehr Gabli</desc>
+</wpt>
+<wpt lat="32.051333300" lon="76.644333300">
+  <ele>990.000000</ele>
+  <name>B47</name>
+  <cmt>baijnathish</cmt>
+  <desc>baijnathish</desc>
+</wpt>
+<wpt lat="32.108500000" lon="76.529666700">
+  <ele>1230.000000</ele>
+  <name>B46</name>
+  <cmt>Palampur</cmt>
+  <desc>Palampur</desc>
+</wpt>
+<wpt lat="32.037666700" lon="76.569833400">
+  <ele>990.000000</ele>
+  <name>B45</name>
+  <cmt>Andreta</cmt>
+  <desc>Andreta</desc>
+</wpt>
+<wpt lat="31.738666700" lon="76.967000000">
+  <ele>1750.000000</ele>
+  <name>B44</name>
+  <cmt>mandi top</cmt>
+  <desc>mandi top</desc>
+</wpt>
+<wpt lat="31.825166700" lon="76.957166700">
+  <ele>1670.000000</ele>
+  <name>B43</name>
+  <cmt>drang</cmt>
+  <desc>drang</desc>
+</wpt>
+<wpt lat="31.882000000" lon="76.937166700">
+  <ele>1910.000000</ele>
+  <name>B42</name>
+  <cmt>dyna park</cmt>
+  <desc>dyna park</desc>
+</wpt>
+<wpt lat="31.914833300" lon="76.906333300">
+  <ele>2090.000000</ele>
+  <name>B41</name>
+  <cmt>twin peaks</cmt>
+  <desc>twin peaks</desc>
+</wpt>
+<wpt lat="31.949166600" lon="76.882166600">
+  <ele>2050.000000</ele>
+  <name>B40</name>
+  <cmt>barot pass</cmt>
+  <desc>barot pass</desc>
+</wpt>
+<wpt lat="31.973833300" lon="76.813166600">
+  <ele>1520.000000</ele>
+  <name>B39</name>
+  <cmt>jnagar out</cmt>
+  <desc>jnagar out</desc>
+</wpt>
+<wpt lat="31.976166700" lon="76.867500000">
+  <ele>2260.000000</ele>
+  <name>B38</name>
+  <cmt>xaviers 360</cmt>
+  <desc>xaviers 360</desc>
+</wpt>
+<wpt lat="31.986833300" lon="76.858000000">
+  <ele>2340.000000</ele>
+  <name>B37</name>
+  <cmt>pond</cmt>
+  <desc>pond</desc>
+</wpt>
+<wpt lat="31.995166700" lon="76.847833400">
+  <ele>2320.000000</ele>
+  <name>B36</name>
+  <cmt>mandi ridge 1</cmt>
+  <desc>mandi ridge 1</desc>
+</wpt>
+<wpt lat="31.988500000" lon="76.812166700">
+  <ele>1320.000000</ele>
+  <name>B35</name>
+  <cmt>cricket pitch</cmt>
+  <desc>cricket pitch</desc>
+</wpt>
+<wpt lat="32.013000000" lon="76.825500000">
+  <ele>2420.000000</ele>
+  <name>B34</name>
+  <cmt>jnagar train station</cmt>
+  <desc>jnagar train station</desc>
+</wpt>
+<wpt lat="32.021166700" lon="76.799833300">
+  <ele>2070.000000</ele>
+  <name>B33</name>
+  <cmt>3rd spur east</cmt>
+  <desc>3rd spur east</desc>
+</wpt>
+<wpt lat="31.999333300" lon="76.768166600">
+  <ele>1080.000000</ele>
+  <name>B32</name>
+  <cmt>Dohag</cmt>
+  <desc>Dohag</desc>
+</wpt>
+<wpt lat="32.037166600" lon="76.790833300">
+  <ele>2450.000000</ele>
+  <name>B31</name>
+  <cmt>2nd spur east</cmt>
+  <desc>2nd spur east</desc>
+</wpt>
+<wpt lat="32.037833300" lon="76.765500000">
+  <ele>2240.000000</ele>
+  <name>B30</name>
+  <cmt>1st spur east</cmt>
+  <desc>1st spur east</desc>
+</wpt>
+<wpt lat="32.006833400" lon="76.740333400">
+  <ele>1210.000000</ele>
+  <name>B29</name>
+  <cmt>chauntra monastery</cmt>
+  <desc>chauntra monastery</desc>
+</wpt>
+<wpt lat="31.985000000" lon="76.719166700">
+  <ele>1480.000000</ele>
+  <name>B28</name>
+  <cmt>mangroli takeoff</cmt>
+  <desc>mangroli takeoff</desc>
+</wpt>
+<wpt lat="32.019833400" lon="76.692833400">
+  <ele>1450.000000</ele>
+  <name>B27</name>
+  <cmt>antenna</cmt>
+  <desc>antenna</desc>
+</wpt>
+<wpt lat="32.197833300" lon="76.326000000">
+  <ele>1160.000000</ele>
+  <name>B26</name>
+  <cmt>DH cricket stadium</cmt>
+  <desc>DH cricket stadium</desc>
+</wpt>
+<wpt lat="32.321833300" lon="76.227000000">
+  <ele>2950.000000</ele>
+  <name>B25</name>
+  <cmt>past dharamsala 2</cmt>
+  <desc>past dharamsala 2</desc>
+</wpt>
+<wpt lat="32.293833300" lon="76.277333400">
+  <ele>2610.000000</ele>
+  <name>B24</name>
+  <cmt>past Dharamsala 1</cmt>
+  <desc>past Dharamsala 1</desc>
+</wpt>
+<wpt lat="32.251333300" lon="76.316666700">
+  <ele>2170.000000</ele>
+  <name>B23</name>
+  <cmt>Dharamsala</cmt>
+  <desc>Dharamsala</desc>
+</wpt>
+<wpt lat="32.259000000" lon="76.355333300">
+  <ele>2780.000000</ele>
+  <name>B22</name>
+  <cmt>triund</cmt>
+  <desc>triund</desc>
+</wpt>
+<wpt lat="32.238500000" lon="76.383333300">
+  <ele>2700.000000</ele>
+  <name>B21</name>
+  <cmt>last ridge</cmt>
+  <desc>last ridge</desc>
+</wpt>
+<wpt lat="32.205833300" lon="76.403166700">
+  <ele>2130.000000</ele>
+  <name>B20</name>
+  <cmt>stone quarry</cmt>
+  <desc>stone quarry</desc>
+</wpt>
+<wpt lat="32.192333300" lon="76.450666700">
+  <ele>2780.000000</ele>
+  <name>B19</name>
+  <cmt>chamunda devi temple</cmt>
+  <desc>chamunda devi temple</desc>
+</wpt>
+<wpt lat="32.141500000" lon="76.459000000">
+  <ele>1320.000000</ele>
+  <name>B18</name>
+  <cmt>gopalpur</cmt>
+  <desc>gopalpur</desc>
+</wpt>
+<wpt lat="32.172833400" lon="76.489833300">
+  <ele>2400.000000</ele>
+  <name>B17</name>
+  <cmt>hobbiton</cmt>
+  <desc>hobbiton</desc>
+</wpt>
+<wpt lat="32.174333300" lon="76.530000000">
+  <ele>2660.000000</ele>
+  <name>B16</name>
+  <cmt>sheperd camp</cmt>
+  <desc>sheperd camp</desc>
+</wpt>
+<wpt lat="32.138833300" lon="76.508833300">
+  <ele>1720.000000</ele>
+  <name>B15</name>
+  <cmt>palampur hill</cmt>
+  <desc>palampur hill</desc>
+</wpt>
+<wpt lat="32.146833400" lon="76.563333300">
+  <ele>2240.000000</ele>
+  <name>B14</name>
+  <cmt>palampur ridge</cmt>
+  <desc>palampur ridge</desc>
+</wpt>
+<wpt lat="32.132000000" lon="76.592833300">
+  <ele>2160.000000</ele>
+  <name>B13</name>
+  <cmt>small temple</cmt>
+  <desc>small temple</desc>
+</wpt>
+<wpt lat="32.089166700" lon="76.628333400">
+  <ele>1510.000000</ele>
+  <name>B12</name>
+  <cmt>tashijong ridge</cmt>
+  <desc>tashijong ridge</desc>
+</wpt>
+<wpt lat="32.144833400" lon="76.626166600">
+  <ele>3190.000000</ele>
+  <name>B11</name>
+  <cmt>top of big face</cmt>
+  <desc>top of big face</desc>
+</wpt>
+<wpt lat="32.120166700" lon="76.636500000">
+  <ele>2070.000000</ele>
+  <name>B10</name>
+  <cmt>big face centre</cmt>
+  <desc>big face centre</desc>
+</wpt>
+<wpt lat="32.184166700" lon="76.652000000">
+  <ele>4140.000000</ele>
+  <name>B09</name>
+  <cmt>mills peak</cmt>
+  <desc>mills peak</desc>
+</wpt>
+<wpt lat="32.112166600" lon="76.660166700">
+  <ele>1680.000000</ele>
+  <name>B08</name>
+  <cmt>dam ridge</cmt>
+  <desc>dam ridge</desc>
+</wpt>
+<wpt lat="32.144833400" lon="76.714500000">
+  <ele>3470.000000</ele>
+  <name>B07</name>
+  <cmt>waldo peak</cmt>
+  <desc>waldo peak</desc>
+</wpt>
+<wpt lat="32.103833400" lon="76.717500000">
+  <ele>2620.000000</ele>
+  <name>B06</name>
+  <cmt>Thatwal Thati</cmt>
+  <desc>Thatwal Thati</desc>
+</wpt>
+<wpt lat="32.093833300" lon="76.704333300">
+  <ele>2290.000000</ele>
+  <name>B05</name>
+  <cmt>golf course</cmt>
+  <desc>golf course</desc>
+</wpt>
+<wpt lat="32.086000000" lon="76.698666700">
+  <ele>2100.000000</ele>
+  <name>B04</name>
+  <cmt>red roof temple</cmt>
+  <desc>red roof temple</desc>
+</wpt>
+<wpt lat="32.065833300" lon="76.697000000">
+  <ele>1360.000000</ele>
+  <name>B03</name>
+  <cmt>sansal</cmt>
+  <desc>sansal</desc>
+</wpt>
+<wpt lat="32.065166600" lon="76.726833300">
+  <ele>2180.000000</ele>
+  <name>B02</name>
+  <cmt>first rige</cmt>
+  <desc>first rige</desc>
+</wpt>
+<wpt lat="32.065166600" lon="76.753333400">
+  <ele>2660.000000</ele>
+  <name>B01</name>
+  <cmt>billing upper ridge</cmt>
+  <desc>billing upper ridge</desc>
+</wpt>
+<wpt lat="32.204000000" lon="76.324000000">
+  <ele>1220.000000</ele>
+  <name>A03</name>
+  <cmt>goal dharamsala</cmt>
+  <desc>goal dharamsala</desc>
+</wpt>
+<wpt lat="32.101666600" lon="76.548000000">
+  <ele>1280.000000</ele>
+  <name>A02</name>
+  <cmt>goal palampur</cmt>
+  <desc>goal palampur</desc>
+</wpt>
+<wpt lat="32.040333300" lon="76.709333300">
+  <ele>1400.000000</ele>
+  <name>A01</name>
+  <cmt>Desc 45</cmt>
+  <desc>Desc 45</desc>
+</wpt>
+</gpx>
