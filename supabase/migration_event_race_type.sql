@@ -37,3 +37,6 @@ select
 from events e
 join tasks t on t.id = e.task_id
 left join profiles p on p.id = e.organizer_id;
+
+-- Recreating a view drops its grants; Supabase stops re-adding them on 30 Oct 2026.
+grant select on events_with_details to anon, authenticated, service_role;

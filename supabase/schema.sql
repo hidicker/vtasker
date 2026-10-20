@@ -624,3 +624,29 @@ select pr.user_id,
 from pilot_ratings pr
 join profiles p on p.id = pr.user_id
 order by pr.rating desc;
+
+-- ---------------------------------------------------------------------------
+-- Data API grants
+-- ---------------------------------------------------------------------------
+-- From 30 Oct 2026 Supabase no longer grants API access to new tables and views
+-- in "public" automatically, so without these a fresh project (or any view this
+-- file drops and recreates, like events_with_details) answers "permission
+-- denied". They match what Supabase used to grant; row level security above
+-- still decides which rows anybody sees or changes. Views are read-only.
+
+grant select
+  on profiles, tasks, task_votes, events, competitions, event_participants,
+     start_time_proposals, start_time_votes, flight_results, pilot_ratings,
+     elo_history
+  to anon;
+
+grant select, insert, update, delete
+  on profiles, tasks, task_votes, events, competitions, event_participants,
+     start_time_proposals, start_time_votes, flight_results, pilot_ratings,
+     elo_history
+  to authenticated, service_role;
+
+grant select
+  on tasks_with_votes, events_with_details, event_participants_with_names,
+     flight_results_with_names, leaderboard
+  to anon, authenticated, service_role;

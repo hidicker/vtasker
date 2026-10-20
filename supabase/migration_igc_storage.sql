@@ -59,3 +59,6 @@ select fr.id, fr.event_id, fr.user_id, fr.igc_filename, fr.igc_path,
        fr.total_points, fr.created_at, pr.display_name
 from flight_results fr
 join profiles pr on pr.id = fr.user_id;
+
+-- Recreating a view drops its grants; Supabase stops re-adding them on 30 Oct 2026.
+grant select on flight_results_with_names to anon, authenticated, service_role;

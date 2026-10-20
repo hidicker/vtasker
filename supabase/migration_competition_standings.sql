@@ -45,3 +45,6 @@ join events e   on e.id = fr.event_id
 join tasks t    on t.id = e.task_id
 left join profiles pr on pr.id = fr.user_id
 where e.competition_id is not null;
+
+-- Supabase stops granting API access to new views automatically on 30 Oct 2026.
+grant select on competition_results to anon, authenticated, service_role;

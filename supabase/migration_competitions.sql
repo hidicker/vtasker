@@ -58,3 +58,9 @@ from events e
 join tasks t on t.id = e.task_id
 left join profiles p on p.id = e.organizer_id
 left join competitions c on c.id = e.competition_id;
+
+-- Supabase stops granting API access to new tables and views automatically on
+-- 30 Oct 2026; row level security above still decides which rows.
+grant select on competitions to anon;
+grant select, insert, update, delete on competitions to authenticated, service_role;
+grant select on events_with_details to anon, authenticated, service_role;
