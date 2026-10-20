@@ -90,15 +90,6 @@ create policy "owners can update their own tasks"
   on tasks for update
   using (owner_id = auth.uid());
 
--- Owners can delete a task until it has been scheduled (see migration_deletes.sql).
-drop policy if exists "owners can delete unscheduled tasks" on tasks;
-create policy "owners can delete unscheduled tasks"
-  on tasks for delete
-  using (
-    auth.uid() = owner_id
-    and not exists (select 1 from events e where e.task_id = tasks.id)
-  );
-
 create table if not exists task_votes (
   task_id    uuid not null references tasks(id) on delete cascade,
   user_id    uuid not null references profiles(id),
@@ -219,7 +210,27 @@ create policy "organizers can update event status"
   -- table owner and bypasses this policy. This policy exists so an organizer can
   -- still flip `status` (e.g. cancel/complete) directly.
 
+create table if not exists event_participants (
+  event_id     uuid not null references events(id) on delete cascade,
+  user_id      uuid not null references profiles(id),
+  confirmed_at timestamptz not null default now(),
+  primary key (event_id, user_id)
+);
+
+alter table event_participants enable row level security;
+
+-- Owners can delete a task until it has been scheduled (see migration_deletes.sql).
+-- Kept below the events table it looks up, so a fresh project can run this file.
+drop policy if exists "owners can delete unscheduled tasks" on tasks;
+create policy "owners can delete unscheduled tasks"
+  on tasks for delete
+  using (
+    auth.uid() = owner_id
+    and not exists (select 1 from events e where e.task_id = tasks.id)
+  );
+
 -- Organizers can delete a fly day until another pilot joins (see migration_deletes.sql).
+-- Kept below the event_participants table it looks up, for the same reason.
 drop policy if exists "organizers can delete unjoined events" on events;
 create policy "organizers can delete unjoined events"
   on events for delete
@@ -230,15 +241,6 @@ create policy "organizers can delete unjoined events"
       where ep.event_id = events.id and ep.user_id <> events.organizer_id
     )
   );
-
-create table if not exists event_participants (
-  event_id     uuid not null references events(id) on delete cascade,
-  user_id      uuid not null references profiles(id),
-  confirmed_at timestamptz not null default now(),
-  primary key (event_id, user_id)
-);
-
-alter table event_participants enable row level security;
 
 drop policy if exists "participation is publicly readable" on event_participants;
 create policy "participation is publicly readable"
@@ -624,3 +626,29 @@ select pr.user_id,
 from pilot_ratings pr
 join profiles p on p.id = pr.user_id
 order by pr.rating desc;
+
+-- ---------------------------------------------------------------------------
+-- Data API grants
+-- ---------------------------------------------------------------------------
+-- From 30 Oct 2026 Supabase no longer grants API access to new tables and views
+-- in "public" automatically, so without these a fresh project (or any view this
+-- file drops and recreates, like events_with_details) answers "permission
+-- denied". They match what Supabase used to grant; row level security above
+-- still decides which rows anybody sees or changes. Views are read-only.
+
+grant select
+  on profiles, tasks, task_votes, events, competitions, event_participants,
+     start_time_proposals, start_time_votes, flight_results, pilot_ratings,
+     elo_history
+  to anon;
+
+grant select, insert, update, delete
+  on profiles, tasks, task_votes, events, competitions, event_participants,
+     start_time_proposals, start_time_votes, flight_results, pilot_ratings,
+     elo_history
+  to authenticated, service_role;
+
+grant select
+  on tasks_with_votes, events_with_details, event_participants_with_names,
+     flight_results_with_names, leaderboard
+  to anon, authenticated, service_role;
